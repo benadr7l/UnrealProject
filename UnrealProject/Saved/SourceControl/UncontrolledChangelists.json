@@ -17,7 +17,9 @@
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/StaticMeshes/Voxel_mat8.uasset",
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/StaticMeshes/medkit.uasset",
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1J/GPUNOIZNOI9IGK9ODEY74J.uasset",
-				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_HealthCollect.uasset"
+				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_HealthCollect.uasset",
+				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset"
 			]
 		}
 	]

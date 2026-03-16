@@ -1967,3 +1967,143 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.16-13.41.35:810][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1760.928223
 [2026.03.16-13.41.36:809][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.16-13.41.36:809][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1761.595093, Update Interval: 326.016418
+[2026.03.16-13.47.12:345][878]LogSlate: Window 'Create GameMode Blueprint' being destroyed
+[2026.03.16-13.47.12:366][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode/BP_PlayMode.BP_PlayMode
+[2026.03.16-13.47.12:367][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.16-13.47.13:245][881]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.03.16-13.47.15:948][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.16-13.47.15:950][ 14]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.065
+[2026.03.16-13.47.15:955][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.16-13.47.15:955][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.16-13.47.15:957][ 14]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameMode/BP_PlayMode_Auto3
+[2026.03.16-13.47.15:957][ 14]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode_Auto3058E86194F1EB3A11A4FDD94430386AA.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/Autosaves/Game/GameMode/BP_PlayMode_Auto3.uasset'
+[2026.03.16-13.47.15:957][ 14]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.03.16-13.47.55:004][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2140.119385
+[2026.03.16-13.47.56:003][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-13.47.56:003][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2140.786133, Update Interval: 351.814941
+[2026.03.16-13.51.15:142][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.16-13.51.20:541][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.16-13.51.20:546][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-13.51.20:670][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.16-13.51.20:677][824]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2026.03.16-13.51.20:677][824]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/FirstPersonMapB48FC5B64AA458B330DED1B688BFD3B4.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2026.03.16-13.51.20:682][824]LogFileHelpers: All files are already saved.
+[2026.03.16-13.51.20:683][824]LogFileHelpers: Saving map 'FirstPersonMap' took 0.046
+[2026.03.16-13.51.20:684][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.16-13.51.20:684][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.16-13.51.20:684][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.16-13.51.20:689][824]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.16-13.51.20:689][824]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayModeA1E698304702CB68C2AE6AB9241F94AF.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.16-13.51.20:703][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.828 ms (total: 1.22 sec)
+[2026.03.16-13.51.20:754][824]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.16-13.51.20:754][824]LogContentValidation: Enabled validators:
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-13.51.20:754][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-13.51.20:754][824]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.03.16-13.51.20:755][824]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.16-13.52.03:237][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.16-13.52.38:233][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.16-13.52.38:234][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.16-13.54.19:023][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2524.118896
+[2026.03.16-13.54.19:190][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-13.54.19:190][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2524.270264, Update Interval: 342.018494
+[2026.03.16-13.54.26:646][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.16-13.54.57:736][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.16-13.55.59:625][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.16-13.56.05:057][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.16-13.56.05:062][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-13.56.05:096][439]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.16-13.56.05:204][439]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.16-13.56.05:204][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.16-13.56.05:214][439]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.16-13.56.05:215][439]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter27E8BF3F4EA8C5F0D17C28A68C1E83A5.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.16-13.56.05:216][439]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.16-13.56.05:216][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.16-13.56.05:216][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.16-13.56.05:222][439]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.16-13.56.05:222][439]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode965ABD6548D6F9B0777FDB9DFBF653BE.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.16-13.56.05:232][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.496 ms (total: 1.39 sec)
+[2026.03.16-13.56.05:275][439]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.16-13.56.05:276][439]LogContentValidation: Enabled validators:
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-13.56.05:276][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-13.56.05:276][439]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.16-13.56.05:276][439]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.16-13.59.40:016][915]LogBlueprint: Error: [AssetLog] C:\MobileGamesProject\UnrealProject\UnrealProject\Content\GameMode\BP_PlayMode.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BP_FirstPersonCharacter  to imply a specific type.
+[2026.03.16-13.59.40:016][915]LogBlueprint: Error: [AssetLog] C:\MobileGamesProject\UnrealProject\UnrealProject\Content\GameMode\BP_PlayMode.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.03.16-13.59.40:018][915]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.16-13.59.40:055][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.16-13.59.47:918][328]LogBlueprint: Warning: [AssetLog] C:\MobileGamesProject\UnrealProject\UnrealProject\Content\GameMode\BP_PlayMode.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Player Controller' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2026.03.16-13.59.47:960][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.16-14.00.46:162][601]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2911.250244
+[2026.03.16-14.00.46:328][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.16-14.00.46:328][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2911.399170, Update Interval: 345.003204
+[2026.03.16-14.00.46:684][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.03.16-14.00.54:842][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.16-14.00.54:848][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-14.00.54:949][109]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.16-14.00.54:949][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.16-14.00.54:949][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.16-14.00.54:959][109]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.16-14.00.54:960][109]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode2D4CD6714365F3B4902CD69B665E4343.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.16-14.00.54:972][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.927 ms (total: 1.51 sec)
+[2026.03.16-14.00.55:025][109]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.16-14.00.55:025][109]LogContentValidation: Enabled validators:
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-14.00.55:025][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-14.00.55:025][109]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.16-14.01.57:444][410]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.16-14.01.57:462][410]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.16-14.01.57:496][410]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-14.01.57:496][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-14.01.57:536][410]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.16-14.01.57:536][410]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-14.01.57:536][410]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-14.01.57:592][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.16-14.02.07:001][927]Cmd: EDIT CUT
+[2026.03.16-14.02.07:004][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.16-14.02.07:020][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.16-14.02.07:023][927]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.03.16-14.02.14:324][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collectables/Blueprints/BP_HealthCollect.BP_HealthCollect
+[2026.03.16-14.02.14:325][349]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.16-14.03.27:255][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.16-14.03.27:258][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2026.03.16-14.03.27:259][412]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/BP_HealthCollect] ([2] browsable assets)...
+[2026.03.16-14.03.27:486][412]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/BP_HealthCollect.BP_HealthCollect]
+[2026.03.16-14.03.27:487][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/BP_HealthCollect]
+[2026.03.16-14.03.27:492][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectables/Blueprints/BP_HealthCollect_Auto4
+[2026.03.16-14.03.27:492][412]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_HealthCollect_Auto4B6C3DD6E4CE1BA0B12C9C3885D5DF459.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/Autosaves/Game/Collectables/Blueprints/BP_HealthCollect_Auto4.uasset'
+[2026.03.16-14.03.27:494][412]LogFileHelpers: Auto-saving content packages took 0.236
+[2026.03.16-14.04.50:108][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.16-14.04.52:327][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.16-14.04.52:333][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-14.04.52:413][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.16-14.04.52:433][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.16-14.04.52:449][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.16-14.04.52:451][831]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/BP_HealthCollect] ([2] browsable assets)...
+[2026.03.16-14.04.52:493][831]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/BP_HealthCollect.BP_HealthCollect]
+[2026.03.16-14.04.52:493][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/BP_HealthCollect]
+[2026.03.16-14.04.52:498][831]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/BP_HealthCollect
+[2026.03.16-14.04.52:498][831]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_HealthCollectE31C0A994FF8EF89032F8380BAAD0041.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_HealthCollect.uasset'
+[2026.03.16-14.04.52:521][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.300 ms (total: 1.70 sec)
+[2026.03.16-14.04.52:565][831]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.16-14.04.52:566][831]LogContentValidation: Enabled validators:
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-14.04.52:566][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-14.04.52:566][831]AssetCheck: /Game/Collectables/Blueprints/BP_HealthCollect Validating asset
