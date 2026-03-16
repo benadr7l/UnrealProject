@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VB/BJ298HNYKKVCBOC428VUPW.uasset",
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/MobileGamesProject/UnrealProject/UnrealProject/Content/FirstPerson/Input/Actions/IA_Sprint.uasset",
