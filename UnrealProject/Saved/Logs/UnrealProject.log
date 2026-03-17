@@ -1778,3 +1778,1431 @@ FPackageName: Skipped package /Game/Map/openPBR_shader1 has a valid, mounted, mo
 [2026.03.17-11.56.13:966][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.17-11.56.13:966][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.17-11.56.13:967][307]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.03.17-11.57.38:453][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2136.507568
+[2026.03.17-11.57.39:453][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-11.57.39:453][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2137.173828, Update Interval: 332.972809
+[2026.03.17-12.04.07:827][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2525.883301
+[2026.03.17-12.04.08:827][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.04.08:827][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2526.550049, Update Interval: 353.292633
+[2026.03.17-12.10.55:666][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2933.718750
+[2026.03.17-12.10.55:814][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.10.55:814][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2933.853760, Update Interval: 354.649506
+[2026.03.17-12.11.09:779][ 50]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.17-12.11.09:784][ 50]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.17-12.11.09:793][ 51]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.17-12.11.21:283][904]LogContentBrowser: Attempting asset rename: NewFolder -> ZombieCharacter
+[2026.03.17-12.11.21:283][904]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.17-12.11.40:492][375]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.17-12.11.40:498][375]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.17-12.11.40:514][377]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.17-12.11.44:854][693]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2026.03.17-12.11.44:856][693]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.17-12.12.14:615][117]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.14:648][117]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombiegirl W Kurniawan.fbx]
+[2026.03.17-12.12.29:969][117]LogSlate: Window 'Import Content' being destroyed
+[2026.03.17-12.12.29:990][117]LogInterchangeEngine: [Pending] Importing
+[2026.03.17-12.12.30:040][118]LogStreaming: Display: FlushAsyncLoading(437): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.30:157][122]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.30:184][123]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.17-12.12.30:286][123]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.30:333][124]LogStreaming: Display: FlushAsyncLoading(446): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.30:471][128]LogStreaming: Display: FlushAsyncLoading(447): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.12.30:493][129]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim (Required Memory Estimate: 0.14 MB)
+[2026.03.17-12.12.30:502][129]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim, at AnimationSequence/d0a249535edb718b0add817c92c87eb34aeba690
+[2026.03.17-12.12.30:545][129]LogTexture: Display: Building textures: /Game/ZombieCharacter/Mesh/zombie_normal.zombie_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 427.499988 MB), EncodeSpeed: Fast
+[2026.03.17-12.12.30:546][129]LogTexture: Display: Building textures: /Game/ZombieCharacter/Mesh/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.03.17-12.12.30:546][129]LogTexture: Display: Building textures: /Game/ZombieCharacter/Mesh/zombie_specular.zombie_specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.03.17-12.12.30:546][129]LogTexture: Display: Building textures: /Game/ZombieCharacter/Mesh/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 302.583323 MB), EncodeSpeed: Fast
+[2026.03.17-12.12.30:587][129]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2026.03.17-12.12.30:644][131]LogTexture: Display: Waiting for textures to be ready 0/3 (/Game/ZombieCharacter/Mesh/zombie_normal) ...
+[2026.03.17-12.12.30:659][131]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2026.03.17-12.12.30:793][133]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2026.03.17-12.12.32:954][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.17-12.12.32:962][280]LogMaterial: Display: Material /Game/ZombieCharacter/Mesh/ZombieGirl_body_Material.ZombieGirl_body_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2026.03.17-12.12.32:966][280]LogMaterial: Display: Material /Game/ZombieCharacter/Mesh/ZombieGirl_Material.ZombieGirl_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2026.03.17-12.12.32:975][280]LogMaterial: Display: Material /Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1.ZombieGirl_Material_ncl_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.03.17-12.12.32:985][280]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-12.12.32:986][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-12.12.33:016][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.17-12.12.33:062][281]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombiegirl W Kurniawan.fbx]
+[2026.03.17-12.12.33:062][281]Interchange: Warning: [ : '', Texture2D] zombie_diffuse is being used as both Color and Scalar which aren't compatible.
+[2026.03.17-12.12.33:062][281]Interchange: Warning: [ : '', Texture2D] zombie_diffuse is being used as both Color and Scalar which aren't compatible.
+[2026.03.17-12.12.33:062][281]Interchange: Warning: [C:/Users/Benjamin/Downloads/Zombiegirl W Kurniawan.fbx : 'Zombiegirl_W_Kurniawan', SkeletalMesh] No smoothing group information was found for this mesh 'ZombieGirl_Body' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.17-12.12.33:062][281]Interchange: Warning: [C:/Users/Benjamin/Downloads/Zombiegirl W Kurniawan.fbx : 'Zombiegirl_W_Kurniawan', SkeletalMesh] No smoothing group information was found for this mesh 'ZombieGirl_Top' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.17-12.12.33:062][281]Interchange: Warning: [C:/Users/Benjamin/Downloads/Zombiegirl W Kurniawan.fbx : 'Zombiegirl_W_Kurniawan', SkeletalMesh] No smoothing group information was found for this mesh 'ZombieGirl_Pants' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.17-12.12.33:074][281]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.17-12.12.33:075][281]LogInterchangeEngine: [Success] Import Done
+[2026.03.17-12.12.35:704][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.17-12.12.35:758][450]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.17-12.12.35:866][453]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.17-12.12.35:883][454]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.17-12.12.36:175][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.17-12.12.36:177][468]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.013
+[2026.03.17-12.12.36:177][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset] ([1] browsable assets)...
+[2026.03.17-12.12.36:209][468]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2026.03.17-12.12.36:209][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2026.03.17-12.12.36:212][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto3
+[2026.03.17-12.12.36:212][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_PhysicsAsEB6283C44DD9A1A2C57CCEAE4879329F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto3.uasset'
+[2026.03.17-12.12.36:213][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse] ([1] browsable assets)...
+[2026.03.17-12.12.36:215][468]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ZombieCharacter/Mesh/zombie_body_diffuse.zombie_body_diffuse]
+[2026.03.17-12.12.36:215][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse]
+[2026.03.17-12.12.36:224][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_body_diffuse_Auto3
+[2026.03.17-12.12.36:224][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_body_diffuse_Auto3BA41A0FD4BEFD13CA9A8A29ADF55E7C8.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_body_diffuse_Auto3.uasset'
+[2026.03.17-12.12.36:225][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_diffuse] ([1] browsable assets)...
+[2026.03.17-12.12.36:226][468]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ZombieCharacter/Mesh/zombie_diffuse.zombie_diffuse]
+[2026.03.17-12.12.36:226][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_diffuse]
+[2026.03.17-12.12.36:236][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_diffuse_Auto3
+[2026.03.17-12.12.36:236][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_diffuse_Auto32696AE5A44C001FA0633BE9EA2293931.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_diffuse_Auto3.uasset'
+[2026.03.17-12.12.36:236][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_normal] ([1] browsable assets)...
+[2026.03.17-12.12.36:239][468]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ZombieCharacter/Mesh/zombie_normal.zombie_normal]
+[2026.03.17-12.12.36:239][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_normal]
+[2026.03.17-12.12.36:247][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_normal_Auto3
+[2026.03.17-12.12.36:247][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_normal_Auto34C517264467937432C207B9A733F8F0A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_normal_Auto3.uasset'
+[2026.03.17-12.12.36:248][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_specular] ([1] browsable assets)...
+[2026.03.17-12.12.36:249][468]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ZombieCharacter/Mesh/zombie_specular.zombie_specular]
+[2026.03.17-12.12.36:249][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_specular]
+[2026.03.17-12.12.36:259][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_specular_Auto3
+[2026.03.17-12.12.36:259][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_specular_Auto3626C452341F4DBF912621FB346B938FC.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_specular_Auto3.uasset'
+[2026.03.17-12.12.36:260][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton] ([1] browsable assets)...
+[2026.03.17-12.12.36:267][468]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton]
+[2026.03.17-12.12.36:267][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton]
+[2026.03.17-12.12.36:269][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton_Auto3
+[2026.03.17-12.12.36:269][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Skeleton_15D2805D493CB51EFA7173B4ADD7A309.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton_Auto3.uasset'
+[2026.03.17-12.12.36:269][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material] ([1] browsable assets)...
+[2026.03.17-12.12.36:275][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZombieCharacter/Mesh/ZombieGirl_body_Material.ZombieGirl_body_Material]
+[2026.03.17-12.12.36:275][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material]
+[2026.03.17-12.12.36:278][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material_Auto3
+[2026.03.17-12.12.36:278][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_body_Material_Auto326350A5F44555D6CD9F27AA52CAD2E3E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material_Auto3.uasset'
+[2026.03.17-12.12.36:278][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material] ([1] browsable assets)...
+[2026.03.17-12.12.36:285][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZombieCharacter/Mesh/ZombieGirl_Material.ZombieGirl_Material]
+[2026.03.17-12.12.36:285][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material]
+[2026.03.17-12.12.36:288][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_Auto3
+[2026.03.17-12.12.36:288][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material_Auto3014AE06843C76239E0B0DF8C76AB9945.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_Auto3.uasset'
+[2026.03.17-12.12.36:288][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1] ([1] browsable assets)...
+[2026.03.17-12.12.36:295][468]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1.ZombieGirl_Material_ncl_1]
+[2026.03.17-12.12.36:295][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1]
+[2026.03.17-12.12.36:298][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1_Auto3
+[2026.03.17-12.12.36:298][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material_ncl_1_Auto36B717D324FB75A5737430E8A4A52C2E1.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1_Auto3.uasset'
+[2026.03.17-12.12.36:299][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan] ([1] browsable assets)...
+[2026.03.17-12.12.36:305][468]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan]
+[2026.03.17-12.12.36:305][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan]
+[2026.03.17-12.12.36:315][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Auto3
+[2026.03.17-12.12.36:315][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Auto3A190ECC6497048BBB110408979DC44CB.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Auto3.uasset'
+[2026.03.17-12.12.36:315][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim] ([1] browsable assets)...
+[2026.03.17-12.12.36:322][468]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim.Zombiegirl_W_Kurniawan_Anim]
+[2026.03.17-12.12.36:322][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim]
+[2026.03.17-12.12.36:332][468]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim_Auto3
+[2026.03.17-12.12.36:332][468]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Anim_Auto894706DC4E19192D63C6E5A73D7748DE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim_Auto3.uasset'
+[2026.03.17-12.12.36:332][468]LogFileHelpers: Auto-saving content packages took 0.156
+[2026.03.17-12.12.54:914][694]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.17-12.12.54:919][694]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.17-12.12.54:928][695]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.17-12.12.59:646][ 34]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2026.03.17-12.12.59:646][ 34]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: ================================================
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Total job queries 342, among them cache hits 32 (9.36%), DDC hits 205 (59.94%), Duplicates 44 (12.87%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Tracking 266 distinct input hashes that result in 220 distinct outputs (82.71%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: RAM used: 145.91 KiB of 819.20 MiB budget. Usage: 0.02%
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Shaders Compiled: 61
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Jobs assigned 61, completed 61 (100%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Average time worker was idle: 539.38 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.13 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 2.78 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Job life time (pending + execution): average 1.85 s, max 2.81
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Shader code size: average 7.975 KiB, min 3.523 KiB, max 15.6 KiB
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.48 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.65 jobs/batch
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Average processing rate: 4.89 jobs/sec
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Total thread time: 28.026 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Total thread preprocess time: 5.675 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Percentage time preprocessing: 20.25%
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.06 sec, max 1.29 sec, min 0.64 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.73 sec, max 0.81 sec, min 0.67 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.39% of total time (compiled    3 times, average 1.06 sec, max 1.29 sec, min 0.64 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.34% of total time (compiled    5 times, average 0.47 sec, max 0.54 sec, min 0.38 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.79% of total time (compiled    3 times, average 0.73 sec, max 0.81 sec, min 0.67 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.29% of total time (compiled    5 times, average 0.30 sec, max 0.37 sec, min 0.25 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.97% of total time (compiled    3 times, average 0.46 sec, max 0.56 sec, min 0.32 sec)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Materials Translated:    146
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Material Translation Only: 0.04 s (39%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: Material Cache Hits: 26 (18%)
+[2026.03.17-12.13.05:857][495]LogShaderCompilers: Display: ================================================
+[2026.03.17-12.13.23:465][319]LogStreaming: Display: FlushAsyncLoading(448): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.13.23:493][319]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Walk.fbx]
+[2026.03.17-12.13.23:560][319]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-12.13.23:579][319]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-12.13.37:691][319]LogSlate: Took 0.001179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.17-12.13.37:771][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.17-12.13.37:798][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.17-12.13.50:695][319]LogSlate: Window 'Import Content' being destroyed
+[2026.03.17-12.13.50:712][319]LogInterchangeEngine: [Pending] Importing
+[2026.03.17-12.13.50:861][322]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.13.50:884][323]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk (Required Memory Estimate: 1.58 MB)
+[2026.03.17-12.13.50:896][323]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Walk.fbx]
+[2026.03.17-12.13.50:896][323]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.03.17-12.13.50:896][323]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.03.17-12.13.50:896][323]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Running.fbx]
+[2026.03.17-12.13.50:909][324]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk, at AnimationSequence/b9eefa704670c8dfc239eefc3ccdb48d92c94bef
+[2026.03.17-12.13.51:161][329]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.13.51:189][330]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Running.Zombie_Running (Required Memory Estimate: 0.41 MB)
+[2026.03.17-12.13.51:196][330]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Running.Zombie_Running (Required Memory Estimate: 0.41 MB)
+[2026.03.17-12.13.51:202][330]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Running.Zombie_Running, at AnimationSequence/a0494e28467e0986265d3411650191049ec80c31
+[2026.03.17-12.13.51:205][330]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Running.fbx]
+[2026.03.17-12.13.51:205][330]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.03.17-12.13.51:205][330]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.03.17-12.13.51:205][330]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Idle.fbx]
+[2026.03.17-12.13.51:384][339]LogStreaming: Display: FlushAsyncLoading(453): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.13.51:399][340]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Idle.Zombie_Idle (Required Memory Estimate: 1.57 MB)
+[2026.03.17-12.13.51:411][340]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Idle.fbx]
+[2026.03.17-12.13.51:411][340]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.17-12.13.51:411][340]LogInterchangeEngine: [Success] Import Done
+[2026.03.17-12.13.51:424][342]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Idle.Zombie_Idle, at AnimationSequence/c81b4c58a3f3bdc377096c0ee5895ba742ff078c
+[2026.03.17-12.14.41:830][550]LogSlate: Window 'Pick Skeleton' being destroyed
+[2026.03.17-12.14.41:841][550]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2026.03.17-12.14.41:845][550]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2026.03.17-12.14.41:853][551]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlendSpace).
+[2026.03.17-12.14.58:494][750]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_ZombieCharacter
+[2026.03.17-12.14.58:497][750]LogContentBrowser: End creating deferred item NewBlendSpace
+[2026.03.17-12.14.58:508][750]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.17-12.15.08:265][448]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ZombieCharacter/Animations/BS_ZombieCharacter.BS_ZombieCharacter
+[2026.03.17-12.15.08:294][448]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.17-12.15.08:299][448]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.15.08:421][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.17-12.15.08:896][448]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.17-12.15.09:160][448]LogSlate: Took 0.007585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.17-12.15.51:366][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.15.51:419][413]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter] ([1] browsable assets)...
+[2026.03.17-12.15.51:427][413]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ZombieCharacter/Animations/BS_ZombieCharacter.BS_ZombieCharacter]
+[2026.03.17-12.15.51:429][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter]
+[2026.03.17-12.15.51:430][413]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/BS_ZombieCharacter
+[2026.03.17-12.15.51:430][413]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BS_ZombieCharacter6FFD6DD94878D6FD2102E39A6DF63D61.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/BS_ZombieCharacter.uasset'
+[2026.03.17-12.15.51:440][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.012 ms (total: 122.690 ms)
+[2026.03.17-12.15.51:466][413]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.15.51:466][413]LogContentValidation: Enabled validators:
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.15.51:466][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.15.51:466][413]AssetCheck: /Game/ZombieCharacter/Animations/BS_ZombieCharacter Validating asset
+[2026.03.17-12.17.11:765][901]Cmd: TRANSACTION UNDO
+[2026.03.17-12.17.11:765][901]LogEditorTransaction: Undo Adding Blendspace Sample
+[2026.03.17-12.17.11:942][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.17-12.17.22:132][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3320.183594
+[2026.03.17-12.17.22:316][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.17.22:316][319]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3320.344238, Update Interval: 359.219940
+[2026.03.17-12.17.30:853][690]Cmd: TRANSACTION UNDO
+[2026.03.17-12.17.30:855][690]LogEditorTransaction: Undo Adding Blendspace Sample
+[2026.03.17-12.17.31:019][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.17-12.17.46:576][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.17.46:651][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter] ([1] browsable assets)...
+[2026.03.17-12.17.46:660][344]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ZombieCharacter/Animations/BS_ZombieCharacter.BS_ZombieCharacter]
+[2026.03.17-12.17.46:660][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter]
+[2026.03.17-12.17.46:662][344]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/BS_ZombieCharacter
+[2026.03.17-12.17.46:662][344]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BS_ZombieCharacterA4F88C6F46B706C5D1FAA19ACEEFC55E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/BS_ZombieCharacter.uasset'
+[2026.03.17-12.17.46:668][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.543 ms (total: 213.233 ms)
+[2026.03.17-12.17.46:686][344]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.17.46:686][344]LogContentValidation: Enabled validators:
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.17.46:686][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.17.46:686][344]AssetCheck: /Game/ZombieCharacter/Animations/BS_ZombieCharacter Validating asset
+[2026.03.17-12.17.52:784][610]LogSlate: Window 'BS_ZombieCharacter' being destroyed
+[2026.03.17-12.17.52:802][610]LogSlate: Window 'BS_ZombieCharacter' being destroyed
+[2026.03.17-12.17.52:822][610]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-12.17.52:822][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-12.17.52:874][610]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-12.17.52:874][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-12.17.52:910][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.17-12.18.33:512][999]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2026.03.17-12.18.33:521][999]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2026.03.17-12.18.33:525][999]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2026.03.17-12.18.33:542][  0]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2026.03.17-12.18.44:729][797]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_ZombieCharacter
+[2026.03.17-12.18.44:745][797]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2026.03.17-12.18.44:746][797]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.17-12.18.51:286][265]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter
+[2026.03.17-12.18.51:290][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.17-12.18.51:302][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.17-12.18.51:308][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.17-12.18.51:372][265]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.18.53:088][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.17-12.18.53:304][265]LogSlate: Took 0.005650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.17-12.20.02:685][923]LogSlate: Took 0.007002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.17-12.21.12:180][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.17-12.21.14:308][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.21.14:370][624]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter] ([2] browsable assets)...
+[2026.03.17-12.21.14:378][624]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter]
+[2026.03.17-12.21.14:378][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter]
+[2026.03.17-12.21.14:388][624]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter
+[2026.03.17-12.21.14:388][624]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ABP_ZombieCharacterFD537A964C5D81C96D938197FDDCDE25.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/ABP_ZombieCharacter.uasset'
+[2026.03.17-12.21.14:400][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.276 ms (total: 305.510 ms)
+[2026.03.17-12.21.14:428][624]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.21.14:428][624]LogContentValidation: Enabled validators:
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.21.14:428][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.21.14:428][624]AssetCheck: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter Validating asset
+[2026.03.17-12.22.22:146][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.17-12.22.22:160][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_94
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:161][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:193][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:208][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_95
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:209][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:220][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:229][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:241][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:270][ 89]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:290][ 90]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:309][ 91]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:326][ 92]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:344][ 93]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:362][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:405][ 95]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:423][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:441][ 97]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:459][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:926][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.22.22:982][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter] ([2] browsable assets)...
+[2026.03.17-12.22.22:982][122]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_96
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.22:991][122]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter]
+[2026.03.17-12.22.22:991][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter]
+[2026.03.17-12.22.22:997][122]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter
+[2026.03.17-12.22.22:997][122]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ABP_ZombieCharacter5D8D6D174E545FF34FEC04B0F0E476C5.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/ABP_ZombieCharacter.uasset'
+[2026.03.17-12.22.23:005][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.265 ms (total: 384.775 ms)
+[2026.03.17-12.22.23:030][122]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.22.23:030][122]LogContentValidation: Enabled validators:
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.22.23:030][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.22.23:030][122]AssetCheck: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter Validating asset
+[2026.03.17-12.22.23:059][124]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_97
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.42:910][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.22.42:970][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter] ([2] browsable assets)...
+[2026.03.17-12.22.42:970][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/ABP_ZombieCharacter]
+[2026.03.17-12.22.42:976][179]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter
+[2026.03.17-12.22.42:977][179]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ABP_ZombieCharacter073A181644AAEC148DFBE88E798EA41C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/ABP_ZombieCharacter.uasset'
+[2026.03.17-12.22.42:983][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.322 ms (total: 457.098 ms)
+[2026.03.17-12.22.43:011][179]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.22.43:011][179]LogContentValidation: Enabled validators:
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.22.43:011][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.22.43:011][179]AssetCheck: /Game/ZombieCharacter/Animations/ABP_ZombieCharacter Validating asset
+[2026.03.17-12.22.43:042][181]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_98
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.49:776][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.17-12.22.49:780][605]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2026.03.17-12.22.49:780][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/lambert1] ([1] browsable assets)...
+[2026.03.17-12.22.49:780][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/lambert1]
+[2026.03.17-12.22.49:782][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/lambert1_Auto4
+[2026.03.17-12.22.49:782][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/lambert1_Auto417BCA0414D2E47963E1C6A9869637875.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/lambert1_Auto4.uasset'
+[2026.03.17-12.22.49:783][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/Map] ([1] browsable assets)...
+[2026.03.17-12.22.49:783][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map]
+[2026.03.17-12.22.49:783][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/Map_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.03.17-12.22.49:787][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/Map_Auto4
+[2026.03.17-12.22.49:787][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Map_Auto47BAE19344E2B0EC4365506A8D067A2E3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/Map_Auto4.uasset'
+[2026.03.17-12.22.49:788][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset] ([1] browsable assets)...
+[2026.03.17-12.22.49:788][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2026.03.17-12.22.49:792][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto4
+[2026.03.17-12.22.49:792][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_PhysicsAs223F63184514526B75E7E4B71B5A442C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto4.uasset'
+[2026.03.17-12.22.49:793][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse] ([1] browsable assets)...
+[2026.03.17-12.22.49:793][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse]
+[2026.03.17-12.22.49:804][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_body_diffuse_Auto4
+[2026.03.17-12.22.49:804][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_body_diffuse_Auto4F2172ADB4B671B03600F58BD81A0CFA7.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_body_diffuse_Auto4.uasset'
+[2026.03.17-12.22.49:805][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_diffuse] ([1] browsable assets)...
+[2026.03.17-12.22.49:805][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_diffuse]
+[2026.03.17-12.22.49:816][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_diffuse_Auto4
+[2026.03.17-12.22.49:816][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_diffuse_Auto4CADBECAE4DEF38D41964F8B531433B7C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_diffuse_Auto4.uasset'
+[2026.03.17-12.22.49:817][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_normal] ([1] browsable assets)...
+[2026.03.17-12.22.49:817][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_normal]
+[2026.03.17-12.22.49:829][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_normal_Auto4
+[2026.03.17-12.22.49:829][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_normal_Auto46419D4F3403FB0F3042A3BA77858528C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_normal_Auto4.uasset'
+[2026.03.17-12.22.49:830][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_specular] ([1] browsable assets)...
+[2026.03.17-12.22.49:830][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_specular]
+[2026.03.17-12.22.49:841][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/zombie_specular_Auto4
+[2026.03.17-12.22.49:841][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_specular_Auto44161789A4359811168998B999F425752.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/zombie_specular_Auto4.uasset'
+[2026.03.17-12.22.49:842][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton] ([1] browsable assets)...
+[2026.03.17-12.22.49:842][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton]
+[2026.03.17-12.22.49:843][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton_Auto4
+[2026.03.17-12.22.49:843][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Skeleton_D22C576A4C6192D80B11FA938367D508.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton_Auto4.uasset'
+[2026.03.17-12.22.49:843][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material] ([1] browsable assets)...
+[2026.03.17-12.22.49:843][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material]
+[2026.03.17-12.22.49:845][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material_Auto4
+[2026.03.17-12.22.49:845][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_body_Material_Auto4724180054054FD747BF6F0B6F0588733.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material_Auto4.uasset'
+[2026.03.17-12.22.49:846][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material] ([1] browsable assets)...
+[2026.03.17-12.22.49:846][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material]
+[2026.03.17-12.22.49:849][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_Auto4
+[2026.03.17-12.22.49:849][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material_Auto49335AF6E4E1FB3C87148729FD009CD80.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_Auto4.uasset'
+[2026.03.17-12.22.49:850][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1] ([1] browsable assets)...
+[2026.03.17-12.22.49:850][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1]
+[2026.03.17-12.22.49:852][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1_Auto4
+[2026.03.17-12.22.49:852][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material_ncl_1_Auto438F346004915CE833B75F9A04674A2C2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1_Auto4.uasset'
+[2026.03.17-12.22.49:853][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan] ([1] browsable assets)...
+[2026.03.17-12.22.49:853][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan]
+[2026.03.17-12.22.49:864][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Auto4
+[2026.03.17-12.22.49:864][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Auto459C4679F47FACE056D7D6D9C90E41BED.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Auto4.uasset'
+[2026.03.17-12.22.49:865][605]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim] ([1] browsable assets)...
+[2026.03.17-12.22.49:865][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim]
+[2026.03.17-12.22.49:871][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim_Auto4
+[2026.03.17-12.22.49:871][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Anim_Auto826439574F383B79DD06C28A520F840C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim_Auto4.uasset'
+[2026.03.17-12.22.49:872][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Walk] ([1] browsable assets)...
+[2026.03.17-12.22.49:878][605]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk]
+[2026.03.17-12.22.49:878][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Walk]
+[2026.03.17-12.22.49:884][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Walk_Auto4
+[2026.03.17-12.22.49:884][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Walk_Auto46DB3AA3A45063B881320198BBBA8A2BD.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Walk_Auto4.uasset'
+[2026.03.17-12.22.49:885][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Running] ([1] browsable assets)...
+[2026.03.17-12.22.49:892][605]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Running.Zombie_Running]
+[2026.03.17-12.22.49:892][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Running]
+[2026.03.17-12.22.49:897][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Running_Auto4
+[2026.03.17-12.22.49:897][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Running_Auto44A11A3784310640B0D9BE4A745687CAE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Running_Auto4.uasset'
+[2026.03.17-12.22.49:898][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Idle] ([1] browsable assets)...
+[2026.03.17-12.22.49:905][605]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Idle.Zombie_Idle]
+[2026.03.17-12.22.49:905][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Idle]
+[2026.03.17-12.22.49:911][605]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Idle_Auto4
+[2026.03.17-12.22.49:911][605]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Idle_Auto421F3CF654FBA7036843F4696F222A065.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Idle_Auto4.uasset'
+[2026.03.17-12.22.49:911][605]LogFileHelpers: Auto-saving content packages took 0.132
+[2026.03.17-12.22.52:768][773]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_99
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:785][774]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_100
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:803][775]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_101
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:821][776]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_102
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:846][777]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_103
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:864][778]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_104
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:880][779]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_105
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:897][780]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_106
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.52:915][781]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_107
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-12.22.57:017][ 49]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.17-12.22.57:043][ 49]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.17-12.22.57:050][ 50]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.17-12.23.01:669][381]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2026.03.17-12.23.01:670][381]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.17-12.23.14:356][ 61]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.17-12.23.14:364][ 61]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.17-12.23.14:369][ 61]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.17-12.23.14:386][ 63]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.17-12.23.27:920][ 33]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_AI_ZombieCharacter
+[2026.03.17-12.23.27:927][ 33]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.17-12.23.55:465][ 50]LogDerivedDataCache: C:/Users/Benjamin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.17-12.24.10:648][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3728.701660
+[2026.03.17-12.24.10:826][173]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.24.10:826][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3728.865723, Update Interval: 324.166992
+[2026.03.17-12.28.56:380][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter
+[2026.03.17-12.28.56:380][136]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.17-12.28.56:439][136]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-12.29.19:867][456]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2026.03.17-12.29.30:814][ 74]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2026.03.17-12.29.30:820][ 75]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.17-12.29.30:842][ 76]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.17-12.29.34:069][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.17-12.29.34:096][250]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2026.03.17-12.30.23:453][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4101.500488
+[2026.03.17-12.30.23:627][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.30.23:627][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4101.656738, Update Interval: 337.709900
+[2026.03.17-12.30.51:152][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.17-12.30.52:309][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.30.52:364][640]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter] ([2] browsable assets)...
+[2026.03.17-12.30.52:372][640]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter]
+[2026.03.17-12.30.52:372][640]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.17-12.30.52:386][640]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter_C]
+[2026.03.17-12.30.52:386][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter]
+[2026.03.17-12.30.52:390][640]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter
+[2026.03.17-12.30.52:390][640]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_AI_ZombieCharacter658EBA5E4A85728CFD656A9FD291AD63.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.uasset'
+[2026.03.17-12.30.52:398][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.293 ms (total: 545.392 ms)
+[2026.03.17-12.30.52:426][640]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.30.52:426][640]LogContentValidation: Enabled validators:
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.30.52:426][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.30.52:426][640]AssetCheck: /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter Validating asset
+[2026.03.17-12.31.58:552][ 94]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2026.03.17-12.31.58:558][ 94]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2026.03.17-12.31.58:569][ 95]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2026.03.17-12.32.24:076][932]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> BT_ZC_AI
+[2026.03.17-12.32.24:077][932]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2026.03.17-12.32.30:439][351]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2026.03.17-12.32.30:443][351]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2026.03.17-12.32.30:455][352]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2026.03.17-12.32.42:205][189]LogContentBrowser: Attempting asset rename: NewBlackboardData -> BB_ZC_AI
+[2026.03.17-12.32.42:208][189]LogContentBrowser: End creating deferred item NewBlackboardData
+[2026.03.17-12.33.15:559][176]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.17-12.33.15:568][176]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.17-12.33.15:573][176]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.17-12.33.15:580][177]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.17-12.33.39:675][855]LogContentBrowser: Attempting asset rename: NewBlueprint -> A
+[2026.03.17-12.33.39:686][855]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.17-12.33.39:722][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.17-12.33.39:726][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2026.03.17-12.33.39:727][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.17-12.33.39:727][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.17-12.33.39:727][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto5
+[2026.03.17-12.33.39:728][855]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI_Auto5E7F7E617416C62E2985D1B9685E8CFE5.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto5.uasset'
+[2026.03.17-12.33.39:728][855]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BB_ZC_AI] ([1] browsable assets)...
+[2026.03.17-12.33.39:728][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BB_ZC_AI]
+[2026.03.17-12.33.39:729][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BB_ZC_AI_Auto5
+[2026.03.17-12.33.39:729][855]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BB_ZC_AI_Auto5382499F0441438DC9358B9B83FDE531F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BB_ZC_AI_Auto5.uasset'
+[2026.03.17-12.33.39:729][855]LogFileHelpers: Auto-saving content packages took 0.003
+[2026.03.17-12.34.07:452][831]LogContentBrowser: Attempting asset rename: A -> ZC_AIController
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.SKEL_ZC_AIController_C:UserConstructionScript' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.SKEL_ZC_AIController_C' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController_C' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:572][831]LogMetaData: Removing '/Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ZombieCharacter/Blueprints/A.PackageMetaData'
+[2026.03.17-12.34.07:579][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.34.07:579][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/ZC_AIController] ([2] browsable assets)...
+[2026.03.17-12.34.07:579][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/ZC_AIController]
+[2026.03.17-12.34.07:582][831]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/ZC_AIController
+[2026.03.17-12.34.07:582][831]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZC_AIController3962A2BC43A36E2F752798911AA34055.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/ZC_AIController.uasset'
+[2026.03.17-12.34.07:587][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.480 ms (total: 552.872 ms)
+[2026.03.17-12.34.07:620][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.17-12.34.07:642][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.17-12.34.07:664][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.17-12.34.07:696][831]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.34.07:696][831]LogContentValidation: Enabled validators:
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.34.07:696][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.34.07:696][831]AssetCheck: /Game/ZombieCharacter/Blueprints/ZC_AIController Validating asset
+[2026.03.17-12.34.22:457][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController
+[2026.03.17-12.34.22:457][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.17-12.35.07:553][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.17-12.35.09:760][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.35.09:817][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/ZC_AIController] ([2] browsable assets)...
+[2026.03.17-12.35.09:817][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/ZC_AIController]
+[2026.03.17-12.35.09:820][835]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/ZC_AIController
+[2026.03.17-12.35.09:820][835]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZC_AIController994AB9324EF9119052F605ABF040621C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/ZC_AIController.uasset'
+[2026.03.17-12.35.09:826][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.347 ms (total: 618.220 ms)
+[2026.03.17-12.35.09:848][835]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.35.09:848][835]LogContentValidation: Enabled validators:
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.35.09:848][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.35.09:848][835]AssetCheck: /Game/ZombieCharacter/Blueprints/ZC_AIController Validating asset
+[2026.03.17-12.35.16:988][289]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ZombieCharacter/Blueprints/BT_ZC_AI.BT_ZC_AI
+[2026.03.17-12.35.33:677][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.35.33:730][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.17-12.35.33:730][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.17-12.35.33:732][346]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BT_ZC_AI
+[2026.03.17-12.35.33:732][346]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI4D2217F24E19B4B9A4587B96637B8702.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BT_ZC_AI.uasset'
+[2026.03.17-12.35.33:736][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.908 ms (total: 678.128 ms)
+[2026.03.17-12.35.33:758][346]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.35.33:760][346]LogContentValidation: Enabled validators:
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.35.33:760][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.35.33:760][346]AssetCheck: /Game/ZombieCharacter/Blueprints/BT_ZC_AI Validating asset
+[2026.03.17-12.36.01:671][712]LogSlate: Window 'Save Asset As' being destroyed
+[2026.03.17-12.36.01:683][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_Patrol.BTTask_Patrol
+[2026.03.17-12.36.01:683][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.17-12.36.01:748][712]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ZombieCharacter/Blueprints/BTTask_Patrol.
+[2026.03.17-12.36.02:067][717]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.03.17-12.36.44:174][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4482.202637
+[2026.03.17-12.36.44:400][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.36.44:400][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4482.411621, Update Interval: 312.165894
+[2026.03.17-12.39.55:768][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.17-12.39.56:957][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-12.39.57:005][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_Patrol] ([2] browsable assets)...
+[2026.03.17-12.39.57:005][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_Patrol]
+[2026.03.17-12.39.57:009][805]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTTask_Patrol
+[2026.03.17-12.39.57:009][805]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_PatrolC14E8AF6472779BE06382BA0386660D2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTTask_Patrol.uasset'
+[2026.03.17-12.39.57:010][805]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ZombieCharacter/Blueprints/BTTask_Patrol.
+[2026.03.17-12.39.57:017][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.358 ms (total: 737.487 ms)
+[2026.03.17-12.39.57:044][805]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-12.39.57:044][805]LogContentValidation: Enabled validators:
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-12.39.57:044][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-12.39.57:044][805]AssetCheck: /Game/ZombieCharacter/Blueprints/BTTask_Patrol Validating asset
+[2026.03.17-12.40.56:050][433]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.17-12.40.56:204][433]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-12.40.56:204][433]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26228
+[2026.03.17-12.40.56:536][434]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-12.40.56:539][434]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.50
+[2026.03.17-12.40.56:540][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-12.40.56:541][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-12.42.48:560][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4846.574707
+[2026.03.17-12.42.49:554][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.42.49:554][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4847.236328, Update Interval: 358.798798
+[2026.03.17-12.49.40:265][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5258.274414
+[2026.03.17-12.49.41:932][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.49.41:932][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5259.612793, Update Interval: 357.454773
+[2026.03.17-12.56.18:311][199]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5656.315918
+[2026.03.17-12.56.19:306][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-12.56.19:306][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5656.982422, Update Interval: 308.229004
+[2026.03.17-13.02.03:344][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6001.345215
+[2026.03.17-13.02.04:346][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.02.04:346][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6002.012207, Update Interval: 359.939575
+[2026.03.17-13.09.00:064][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6418.061035
+[2026.03.17-13.09.01:065][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.09.01:065][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6418.728027, Update Interval: 318.809174
+[2026.03.17-13.09.09:287][512]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2026.03.17-13.09.09:395][512]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.09.09:395][512]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26228
+[2026.03.17-13.09.09:728][513]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.09.09:731][513]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{156372fa-149f-4ffa-84f3-58dbc58c1fed}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.04
+[2026.03.17-13.09.09:731][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-13.09.09:733][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-13.13.15:109][251]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.17-13.13.15:563][252]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.13.15:564][252]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26228
+[2026.03.17-13.13.15:590][253]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.13.15:592][253]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.85
+[2026.03.17-13.13.15:592][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-13.13.15:594][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-13.14.04:094][328]LogStreaming: Display: FlushAsyncLoading(649): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-13.14.26:585][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.14.26:639][791]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.17-13.14.26:639][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.17-13.14.26:641][791]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BT_ZC_AI
+[2026.03.17-13.14.26:642][791]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI87198F9541F1BE43A3FF4EB09DF612A1.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BT_ZC_AI.uasset'
+[2026.03.17-13.14.26:647][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.761 ms (total: 800.248 ms)
+[2026.03.17-13.14.26:674][791]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.14.26:674][791]LogContentValidation: Enabled validators:
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.14.26:674][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.14.26:674][791]AssetCheck: /Game/ZombieCharacter/Blueprints/BT_ZC_AI Validating asset
+[2026.03.17-13.14.46:561][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.14.46:615][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.17-13.14.46:615][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.17-13.14.46:617][102]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BT_ZC_AI
+[2026.03.17-13.14.46:618][102]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI4084F7B94FBAD09A460E2989844518BD.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BT_ZC_AI.uasset'
+[2026.03.17-13.14.46:625][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.630 ms (total: 863.879 ms)
+[2026.03.17-13.14.46:650][102]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.14.46:650][102]LogContentValidation: Enabled validators:
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.14.46:650][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.14.46:650][102]AssetCheck: /Game/ZombieCharacter/Blueprints/BT_ZC_AI Validating asset
+[2026.03.17-13.15.00:457][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6778.452637
+[2026.03.17-13.15.00:634][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.15.00:634][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6778.611816, Update Interval: 317.728821
+[2026.03.17-13.15.36:972][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.17-13.15.38:171][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.15.38:223][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter] ([2] browsable assets)...
+[2026.03.17-13.15.38:232][ 24]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter]
+[2026.03.17-13.15.38:233][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter]
+[2026.03.17-13.15.38:236][ 24]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter
+[2026.03.17-13.15.38:236][ 24]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_AI_ZombieCharacterF03B75374EB53BDB48DA229D76DE7EAF.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.uasset'
+[2026.03.17-13.15.38:242][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.997 ms (total: 934.876 ms)
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: Enabled validators:
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.15.38:266][ 24]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.15.38:266][ 24]AssetCheck: /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter Validating asset
+[2026.03.17-13.16.45:358][332]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.03.17-13.16.45:358][332]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.03.17-13.16.45:361][332]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_F0090D6DF307BDC802_1672150961
+[2026.03.17-13.16.45:367][332]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_F0090D6DF307BDC802_1672150961
+[2026.03.17-13.19.44:242][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.19.44:325][ 81]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SL/O3GN3S1F1BCO0COSRDZ8F3
+[2026.03.17-13.19.44:325][ 81]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/O3GN3S1F1BCO0COSRDZ8F3BC5D621C47DA0E54838514A246DD2A2B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SL/O3GN3S1F1BCO0COSRDZ8F3.uasset'
+[2026.03.17-13.19.44:327][ 81]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/05/EER9SCP654RA011R3LXJXF
+[2026.03.17-13.19.44:327][ 81]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/EER9SCP654RA011R3LXJXFD3CC2D504BC56F0141AB0EAB3D4A5A18.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/05/EER9SCP654RA011R3LXJXF.uasset'
+[2026.03.17-13.19.44:335][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.607 ms (total: 1.02 sec)
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: Enabled validators:
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.19.44:367][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.19.44:367][ 81]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.03.17-13.19.44:373][ 81]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2026.03.17-13.19.52:434][633]LogSlate: Window 'BTTask_Patrol' being destroyed
+[2026.03.17-13.19.52:436][633]LogSlate: Window 'BTTask_Patrol' being destroyed
+[2026.03.17-13.19.52:474][633]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:474][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:501][633]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:501][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:589][633]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:589][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:606][633]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:606][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:654][633]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.17-13.19.52:654][633]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:654][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:699][633]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.19.52:699][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.19.52:751][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.17-13.20.14:279][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter_C
+[2026.03.17-13.20.14:279][ 81]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter_C
+[2026.03.17-13.20.14:280][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter as actor: BP_AI_ZombieCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_ZombieCharacter_C_0
+[2026.03.17-13.20.14:281][ 81]LogActorFactory: Actor Factory spawned Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter as actor: BP_AI_ZombieCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_ZombieCharacter_C_0
+[2026.03.17-13.20.15:348][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.17-13.20.15:349][153]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.03.17-13.20.15:360][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter_C
+[2026.03.17-13.20.15:360][153]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter_C
+[2026.03.17-13.20.15:364][153]LogActorFactory: Actor Factory spawned Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter as actor: BP_AI_ZombieCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963
+[2026.03.17-13.20.15:364][153]LogActorFactory: Actor Factory spawned Blueprint /Game/ZombieCharacter/Blueprints/BP_AI_ZombieCharacter.BP_AI_ZombieCharacter as actor: BP_AI_ZombieCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963
+[2026.03.17-13.20.18:055][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-13.20.18:061][334]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-13.20.18:061][334]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-13.20.18:065][334]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4.309 ms (total: 6.737 ms)
+[2026.03.17-13.20.18:065][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-13.20.18:065][334]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.20.18:072][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007230s)
+[2026.03.17-13.20.18:072][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007278s)
+[2026.03.17-13.20.18:093][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.17-13.20.18:097][334]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-13.20.18:098][334]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-13.20.18:098][334]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-13.20.18:098][334]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-13.20.18:098][334]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-13.20.18:101][334]LogWorldPartition: Display: WorldPartition initialize took 2.151 ms (total: 82.390 ms)
+[2026.03.17-13.20.18:101][334]LogPlayLevel: PIE: World Init took: (0.003996s)
+[2026.03.17-13.20.18:101][334]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-13.20.18:102][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-13.20.18:102][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-13.20.18:102][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-13.20.18:102][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-13.20.18:102][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-13.20.18:104][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-13.20.18:128][334]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.17-13.20.18:129][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-13.20.18:129][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-13.20.18:129][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-13.20.18:130][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.17-13.20.18:130][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.17-13.20.18:131][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.17-13.20.18:131][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.17-13.20.18:132][334]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.17-13.20.18:132][334]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2026.03.17-13.20.18:132][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.17-13.20.18:139][334]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-13.20.18:142][334]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-13.20.18
+[2026.03.17-13.20.18:143][334]LogWorld: Bringing up level for play took: 0.004145
+[2026.03.17-13.20.18:145][334]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.03.17-13.20.18:151][334]PIE: Server logged in
+[2026.03.17-13.20.18:152][334]PIE: Play in editor total start time 0.091 seconds.
+[2026.03.17-13.21.06:965][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.21.06:965][814]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.21.06:965][814]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.21.06:966][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.21.06:966][814]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-13.21.06:969][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-13.21.06:975][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.21.06:996][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-13.21.06:996][814]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.17-13.21.06:996][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.17-13.21.07:000][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.17-13.21.07:006][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.21.07:010][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.17-13.21.07:157][815]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.03.17-13.21.09:127][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7147.127441
+[2026.03.17-13.21.09:291][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.21.09:291][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7147.277832, Update Interval: 354.275940
+[2026.03.17-13.21.33:175][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.17-13.21.33:179][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UP/CU2QGOGIB6OQ6DZ8LPBJUU_Auto6
+[2026.03.17-13.21.33:179][651]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/CU2QGOGIB6OQ6DZ8LPBJUU_Auto67FEE7CB740CD0D83EC716F9D5153EECA.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UP/CU2QGOGIB6OQ6DZ8LPBJUU_Auto6.uasset'
+[2026.03.17-13.21.33:180][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2026.03.17-13.21.33:180][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2026.03.17-13.21.33:181][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7N/MJY9CBTB09JIUW6105XV2Q_Auto6
+[2026.03.17-13.21.33:181][651]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/MJY9CBTB09JIUW6105XV2Q_Auto6644C448342343322462D3EB7608C5080.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7N/MJY9CBTB09JIUW6105XV2Q_Auto6.uasset'
+[2026.03.17-13.21.33:182][651]LogFileHelpers: Auto-saving content packages took 0.002
+[2026.03.17-13.23.35:301][267]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ZombieCharacter/Blueprints/BT_ZC_AI.BT_ZC_AI
+[2026.03.17-13.23.55:466][497]LogDerivedDataCache: C:/Users/Benjamin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.17-13.25.49:552][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-13.25.49:558][955]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-13.25.49:558][955]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-13.25.49:560][955]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.448 ms (total: 9.186 ms)
+[2026.03.17-13.25.49:564][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-13.25.49:591][955]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.25.49:598][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005453s)
+[2026.03.17-13.25.49:598][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005501s)
+[2026.03.17-13.25.49:631][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.17-13.25.49:632][955]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-13.25.49:633][955]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-13.25.49:633][955]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-13.25.49:633][955]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-13.25.49:633][955]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-13.25.49:635][955]LogWorldPartition: Display: WorldPartition initialize took 1.680 ms (total: 84.071 ms)
+[2026.03.17-13.25.49:635][955]LogPlayLevel: PIE: World Init took: (0.003275s)
+[2026.03.17-13.25.49:636][955]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-13.25.49:636][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-13.25.49:636][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-13.25.49:636][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-13.25.49:636][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-13.25.49:636][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-13.25.49:640][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-13.25.49:659][955]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.17-13.25.49:659][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-13.25.49:659][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-13.25.49:659][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-13.25.49:660][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.17-13.25.49:660][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.17-13.25.49:663][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.17-13.25.49:663][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.17-13.25.49:663][955]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.17-13.25.49:663][955]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2026.03.17-13.25.49:663][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.17-13.25.49:665][955]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-13.25.49:668][955]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-13.25.49
+[2026.03.17-13.25.49:668][955]LogWorld: Bringing up level for play took: 0.003254
+[2026.03.17-13.25.49:671][955]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.03.17-13.25.49:673][955]PIE: Server logged in
+[2026.03.17-13.25.49:674][955]PIE: Play in editor total start time 0.116 seconds.
+[2026.03.17-13.26.20:926][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.26.20:926][ 76]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.26.20:926][ 76]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.26.20:927][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.26.20:927][ 76]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-13.26.20:931][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-13.26.20:937][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.26.20:957][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-13.26.20:957][ 76]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.17-13.26.20:957][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.03.17-13.26.20:960][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.03.17-13.26.20:965][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.26.20:967][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.17-13.26.21:091][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.03.17-13.27.57:344][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7555.333496
+[2026.03.17-13.27.58:344][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.27.58:344][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7556.000977, Update Interval: 314.269836
+[2026.03.17-13.32.41:130][350]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2026.03.17-13.32.41:193][350]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.32.41:193][350]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26228
+[2026.03.17-13.32.41:528][351]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.32.41:530][351]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{156372fa-149f-4ffa-84f3-58dbc58c1fed}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.15
+[2026.03.17-13.32.41:530][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-13.32.41:531][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-13.33.01:568][412]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.17-13.33.01:862][412]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.33.01:862][412]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26228
+[2026.03.17-13.33.02:195][413]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-13.33.02:196][413]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.93
+[2026.03.17-13.33.02:196][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-13.33.02:199][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-13.33.48:099][698]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_108
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.33.49:001][751]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_109
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.33.58:210][145]LogStreaming: Display: FlushAsyncLoading(650): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-13.33.58:238][145]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Run.fbx]
+[2026.03.17-13.33.58:298][145]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-13.33.58:317][145]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-13.34.11:089][145]LogSlate: Window 'Import Content' being destroyed
+[2026.03.17-13.34.11:117][145]LogInterchangeEngine: [Pending] Importing
+[2026.03.17-13.34.11:138][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7929.139648
+[2026.03.17-13.34.11:247][148]LogStreaming: Display: FlushAsyncLoading(651): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-13.34.11:278][149]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run (Required Memory Estimate: 0.41 MB)
+[2026.03.17-13.34.11:285][149]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run (Required Memory Estimate: 0.41 MB)
+[2026.03.17-13.34.11:291][149]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run, at AnimationSequence/f5786b28915dcc40fad474bb992d7eb82433bac9
+[2026.03.17-13.34.11:297][149]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Run.fbx]
+[2026.03.17-13.34.11:297][149]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.17-13.34.11:297][149]LogInterchangeEngine: [Success] Import Done
+[2026.03.17-13.34.11:414][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.34.11:414][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7929.389160, Update Interval: 351.888184
+[2026.03.17-13.34.14:398][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.17-13.34.14:401][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2026.03.17-13.34.14:402][323]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Run] ([1] browsable assets)...
+[2026.03.17-13.34.14:435][323]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run]
+[2026.03.17-13.34.14:435][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Run]
+[2026.03.17-13.34.14:441][323]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Run_Auto7
+[2026.03.17-13.34.14:441][323]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Run_Auto7902BE136446C3651350FCC9F1CC9F61B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Run_Auto7.uasset'
+[2026.03.17-13.34.14:441][323]LogFileHelpers: Auto-saving content packages took 0.040
+[2026.03.17-13.34.15:173][361]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_110
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:191][362]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_111
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:209][363]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_112
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:227][364]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_113
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:246][365]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_114
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:297][366]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_115
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:309][367]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_116
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:321][368]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_117
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:334][369]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_118
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:351][370]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_119
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:369][371]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_120
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:388][372]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_121
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:407][373]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_122
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:428][374]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_123
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:447][375]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_124
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:584][380]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_125
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:598][381]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_126
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:625][382]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_127
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.15:642][383]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_128
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.34.42:134][945]LogSlate: Window 'BT_ZC_AI' being destroyed
+[2026.03.17-13.34.42:170][945]LogSlate: Window 'BT_ZC_AI' being destroyed
+[2026.03.17-13.34.47:639][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_Patrol.BTTask_Patrol
+[2026.03.17-13.34.47:639][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.17-13.34.51:283][463]LogSlate: Window 'BTTask_Patrol' being destroyed
+[2026.03.17-13.34.51:319][463]LogSlate: Window 'BTTask_Patrol' being destroyed
+[2026.03.17-13.34.51:323][463]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.34.51:323][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.34.51:413][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.17-13.34.53:572][590]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController
+[2026.03.17-13.34.53:572][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.17-13.35.54:798][914]LogSlate: Window 'ZC_AIController' being destroyed
+[2026.03.17-13.35.54:880][914]LogSlate: Window 'ZC_AIController' being destroyed
+[2026.03.17-13.35.54:910][914]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.35.54:912][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.35.54:972][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.17-13.36.02:484][359]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_129
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:354][411]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_130
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:391][412]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_131
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:401][413]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_132
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:414][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_133
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:430][415]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_134
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.03:452][416]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_135
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.36.04:802][488]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ZombieCharacter/Animations/BS_ZombieCharacter.BS_ZombieCharacter
+[2026.03.17-13.36.04:802][488]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.17-13.36.04:826][488]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.17-13.36.05:081][488]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.17-13.37.06:464][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.37.06:545][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter] ([1] browsable assets)...
+[2026.03.17-13.37.06:555][ 50]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/ZombieCharacter/Animations/BS_ZombieCharacter.BS_ZombieCharacter]
+[2026.03.17-13.37.06:555][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter]
+[2026.03.17-13.37.06:556][ 50]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/BS_ZombieCharacter
+[2026.03.17-13.37.06:556][ 50]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BS_ZombieCharacter6305D5994D48404B2F2F3DA590F79AA3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/BS_ZombieCharacter.uasset'
+[2026.03.17-13.37.06:565][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.439 ms (total: 1.12 sec)
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: Enabled validators:
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.37.06:592][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.37.06:592][ 50]AssetCheck: /Game/ZombieCharacter/Animations/BS_ZombieCharacter Validating asset
+[2026.03.17-13.40.02:125][830]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_136
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:145][831]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_137
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:166][832]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_138
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:186][833]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_139
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:207][834]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_140
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:227][835]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_141
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:246][836]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_142
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.02:266][837]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_143
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.17-13.40.07:500][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.17-13.40.17:366][100]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.17-13.40.17:388][100]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ZombieCharacter/Animations/Zombie_Running.Zombie_Running
+	Asset Type: AnimSequence
+[2026.03.17-13.40.17:828][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.17-13.40.17:849][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.17-13.40.17:867][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.17-13.40.23:980][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.03.17-13.40.29:841][417]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.17-13.40.56:883][647]LogSlate: Window 'Message' being destroyed
+[2026.03.17-13.40.56:890][647]Message dialog closed, result: No, title: Message, text: This import will override asset 'AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run', Do you want to convert this import to a re-import?
+[2026.03.17-13.40.56:916][647]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Run.fbx]
+[2026.03.17-13.40.56:975][647]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-13.40.56:993][647]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2026.03.17-13.41.04:962][647]LogSlate: Window 'Import Content' being destroyed
+[2026.03.17-13.41.04:988][647]LogInterchangeEngine: [Pending] Importing
+[2026.03.17-13.41.08:338][647]LogSlate: Window 'Message' being destroyed
+[2026.03.17-13.41.08:345][647]Message dialog closed, result: No, title: Message, text: This import will override asset 'AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk', Do you want to convert this import to a re-import?
+[2026.03.17-13.41.08:360][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8346.365234
+[2026.03.17-13.41.13:406][650]LogSlate: Window 'Message' being destroyed
+[2026.03.17-13.41.13:413][650]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run'?
+[2026.03.17-13.41.13:425][651]LogScript: Display: Script Msg: /Game/ZombieCharacter/Animations/Zombie_Run : New play length is same as existing one: 24 frames
+[2026.03.17-13.41.13:428][651]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run (Required Memory Estimate: 0.41 MB)
+[2026.03.17-13.41.13:436][651]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run (Required Memory Estimate: 0.41 MB)
+[2026.03.17-13.41.13:443][651]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run, at AnimationSequence/682eb843c51b3392c3e166878d9a3c10f73de7c0
+[2026.03.17-13.41.13:450][651]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Run.fbx]
+[2026.03.17-13.41.13:450][651]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.03.17-13.41.13:450][651]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.03.17-13.41.13:450][651]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Benjamin/Downloads/Zombie Walk.fbx]
+[2026.03.17-13.41.13:450][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-13.41.13:450][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8351.417969, Update Interval: 328.402344
+[2026.03.17-13.41.18:135][660]LogSlate: Window 'Message' being destroyed
+[2026.03.17-13.41.18:142][660]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to override asset 'AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk'?
+[2026.03.17-13.41.18:152][661]LogScript: Display: Script Msg: /Game/ZombieCharacter/Animations/Zombie_Walk : New play length is same as existing one: 121 frames
+[2026.03.17-13.41.18:155][661]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk (Required Memory Estimate: 1.58 MB)
+[2026.03.17-13.41.18:171][661]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Benjamin/Downloads/Zombie Walk.fbx]
+[2026.03.17-13.41.18:177][661]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.17-13.41.18:177][661]LogInterchangeEngine: [Success] Import Done
+[2026.03.17-13.41.18:183][662]LogAnimationCompression: Display: Storing compressed animation data for /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk, at AnimationSequence/65023a1a0fdb89ccdc90c113ebf6b091c97abdbb
+[2026.03.17-13.41.57:704][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.41.57:780][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter] ([1] browsable assets)...
+[2026.03.17-13.41.57:780][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/BS_ZombieCharacter]
+[2026.03.17-13.41.57:781][228]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/BS_ZombieCharacter
+[2026.03.17-13.41.57:781][228]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BS_ZombieCharacter19AA1B5E46F1D4B5227F3E9387251DE5.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/BS_ZombieCharacter.uasset'
+[2026.03.17-13.41.57:789][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.647 ms (total: 1.21 sec)
+[2026.03.17-13.41.57:815][228]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.41.57:815][228]LogContentValidation: Enabled validators:
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.41.57:815][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.41.57:815][228]AssetCheck: /Game/ZombieCharacter/Animations/BS_ZombieCharacter Validating asset
+[2026.03.17-13.42.01:344][387]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-13.42.01:349][387]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-13.42.01:349][387]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-13.42.01:352][387]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.674 ms (total: 11.860 ms)
+[2026.03.17-13.42.01:352][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-13.42.01:389][387]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.42.01:394][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005435s)
+[2026.03.17-13.42.01:394][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005479s)
+[2026.03.17-13.42.01:418][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.17-13.42.01:421][387]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-13.42.01:422][387]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-13.42.01:422][387]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-13.42.01:422][387]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-13.42.01:422][387]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-13.42.01:424][387]LogWorldPartition: Display: WorldPartition initialize took 2.005 ms (total: 86.076 ms)
+[2026.03.17-13.42.01:424][387]LogPlayLevel: PIE: World Init took: (0.003742s)
+[2026.03.17-13.42.01:425][387]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-13.42.01:425][387]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-13.42.01:425][387]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-13.42.01:425][387]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-13.42.01:425][387]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-13.42.01:425][387]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-13.42.01:428][387]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-13.42.01:451][387]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.17-13.42.01:451][387]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-13.42.01:451][387]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-13.42.01:451][387]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-13.42.01:452][387]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.17-13.42.01:452][387]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.17-13.42.01:455][387]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.17-13.42.01:455][387]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.17-13.42.01:455][387]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.17-13.42.01:455][387]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2026.03.17-13.42.01:455][387]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.17-13.42.01:458][387]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-13.42.01:461][387]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-13.42.01
+[2026.03.17-13.42.01:462][387]LogWorld: Bringing up level for play took: 0.003661
+[2026.03.17-13.42.01:465][387]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.03.17-13.42.01:467][387]PIE: Server logged in
+[2026.03.17-13.42.01:468][387]PIE: Play in editor total start time 0.119 seconds.
+[2026.03.17-13.42.37:039][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.42.37:039][869]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-13.42.37:039][869]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.42.37:040][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.42.37:040][869]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-13.42.37:044][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-13.42.37:050][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.42.37:073][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-13.42.37:073][869]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.17-13.42.37:073][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.03.17-13.42.37:075][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.03.17-13.42.37:081][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-13.42.37:084][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.17-13.42.37:222][870]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.03.17-13.43.18:786][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.43.18:861][103]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UP/CU2QGOGIB6OQ6DZ8LPBJUU
+[2026.03.17-13.43.18:861][103]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/CU2QGOGIB6OQ6DZ8LPBJUU5A52230B4ABE5872D809ABBE4B371E39.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UP/CU2QGOGIB6OQ6DZ8LPBJUU.uasset'
+[2026.03.17-13.43.18:871][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.453 ms (total: 1.29 sec)
+[2026.03.17-13.43.18:904][103]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-13.43.18:904][103]LogContentValidation: Enabled validators:
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.43.18:904][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.43.18:904][103]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.03.17-13.43.23:161][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.17-13.43.25:524][357]LogSlate: Window 'Save Content' being destroyed
+[2026.03.17-13.43.25:551][357]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-13.43.25:573][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BB_ZC_AI] ([1] browsable assets)...
+[2026.03.17-13.43.25:573][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BB_ZC_AI]
+[2026.03.17-13.43.25:574][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BB_ZC_AI
+[2026.03.17-13.43.25:574][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BB_ZC_AIE0917C844C729B3586E10095CF840539.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BB_ZC_AI.uasset'
+[2026.03.17-13.43.25:575][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/lambert1] ([1] browsable assets)...
+[2026.03.17-13.43.25:575][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/lambert1]
+[2026.03.17-13.43.25:575][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/lambert1" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Map/lambert1.uasset" SILENT=true
+[2026.03.17-13.43.25:576][357]LogSavePackage: Moving output files for package: /Game/Map/lambert1
+[2026.03.17-13.43.25:576][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/lambert1CBB1CACB4BD18DA3B69F4DB4E1165F10.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Map/lambert1.uasset'
+[2026.03.17-13.43.25:577][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/Map] ([1] browsable assets)...
+[2026.03.17-13.43.25:577][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Map]
+[2026.03.17-13.43.25:577][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Map" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Map/Map.uasset" SILENT=true
+[2026.03.17-13.43.25:581][357]LogSavePackage: Moving output files for package: /Game/Map/Map
+[2026.03.17-13.43.25:581][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Map1B7EB2514D8D13A12618CD879E4FBE08.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Map/Map.uasset'
+[2026.03.17-13.43.25:584][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse] ([1] browsable assets)...
+[2026.03.17-13.43.25:584][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_body_diffuse]
+[2026.03.17-13.43.25:626][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/zombie_body_diffuse
+[2026.03.17-13.43.25:626][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_body_diffuseE80156A44E794EC7EF6FAAA30D055A9A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/zombie_body_diffuse.uasset'
+[2026.03.17-13.43.25:629][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_diffuse] ([1] browsable assets)...
+[2026.03.17-13.43.25:629][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_diffuse]
+[2026.03.17-13.43.25:673][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/zombie_diffuse
+[2026.03.17-13.43.25:673][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_diffuse98C4CE4642B760920C9F128E287E3300.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/zombie_diffuse.uasset'
+[2026.03.17-13.43.25:674][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Idle] ([1] browsable assets)...
+[2026.03.17-13.43.25:675][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Idle]
+[2026.03.17-13.43.25:681][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/Zombie_Idle
+[2026.03.17-13.43.25:681][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Idle9315B9C74D2D81856053F1B31B57169C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/Zombie_Idle.uasset'
+[2026.03.17-13.43.25:686][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_normal] ([1] browsable assets)...
+[2026.03.17-13.43.25:686][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_normal]
+[2026.03.17-13.43.25:729][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/zombie_normal
+[2026.03.17-13.43.25:729][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_normal337CE27F4ABBD31ABAAF6C93BABA0114.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/zombie_normal.uasset'
+[2026.03.17-13.43.25:731][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Run] ([1] browsable assets)...
+[2026.03.17-13.43.25:753][357]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Run.Zombie_Run]
+[2026.03.17-13.43.25:753][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Run]
+[2026.03.17-13.43.25:759][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/Zombie_Run
+[2026.03.17-13.43.25:759][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_RunDDACDCD2443CE16CD71B38A36363E3B4.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/Zombie_Run.uasset'
+[2026.03.17-13.43.25:763][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/zombie_specular] ([1] browsable assets)...
+[2026.03.17-13.43.25:763][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/zombie_specular]
+[2026.03.17-13.43.25:796][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/zombie_specular
+[2026.03.17-13.43.25:796][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/zombie_specular2391433342FE3CCE77A1C487ECB26924.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/zombie_specular.uasset'
+[2026.03.17-13.43.25:797][357]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Walk] ([1] browsable assets)...
+[2026.03.17-13.43.25:809][357]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Walk.Zombie_Walk]
+[2026.03.17-13.43.25:809][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Walk]
+[2026.03.17-13.43.25:816][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/Zombie_Walk
+[2026.03.17-13.43.25:816][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Walk8185A7764D9982F4E03FC99888D944B8.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/Zombie_Walk.uasset'
+[2026.03.17-13.43.25:819][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material] ([1] browsable assets)...
+[2026.03.17-13.43.25:819][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_body_Material]
+[2026.03.17-13.43.25:823][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/ZombieGirl_body_Material
+[2026.03.17-13.43.25:823][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_body_Material988CBD9240FFB277845B5CA011CCA5FD.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/ZombieGirl_body_Material.uasset'
+[2026.03.17-13.43.25:824][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material] ([1] browsable assets)...
+[2026.03.17-13.43.25:824][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material]
+[2026.03.17-13.43.25:827][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/ZombieGirl_Material
+[2026.03.17-13.43.25:827][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material34D06782415734CCE83BD09CDA1F4D56.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/ZombieGirl_Material.uasset'
+[2026.03.17-13.43.25:828][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1] ([1] browsable assets)...
+[2026.03.17-13.43.25:828][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1]
+[2026.03.17-13.43.25:831][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1
+[2026.03.17-13.43.25:831][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZombieGirl_Material_ncl_133CA83C8420D34BFE414CDB7976B9A91.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1.uasset'
+[2026.03.17-13.43.25:833][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan] ([1] browsable assets)...
+[2026.03.17-13.43.25:833][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan]
+[2026.03.17-13.43.25:844][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan
+[2026.03.17-13.43.25:844][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_KurniawanDCDF01E641C7EF3A5207F28540983E59.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan.uasset'
+[2026.03.17-13.43.25:849][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim] ([1] browsable assets)...
+[2026.03.17-13.43.25:849][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim]
+[2026.03.17-13.43.25:854][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim
+[2026.03.17-13.43.25:854][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_Anim0F5ED2BD4A7ABD50AE7C3684516EA574.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim.uasset'
+[2026.03.17-13.43.25:858][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset] ([1] browsable assets)...
+[2026.03.17-13.43.25:858][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2026.03.17-13.43.25:861][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset
+[2026.03.17-13.43.25:861][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_PhysicsAs405428A64E3C7A78D86381A7B7B9F180.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset.uasset'
+[2026.03.17-13.43.25:866][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton] ([1] browsable assets)...
+[2026.03.17-13.43.25:866][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton]
+[2026.03.17-13.43.25:867][357]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton
+[2026.03.17-13.43.25:867][357]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombiegirl_W_Kurniawan_SkeletonBCE063D84906C51EB8B4F092014E2C37.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton.uasset'
+[2026.03.17-13.43.25:879][357]LogFileHelpers: InternalPromptForCheckoutAndSave took 328.660 ms (total: 1.62 sec)
+[2026.03.17-13.43.25:915][357]LogStall: Shutdown...
+[2026.03.17-13.43.25:915][357]LogStall: Shutdown complete.
+[2026.03.17-13.43.25:937][357]LogSlate: Window 'BS_ZombieCharacter' being destroyed
+[2026.03.17-13.43.26:048][357]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:048][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:057][357]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:057][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:092][357]LogSlate: Window 'UnrealProject - Unreal Editor' being destroyed
+[2026.03.17-13.43.26:265][357]LogContentValidation: Display: Starting to validate 17 assets
+[2026.03.17-13.43.26:266][357]LogContentValidation: Enabled validators:
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-13.43.26:266][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Blueprints/BB_ZC_AI Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/Map/lambert1 Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/Map/Map Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/zombie_body_diffuse Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/zombie_diffuse Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Animations/Zombie_Idle Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/zombie_normal Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Animations/Zombie_Run Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/zombie_specular Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Animations/Zombie_Walk Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/ZombieGirl_body_Material Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/ZombieGirl_Material Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/ZombieGirl_Material_ncl_1 Validating asset
+[2026.03.17-13.43.26:266][357]AssetCheck: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan Validating asset
+[2026.03.17-13.43.26:267][357]AssetCheck: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Anim Validating asset
+[2026.03.17-13.43.26:267][357]AssetCheck: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_PhysicsAsset Validating asset
+[2026.03.17-13.43.26:267][357]AssetCheck: /Game/ZombieCharacter/Mesh/Zombiegirl_W_Kurniawan_Skeleton Validating asset
+[2026.03.17-13.43.26:307][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.17-13.43.26:323][357]Cmd: QUIT_EDITOR
+[2026.03.17-13.43.26:323][357]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.17-13.43.26:332][358]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.17-13.43.26:333][358]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.17-13.43.26:333][358]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.17-13.43.26:335][358]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:335][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:335][358]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2026.03.17-13.43.26:350][358]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.17-13.43.26:357][358]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.17-13.43.26:367][358]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:367][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:371][358]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:371][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:374][358]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:374][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:377][358]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:377][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:381][358]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:381][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:384][358]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:384][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:388][358]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:388][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:392][358]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:392][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:396][358]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:396][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:399][358]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:399][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:402][358]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:402][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:406][358]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:406][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:410][358]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:410][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:413][358]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:413][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:417][358]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:417][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:421][358]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:421][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:424][358]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-13.43.26:425][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-13.43.26:433][358]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.17-13.43.26:442][358]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.17-13.43.26:442][358]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.17-13.43.26:443][358]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.17-13.43.26:780][358]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.17-13.43.26:780][358]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.17-13.43.26:780][358]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2026.03.17-13.43.26:780][358]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.17-13.43.26:780][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.17-13.43.26:782][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.17-13.43.26:787][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.17-13.43.26:787][358]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.17-13.43.26:789][358]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.17-13.43.26:792][358]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.17-13.43.26:793][358]LogExit: Preparing to exit.
+[2026.03.17-13.43.26:871][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.17-13.43.26:874][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:875][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:876][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:876][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.26:877][358]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.17-13.43.27:671][358]LogEditorDataStorage: Deinitializing
+[2026.03.17-13.43.27:867][358]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.17-13.43.27:917][358]LogExit: Editor shut down
+[2026.03.17-13.43.27:924][358]LogExit: Transaction tracking system shut down
+[2026.03.17-13.43.28:412][358]LogExit: Object subsystem successfully closed.
+[2026.03.17-13.43.28:449][358]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.17-13.43.29:421][358]LogMemoryProfiler: Shutdown
+[2026.03.17-13.43.29:422][358]LogNetworkingProfiler: Shutdown
+[2026.03.17-13.43.29:422][358]LoadingProfiler: Shutdown
+[2026.03.17-13.43.29:423][358]LogTimingProfiler: Shutdown
+[2026.03.17-13.43.30:019][358]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.17-13.43.30:022][358]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.17-13.43.30:023][358]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.17-13.43.30:026][358]RenderDocPlugin: plugin has been unloaded.
+[2026.03.17-13.43.30:041][358]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.17-13.43.30:041][358]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04FC79C8-4321-4A0B-6040-84954483421C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=129f240c4967ea587129489a2009a154%7Cff2b4295734543a4bfd1cbf95d6c1c28%7C4d9c080a-fa9e-443c-912c-620e8f565f63&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.17-13.43.30:593][358]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.17-13.43.30:616][358]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.17-13.43.30:616][358]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.17-13.43.30:616][358]LogPakFile: Destroying PakPlatformFile
+[2026.03.17-13.43.31:309][358]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.17-13.43.31:448][358]LogExit: Exiting.
+[2026.03.17-13.43.31:514][358]Log file closed, 03/17/26 13:43:31
