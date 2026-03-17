@@ -1461,3 +1461,1250 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.17-16.30.33:254][699]Interchange: Warning: [C:/Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Map/Map.fbx : 'pCube11', StaticMesh] No smoothing group information was found for this mesh 'Mesh_ncl_5' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
 [2026.03.17-16.30.33:272][699]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2026.03.17-16.30.33:272][699]LogInterchangeEngine: [Success] Import Done
+[2026.03.17-16.31.19:021][491]LogDerivedDataCache: C:/Users/Benjamin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.17-16.32.29:469][702]LogShaderCompilers: Display: ================================================
+[2026.03.17-16.32.29:469][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-16.32.29:469][702]LogShaderCompilers: Display: Total job queries 260, among them cache hits 34 (13.08%), DDC hits 216 (83.08%), Duplicates 5 (1.92%)
+[2026.03.17-16.32.29:469][702]LogShaderCompilers: Display: Tracking 221 distinct input hashes that result in 193 distinct outputs (87.33%)
+[2026.03.17-16.32.29:469][702]LogShaderCompilers: Display: RAM used: 135.21 KiB of 819.20 MiB budget. Usage: 0.02%
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Job execution time: average 2.17 s, max 2.48 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Job life time (pending + execution): average 2.19 s, max 2.50
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Shader code size: average 7.298 KiB, min 4.133 KiB, max 10.98 KiB
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.50 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Average processing rate: 2.00 jobs/sec
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Total thread time: 2.067 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Total thread preprocess time: 4.972 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Percentage time preprocessing: 240.56%
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Effective parallelization: 0.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.23% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.78% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.36% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.83% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.79% of total time (compiled    1 times, average 0.29 sec, max 0.29 sec, min 0.29 sec)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Materials Translated:    143
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Material Translation Only: 0.03 s (34%)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: Material Cache Hits: 25 (17%)
+[2026.03.17-16.32.29:470][702]LogShaderCompilers: Display: ================================================
+[2026.03.17-16.32.57:713][787]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (LG RK7  (C7) ), InstanceID=1
+[2026.03.17-16.32.57:808][787]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.17-16.32.57:808][787]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25780
+[2026.03.17-16.32.58:142][788]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.17-16.32.58:143][788]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4e572c9-313b-4df5-8167-cfa57e0aba30}, Name=Speakers (LG RK7  (C7) )), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.80
+[2026.03.17-16.32.58:143][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.17-16.32.58:145][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.17-16.33.48:211][919]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.17-16.33.48:220][919]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.17-16.33.48:229][920]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.17-16.33.54:172][407]LogContentBrowser: Attempting asset rename: NewFolder -> Menus
+[2026.03.17-16.33.54:172][407]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.17-16.34.14:067][530]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.17-16.34.14:075][530]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.17-16.34.14:082][530]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.17-16.34.14:108][532]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.17-16.34.21:167][101]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_PauseMenu
+[2026.03.17-16.34.21:187][101]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.17-16.34.25:639][460]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu
+[2026.03.17-16.34.25:639][460]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.17-16.34.25:657][460]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.17-16.34.25:666][460]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.17-16.34.25:708][460]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-16.34.27:287][460]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2026.03.17-16.34.27:288][460]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2026.03.17-16.34.27:507][460]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.17-16.34.27:515][460]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2026.03.17-16.34.27:521][460]LogSlate: Took 0.005730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.17-16.34.39:926][370]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 315.356995
+[2026.03.17-16.34.40:089][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.34.40:089][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 315.506195, Update Interval: 336.268799
+[2026.03.17-16.36.41:566][662]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-16.38.56:826][394]LogSlate: Took 0.017589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.17-16.40.10:504][906]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:600][907]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:609][907]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:623][908]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:626][908]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:716][909]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:738][910]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:741][910]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:828][911]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:837][911]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:954][913]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:967][914]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.10:992][916]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:007][917]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:029][919]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:040][920]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:062][922]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:076][923]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:097][925]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:107][926]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:131][928]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:143][929]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:165][931]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:178][932]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:205][934]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:218][935]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:244][937]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:258][938]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:284][940]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:298][941]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:324][943]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:337][944]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:362][946]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:364][946]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:376][947]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:378][947]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:404][949]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:416][950]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:417][950]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:429][951]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:443][952]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:457][953]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:469][954]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:481][955]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:483][955]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:496][956]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:522][958]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:536][959]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:562][961]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:575][962]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:602][964]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:614][965]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:642][967]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:654][968]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:682][970]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:694][971]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:719][973]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:733][974]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:760][976]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:773][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:798][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:812][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:838][982]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:852][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:877][985]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:891][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.11:915][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:566][457]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:567][457]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:569][457]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:627][458]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:646][459]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:706][460]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:773][462]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:778][462]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:792][463]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:862][465]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:922][466]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.18:991][468]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.19:005][469]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.19:073][471]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.19:343][478]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 654.775391
+[2026.03.17-16.40.19:524][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.40.19:524][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 654.942078, Update Interval: 303.951538
+[2026.03.17-16.40.22:349][703]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:349][703]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:351][703]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:435][704]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:455][705]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:457][705]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:535][706]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:541][706]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:565][708]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:576][709]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:600][711]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:611][712]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:634][714]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:644][715]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:669][717]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:681][718]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:705][720]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:717][721]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:739][723]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:752][724]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:779][726]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:792][727]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:817][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:830][730]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:857][732]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:871][733]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:897][735]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:910][736]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:936][738]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:949][739]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:973][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:975][741]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:987][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.22:988][742]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:001][743]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:014][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:017][744]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:028][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:031][745]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:041][746]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:055][747]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:069][748]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:094][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:095][750]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:107][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:109][751]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:134][753]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:138][753]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:222][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:229][754]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:323][756]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:329][756]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:343][757]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:346][757]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:426][758]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:445][759]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:448][759]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:528][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:535][760]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:633][762]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:648][763]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:747][765]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:833][766]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:931][768]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.40.23:944][769]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.03.17-16.42.40:500][983]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-16.42.55:802][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.17-16.42.56:794][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.42.56:819][150]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_PauseMenu] ([2] browsable assets)...
+[2026.03.17-16.42.56:822][150]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu]
+[2026.03.17-16.42.56:822][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_PauseMenu]
+[2026.03.17-16.42.56:822][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_PauseMenu" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset" SILENT=true
+[2026.03.17-16.42.56:827][150]LogSavePackage: Moving output files for package: /Game/Menus/WB_PauseMenu
+[2026.03.17-16.42.56:827][150]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_PauseMenu0CA8698244B681BE5042CA8C8E3F878F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset'
+[2026.03.17-16.42.56:837][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.771 ms
+[2026.03.17-16.42.56:856][150]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.42.56:856][150]LogContentValidation: Enabled validators:
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.42.56:856][150]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.42.56:857][150]AssetCheck: /Game/Menus/WB_PauseMenu Validating asset
+[2026.03.17-16.42.58:667][277]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.42.58:671][277]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.42.58:691][277]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.42.58:691][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.42.58:696][277]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.42.58:696][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.42.58:739][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.17-16.43.11:606][350]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.17-16.43.11:652][351]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.17-16.43.11:719][352]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.17-16.43.51:334][594]LogContentBrowser: Attempting asset rename: IA_Jump1 -> IA_Pause
+[2026.03.17-16.43.51:429][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.43.51:429][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/Actions/IA_Pause] ([1] browsable assets)...
+[2026.03.17-16.43.51:429][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/Actions/IA_Pause]
+[2026.03.17-16.43.51:431][594]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/Actions/IA_Pause
+[2026.03.17-16.43.51:431][594]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/IA_PauseDBA8C7B84A28A18D4E46CF993665CEEB.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Input/Actions/IA_Pause.uasset'
+[2026.03.17-16.43.51:432][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.468 ms (total: 46.240 ms)
+[2026.03.17-16.43.51:465][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.17-16.43.51:483][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.17-16.43.51:501][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.17-16.43.51:540][594]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.43.51:540][594]LogContentValidation: Enabled validators:
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.43.51:540][594]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.43.51:540][594]AssetCheck: /Game/FirstPerson/Input/Actions/IA_Pause Validating asset
+[2026.03.17-16.43.58:362][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.43.58:397][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L0/2RYF8F81X5BECOQEJGKN97
+[2026.03.17-16.43.58:398][153]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/2RYF8F81X5BECOQEJGKN97EB162DB04815277AED72AEACC66D321C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L0/2RYF8F81X5BECOQEJGKN97.uasset'
+[2026.03.17-16.43.58:409][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.803 ms (total: 93.044 ms)
+[2026.03.17-16.43.58:434][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.43.58:434][153]LogContentValidation: Enabled validators:
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.43.58:434][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.43.58:434][153]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2026.03.17-16.44.06:054][786]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2026.03.17-16.44.16:264][510]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.17-16.44.28:363][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.44.28:390][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Input/IMC_Default] ([1] browsable assets)...
+[2026.03.17-16.44.28:390][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Input/IMC_Default]
+[2026.03.17-16.44.28:391][629]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2026.03.17-16.44.28:392][629]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/IMC_DefaultAE44FA044888A543A8909EB14340D0C6.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Input/IMC_Default.uasset'
+[2026.03.17-16.44.28:398][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.063 ms (total: 129.108 ms)
+[2026.03.17-16.44.28:423][629]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.44.28:423][629]LogContentValidation: Enabled validators:
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.44.28:423][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.44.28:424][629]AssetCheck: /Game/FirstPerson/Input/IMC_Default Validating asset
+[2026.03.17-16.44.29:445][701]LogSlate: Window 'IMC_Default' being destroyed
+[2026.03.17-16.44.29:450][701]LogSlate: Window 'IMC_Default' being destroyed
+[2026.03.17-16.44.38:235][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.17-16.44.38:235][393]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.17-16.44.38:317][393]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.17-16.45.30:282][777]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 965.714661
+[2026.03.17-16.45.30:457][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.45.30:458][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 965.876587, Update Interval: 305.421906
+[2026.03.17-16.47.36:082][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.17-16.47.36:083][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.043
+[2026.03.17-16.47.36:083][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.17-16.47.36:212][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.17-16.47.36:212][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.17-16.47.36:224][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2026.03.17-16.47.36:224][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter_Auto1F2E38D0D4381323BA8A129B000F7587D.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2026.03.17-16.47.36:225][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/openPBR_shader1] ([1] browsable assets)...
+[2026.03.17-16.47.37:895][388]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Map/openPBR_shader1.openPBR_shader1]
+[2026.03.17-16.47.37:895][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/openPBR_shader1]
+[2026.03.17-16.47.37:898][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/openPBR_shader1_Auto1
+[2026.03.17-16.47.37:898][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/openPBR_shader1_Auto15690DB0D4ABBB7362138C18DC326D1FD.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/openPBR_shader1_Auto1.uasset'
+[2026.03.17-16.47.37:899][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube1] ([1] browsable assets)...
+[2026.03.17-16.47.37:919][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube1.pCube1]
+[2026.03.17-16.47.37:919][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube1]
+[2026.03.17-16.47.37:921][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube1_Auto1
+[2026.03.17-16.47.37:921][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube1_Auto154BF0136440A5BB5D1DEC78E9D848A3D.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube1_Auto1.uasset'
+[2026.03.17-16.47.37:922][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube2] ([1] browsable assets)...
+[2026.03.17-16.47.37:942][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube2.pCube2]
+[2026.03.17-16.47.37:942][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube2]
+[2026.03.17-16.47.37:944][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube2_Auto1
+[2026.03.17-16.47.37:944][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube2_Auto180FE9EC24423F07B62ECFB992407CCD2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube2_Auto1.uasset'
+[2026.03.17-16.47.37:946][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube16] ([1] browsable assets)...
+[2026.03.17-16.47.37:964][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube16.pCube16]
+[2026.03.17-16.47.37:964][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube16]
+[2026.03.17-16.47.37:967][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube16_Auto1
+[2026.03.17-16.47.37:967][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube16_Auto1AE1218914F008DF41023CFB3922E3D0A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube16_Auto1.uasset'
+[2026.03.17-16.47.37:967][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube17] ([1] browsable assets)...
+[2026.03.17-16.47.37:987][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube17.pCube17]
+[2026.03.17-16.47.37:987][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube17]
+[2026.03.17-16.47.37:989][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube17_Auto1
+[2026.03.17-16.47.37:989][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube17_Auto1EE8CB61E43C923383DC00DB21B016AD3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube17_Auto1.uasset'
+[2026.03.17-16.47.37:989][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube18] ([1] browsable assets)...
+[2026.03.17-16.47.38:010][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube18.pCube18]
+[2026.03.17-16.47.38:010][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube18]
+[2026.03.17-16.47.38:012][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube18_Auto1
+[2026.03.17-16.47.38:013][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube18_Auto11D704E174152A240601D459BDD8FB64D.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube18_Auto1.uasset'
+[2026.03.17-16.47.38:013][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube19] ([1] browsable assets)...
+[2026.03.17-16.47.38:033][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube19.pCube19]
+[2026.03.17-16.47.38:033][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube19]
+[2026.03.17-16.47.38:035][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube19_Auto1
+[2026.03.17-16.47.38:035][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube19_Auto1B01D01384A74482D61C9BC9FF3468CC3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube19_Auto1.uasset'
+[2026.03.17-16.47.38:036][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube20] ([1] browsable assets)...
+[2026.03.17-16.47.38:054][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube20.pCube20]
+[2026.03.17-16.47.38:054][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube20]
+[2026.03.17-16.47.38:057][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube20_Auto1
+[2026.03.17-16.47.38:057][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube20_Auto1B6582D7E4281310BC63FBA875CC10BC7.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube20_Auto1.uasset'
+[2026.03.17-16.47.38:057][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube21] ([1] browsable assets)...
+[2026.03.17-16.47.38:074][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube21.pCube21]
+[2026.03.17-16.47.38:074][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube21]
+[2026.03.17-16.47.38:077][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube21_Auto1
+[2026.03.17-16.47.38:077][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube21_Auto1BBA0D7E64353D4397D844FB17857049C.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube21_Auto1.uasset'
+[2026.03.17-16.47.38:078][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube23] ([1] browsable assets)...
+[2026.03.17-16.47.38:096][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube23.pCube23]
+[2026.03.17-16.47.38:096][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube23]
+[2026.03.17-16.47.38:098][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube23_Auto1
+[2026.03.17-16.47.38:098][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube23_Auto1189B487D446787745134608915D5D279.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube23_Auto1.uasset'
+[2026.03.17-16.47.38:099][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube24] ([1] browsable assets)...
+[2026.03.17-16.47.38:115][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube24.pCube24]
+[2026.03.17-16.47.38:115][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube24]
+[2026.03.17-16.47.38:119][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube24_Auto1
+[2026.03.17-16.47.38:119][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube24_Auto1ACF693D942AA700C8E67A3B3FCE9F030.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube24_Auto1.uasset'
+[2026.03.17-16.47.38:120][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube25] ([1] browsable assets)...
+[2026.03.17-16.47.38:137][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube25.pCube25]
+[2026.03.17-16.47.38:137][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube25]
+[2026.03.17-16.47.38:139][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube25_Auto1
+[2026.03.17-16.47.38:139][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube25_Auto18E200DCA4F997C4FCF98D5972E85EEB3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube25_Auto1.uasset'
+[2026.03.17-16.47.38:139][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube5] ([1] browsable assets)...
+[2026.03.17-16.47.38:158][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube5.pCube5]
+[2026.03.17-16.47.38:158][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube5]
+[2026.03.17-16.47.38:159][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube5_Auto1
+[2026.03.17-16.47.38:161][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube5_Auto137C9B87743C718B826B624B7A84E8817.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube5_Auto1.uasset'
+[2026.03.17-16.47.38:161][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube26] ([1] browsable assets)...
+[2026.03.17-16.47.38:179][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube26.pCube26]
+[2026.03.17-16.47.38:179][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube26]
+[2026.03.17-16.47.38:181][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube26_Auto1
+[2026.03.17-16.47.38:181][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube26_Auto1F5C01A3C420E2262B27074B8EF06B707.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube26_Auto1.uasset'
+[2026.03.17-16.47.38:182][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube27] ([1] browsable assets)...
+[2026.03.17-16.47.38:199][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube27.pCube27]
+[2026.03.17-16.47.38:199][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube27]
+[2026.03.17-16.47.38:202][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube27_Auto1
+[2026.03.17-16.47.38:202][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube27_Auto16D648D124698FCE93B1C388559099295.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube27_Auto1.uasset'
+[2026.03.17-16.47.38:203][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube9] ([1] browsable assets)...
+[2026.03.17-16.47.38:221][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube9.pCube9]
+[2026.03.17-16.47.38:221][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube9]
+[2026.03.17-16.47.38:223][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube9_Auto1
+[2026.03.17-16.47.38:224][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube9_Auto1DFAE2D5A49A4BD56D10A4CAC688CD2B8.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube9_Auto1.uasset'
+[2026.03.17-16.47.38:224][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube10] ([1] browsable assets)...
+[2026.03.17-16.47.38:241][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube10.pCube10]
+[2026.03.17-16.47.38:242][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube10]
+[2026.03.17-16.47.38:243][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube10_Auto1
+[2026.03.17-16.47.38:243][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube10_Auto196ACD35A4DA7F36AEC3F81AE6D8F6186.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube10_Auto1.uasset'
+[2026.03.17-16.47.38:244][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube12] ([1] browsable assets)...
+[2026.03.17-16.47.38:263][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube12.pCube12]
+[2026.03.17-16.47.38:263][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube12]
+[2026.03.17-16.47.38:265][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube12_Auto1
+[2026.03.17-16.47.38:265][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube12_Auto18031A5A04FE1185AD701AAB8F5764650.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube12_Auto1.uasset'
+[2026.03.17-16.47.38:266][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube13] ([1] browsable assets)...
+[2026.03.17-16.47.38:282][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube13.pCube13]
+[2026.03.17-16.47.38:282][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube13]
+[2026.03.17-16.47.38:285][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube13_Auto1
+[2026.03.17-16.47.38:285][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube13_Auto14F38438F49EBC4A7170403AECD1783A9.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube13_Auto1.uasset'
+[2026.03.17-16.47.38:286][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube14] ([1] browsable assets)...
+[2026.03.17-16.47.38:302][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube14.pCube14]
+[2026.03.17-16.47.38:302][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube14]
+[2026.03.17-16.47.38:304][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube14_Auto1
+[2026.03.17-16.47.38:304][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube14_Auto1ACAADD2649438064E895CDB65A06054B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube14_Auto1.uasset'
+[2026.03.17-16.47.38:305][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube15] ([1] browsable assets)...
+[2026.03.17-16.47.38:322][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube15.pCube15]
+[2026.03.17-16.47.38:322][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube15]
+[2026.03.17-16.47.38:325][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube15_Auto1
+[2026.03.17-16.47.38:325][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube15_Auto17E0FD5F34244E1D9B77074A921A8C3F0.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube15_Auto1.uasset'
+[2026.03.17-16.47.38:325][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube22] ([1] browsable assets)...
+[2026.03.17-16.47.38:341][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube22.pCube22]
+[2026.03.17-16.47.38:341][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube22]
+[2026.03.17-16.47.38:343][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube22_Auto1
+[2026.03.17-16.47.38:343][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube22_Auto14B6BE5A748FE1B6766ECFE9063C888CB.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube22_Auto1.uasset'
+[2026.03.17-16.47.38:344][388]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/pCube11] ([1] browsable assets)...
+[2026.03.17-16.47.38:361][388]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Map/pCube11.pCube11]
+[2026.03.17-16.47.38:361][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube11]
+[2026.03.17-16.47.38:363][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube11_Auto1
+[2026.03.17-16.47.38:363][388]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube11_Auto1A8433E514C3899F846F51FA4ED4A63BC.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube11_Auto1.uasset'
+[2026.03.17-16.47.38:363][388]LogFileHelpers: Auto-saving content packages took 2.280
+[2026.03.17-16.48.57:638][760]LogBlueprint: Error: [AssetLog] C:\Users\Benjamin\Documents\GitHub\UnrealProject\UnrealProject\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a CheatManager, therefore ' Target ' must have a connection.
+[2026.03.17-16.48.57:682][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.17-16.48.58:494][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.48.58:518][807]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.17-16.48.58:552][807]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.17-16.48.58:552][807]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.17-16.48.58:564][807]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.17-16.48.58:565][807]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter711E27C84B2EC8D20327DB844A1D3700.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.17-16.48.58:574][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.028 ms (total: 209.136 ms)
+[2026.03.17-16.48.58:594][807]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.48.58:594][807]LogContentValidation: Enabled validators:
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.48.58:594][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.48.58:594][807]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.17-16.49.35:986][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.17-16.49.37:802][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.49.37:827][ 42]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.17-16.49.37:861][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.17-16.49.37:861][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.17-16.49.37:874][ 42]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.17-16.49.37:874][ 42]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacterC3F8F349423063B05465958B95CF2F49.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.17-16.49.37:881][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.128 ms (total: 288.264 ms)
+[2026.03.17-16.49.37:908][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: Enabled validators:
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.49.37:909][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.49.37:909][ 42]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.17-16.49.44:421][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.17-16.49.45:078][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.49.45:103][559]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.17-16.49.45:135][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.17-16.49.45:135][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.17-16.49.45:148][559]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.17-16.49.45:149][559]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter9B7945DF46516E890727AF962982C078.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.17-16.49.45:156][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.255 ms (total: 366.519 ms)
+[2026.03.17-16.49.45:186][559]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.49.45:186][559]LogContentValidation: Enabled validators:
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.49.45:186][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.49.45:186][559]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.17-16.50.12:007][636]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-16.50.12:012][636]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-16.50.12:012][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-16.50.12:014][636]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.740 ms
+[2026.03.17-16.50.12:015][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-16.50.12:021][636]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.03.17-16.50.12:021][636]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.03.17-16.50.12:021][636]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.50.12:028][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007332s)
+[2026.03.17-16.50.12:028][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007374s)
+[2026.03.17-16.50.12:048][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.17-16.50.12:052][636]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-16.50.12:053][636]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-16.50.12:053][636]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-16.50.12:053][636]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-16.50.12:053][636]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-16.50.12:054][636]LogWorldPartition: Display: WorldPartition initialize took 1.899 ms (total: 619.444 ms)
+[2026.03.17-16.50.12:054][636]LogPlayLevel: PIE: World Init took: (0.003555s)
+[2026.03.17-16.50.12:056][636]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-16.50.12:056][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-16.50.12:056][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-16.50.12:056][636]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-16.50.12:056][636]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-16.50.12:056][636]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-16.50.12:058][636]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-16.50.12:084][636]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-16.50.12:084][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-16.50.12:084][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-16.50.12:084][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-16.50.12:085][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.17-16.50.12:085][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.17-16.50.12:087][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.17-16.50.12:087][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.17-16.50.12:087][636]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.17-16.50.12:087][636]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2026.03.17-16.50.12:087][636]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.17-16.50.12:090][636]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-16.50.12:093][636]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-16.50.12
+[2026.03.17-16.50.12:094][636]LogWorld: Bringing up level for play took: 0.003783
+[2026.03.17-16.50.12:096][636]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.03.17-16.50.12:100][636]PIE: Server logged in
+[2026.03.17-16.50.12:101][636]PIE: Play in editor total start time 0.089 seconds.
+[2026.03.17-16.50.14:027][765]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-16.50.14:027][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-16.50.14:027][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-16.50.25:702][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.50.25:702][621]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.50.25:703][621]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.50.25:704][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.50.25:704][621]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-16.50.25:708][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-16.50.25:712][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.50.25:733][621]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.17-16.50.25:733][621]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.17-16.50.25:733][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.17-16.50.25:736][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.03.17-16.50.25:739][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.50.25:743][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.17-16.50.25:765][622]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: ================================================
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Total job queries 265, among them cache hits 34 (12.83%), DDC hits 216 (81.51%), Duplicates 5 (1.89%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Tracking 226 distinct input hashes that result in 196 distinct outputs (86.73%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: RAM used: 136.48 KiB of 819.20 MiB budget. Usage: 0.02%
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Average time worker was idle: 1019.79 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Job execution time: average 1.78 s, max 2.48 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 2.50
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Shader code size: average 7.937 KiB, min 4.133 KiB, max 10.98 KiB
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.14 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Average processing rate: 2.41 jobs/sec
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Total thread time: 3.825 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Total thread preprocess time: 5.019 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Percentage time preprocessing: 131.22%
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 19.58% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.42% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.04% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.23% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.30% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: === Material stats ===
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Materials Translated:    145
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: Material Cache Hits: 26 (18%)
+[2026.03.17-16.50.29:675][865]LogShaderCompilers: Display: ================================================
+[2026.03.17-16.50.32:585][ 36]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/FirstPerson/Input/Actions/IA_Pause.IA_Pause
+[2026.03.17-16.50.34:116][115]LogSlate: Window 'IA_Pause' being destroyed
+[2026.03.17-16.50.34:141][115]LogSlate: Window 'IA_Pause' being destroyed
+[2026.03.17-16.50.34:192][115]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.50.34:192][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.50.34:276][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.17-16.50.37:409][312]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2026.03.17-16.50.39:580][426]LogSlate: Window 'IMC_Default' being destroyed
+[2026.03.17-16.50.39:622][426]LogSlate: Window 'IMC_Default' being destroyed
+[2026.03.17-16.50.45:178][770]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.17-16.50.45:178][770]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.17-16.50.47:425][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1282.864990
+[2026.03.17-16.50.47:614][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.50.47:614][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1283.037109, Update Interval: 357.940002
+[2026.03.17-16.50.49:162][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.17-16.50.50:003][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.50.50:072][  0]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.17-16.50.50:103][  0]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.17-16.50.50:103][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.17-16.50.50:117][  0]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.17-16.50.50:117][  0]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacterC16109E64D291CA719461E92440E9536.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.17-16.50.50:127][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.530 ms (total: 490.049 ms)
+[2026.03.17-16.50.50:157][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.50.50:157][  0]LogContentValidation: Enabled validators:
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.50.50:157][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.50.50:157][  0]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.17-16.50.50:971][ 37]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.17-16.50.51:023][ 37]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.17-16.50.51:027][ 37]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.50.51:027][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.50.51:100][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.17-16.50.52:692][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-16.50.52:697][136]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-16.50.52:697][136]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-16.50.52:701][136]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.822 ms (total: 5.562 ms)
+[2026.03.17-16.50.52:701][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-16.50.52:701][136]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.50.52:707][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005681s)
+[2026.03.17-16.50.52:707][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005713s)
+[2026.03.17-16.50.52:725][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.17-16.50.52:725][136]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-16.50.52:727][136]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-16.50.52:727][136]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-16.50.52:727][136]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-16.50.52:727][136]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-16.50.52:729][136]LogWorldPartition: Display: WorldPartition initialize took 1.959 ms (total: 621.404 ms)
+[2026.03.17-16.50.52:729][136]LogPlayLevel: PIE: World Init took: (0.003537s)
+[2026.03.17-16.50.52:730][136]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-16.50.52:730][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-16.50.52:730][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-16.50.52:730][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-16.50.52:730][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-16.50.52:730][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-16.50.52:733][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-16.50.52:755][136]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-16.50.52:756][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-16.50.52:756][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-16.50.52:756][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-16.50.52:756][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.17-16.50.52:756][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.17-16.50.52:759][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.17-16.50.52:759][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.17-16.50.52:759][136]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.17-16.50.52:759][136]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2026.03.17-16.50.52:759][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.17-16.50.52:762][136]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-16.50.52:764][136]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-16.50.52
+[2026.03.17-16.50.52:765][136]LogWorld: Bringing up level for play took: 0.003450
+[2026.03.17-16.50.52:768][136]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.03.17-16.50.52:769][136]PIE: Server logged in
+[2026.03.17-16.50.52:771][136]PIE: Play in editor total start time 0.073 seconds.
+[2026.03.17-16.50.55:060][296]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-16.50.55:060][296]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-16.50.55:060][296]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-16.51.01:442][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.51.01:443][776]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.51.01:443][776]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.51.01:444][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.51.01:444][776]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-16.51.01:447][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-16.51.01:452][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.51.01:472][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.51.01:472][776]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.17-16.51.01:472][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.17-16.51.01:475][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.17-16.51.01:481][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.17-16.51.01:504][777]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.17-16.51.23:790][ 54]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu
+[2026.03.17-16.51.23:790][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.17-16.51.23:810][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.17-16.52.44:879][897]LogEditorTransaction: Undo Delete current selection
+[2026.03.17-16.54.39:159][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.17-16.54.39:896][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.54.39:971][397]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_PauseMenu] ([2] browsable assets)...
+[2026.03.17-16.54.39:973][397]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu]
+[2026.03.17-16.54.39:973][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_PauseMenu]
+[2026.03.17-16.54.39:973][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_PauseMenu" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset" SILENT=true
+[2026.03.17-16.54.39:980][397]LogSavePackage: Moving output files for package: /Game/Menus/WB_PauseMenu
+[2026.03.17-16.54.39:980][397]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_PauseMenuFBCB53794F4F94FABF03DC8BBE309C92.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset'
+[2026.03.17-16.54.39:988][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.082 ms (total: 581.132 ms)
+[2026.03.17-16.54.40:021][397]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.54.40:021][397]LogContentValidation: Enabled validators:
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.54.40:021][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.54.40:022][397]AssetCheck: /Game/Menus/WB_PauseMenu Validating asset
+[2026.03.17-16.54.41:203][467]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.54.41:253][467]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.54.41:261][467]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.54.41:261][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.54.41:268][467]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.54.41:268][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.54.41:317][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.17-16.54.42:741][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-16.54.42:746][557]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-16.54.42:746][557]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-16.54.42:749][557]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.584 ms (total: 9.147 ms)
+[2026.03.17-16.54.42:749][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-16.54.42:749][557]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.54.42:757][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007148s)
+[2026.03.17-16.54.42:757][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007243s)
+[2026.03.17-16.54.42:775][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.17-16.54.42:776][557]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-16.54.42:778][557]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-16.54.42:778][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-16.54.42:778][557]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-16.54.42:778][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-16.54.42:780][557]LogWorldPartition: Display: WorldPartition initialize took 2.096 ms (total: 623.500 ms)
+[2026.03.17-16.54.42:780][557]LogPlayLevel: PIE: World Init took: (0.003706s)
+[2026.03.17-16.54.42:780][557]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-16.54.42:780][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-16.54.42:780][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-16.54.42:780][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-16.54.42:780][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-16.54.42:780][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-16.54.42:783][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-16.54.42:808][557]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-16.54.42:808][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-16.54.42:808][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-16.54.42:808][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-16.54.42:809][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.17-16.54.42:809][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.17-16.54.42:812][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.17-16.54.42:812][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.17-16.54.42:812][557]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.17-16.54.42:812][557]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2026.03.17-16.54.42:812][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.17-16.54.42:814][557]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-16.54.42:817][557]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-16.54.42
+[2026.03.17-16.54.42:818][557]LogWorld: Bringing up level for play took: 0.003371
+[2026.03.17-16.54.42:820][557]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.03.17-16.54.42:823][557]PIE: Server logged in
+[2026.03.17-16.54.42:824][557]PIE: Play in editor total start time 0.077 seconds.
+[2026.03.17-16.54.44:889][696]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-16.54.44:889][696]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-16.54.44:889][696]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-16.55.01:682][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.55.01:682][981]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.55.01:682][981]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.55.01:683][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.55.01:683][981]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-16.55.01:687][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-16.55.01:692][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.55.01:710][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.55.01:710][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.17-16.55.01:710][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.03.17-16.55.01:713][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2026.03.17-16.55.01:721][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.17-16.55.01:753][983]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.03.17-16.55.04:118][135]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu
+[2026.03.17-16.55.04:118][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.17-16.55.04:139][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.17-16.56.13:266][315]LogEditorTransaction: Undo Move Nodes
+[2026.03.17-16.56.13:735][329]LogEditorTransaction: Undo Move Node
+[2026.03.17-16.56.14:155][354]LogEditorTransaction: Undo Paste clipboard contents
+[2026.03.17-16.56.14:383][368]LogEditorTransaction: Undo Add Node
+[2026.03.17-16.56.46:059][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.17-16.56.46:876][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-16.56.46:936][295]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_PauseMenu] ([2] browsable assets)...
+[2026.03.17-16.56.46:938][295]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu]
+[2026.03.17-16.56.46:938][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_PauseMenu]
+[2026.03.17-16.56.46:938][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_PauseMenu" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset" SILENT=true
+[2026.03.17-16.56.46:945][295]LogSavePackage: Moving output files for package: /Game/Menus/WB_PauseMenu
+[2026.03.17-16.56.46:945][295]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_PauseMenuB87CB2554EFF2FF65A2BC4B6A1065C8B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset'
+[2026.03.17-16.56.46:953][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.685 ms (total: 657.818 ms)
+[2026.03.17-16.56.46:985][295]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-16.56.46:985][295]LogContentValidation: Enabled validators:
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-16.56.46:985][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-16.56.46:985][295]AssetCheck: /Game/Menus/WB_PauseMenu Validating asset
+[2026.03.17-16.56.48:083][361]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.56.48:114][361]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-16.56.48:124][361]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.56.48:124][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.56.48:130][361]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.56.48:131][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.56.48:180][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.17-16.56.51:139][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-16.56.51:144][567]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-16.56.51:144][567]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-16.56.51:147][567]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.558 ms (total: 11.706 ms)
+[2026.03.17-16.56.51:147][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-16.56.51:147][567]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.56.51:154][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006547s)
+[2026.03.17-16.56.51:154][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006580s)
+[2026.03.17-16.56.51:173][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.17-16.56.51:174][567]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-16.56.51:175][567]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-16.56.51:175][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-16.56.51:175][567]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-16.56.51:175][567]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-16.56.51:178][567]LogWorldPartition: Display: WorldPartition initialize took 2.012 ms (total: 625.513 ms)
+[2026.03.17-16.56.51:178][567]LogPlayLevel: PIE: World Init took: (0.003735s)
+[2026.03.17-16.56.51:179][567]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-16.56.51:179][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-16.56.51:179][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-16.56.51:179][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-16.56.51:179][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-16.56.51:179][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-16.56.51:182][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-16.56.51:205][567]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-16.56.51:206][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-16.56.51:206][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-16.56.51:206][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-16.56.51:206][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.17-16.56.51:206][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.17-16.56.51:209][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.17-16.56.51:209][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.17-16.56.51:209][567]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.17-16.56.51:209][567]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2026.03.17-16.56.51:209][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.17-16.56.51:212][567]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-16.56.51:215][567]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-16.56.51
+[2026.03.17-16.56.51:216][567]LogWorld: Bringing up level for play took: 0.003758
+[2026.03.17-16.56.51:218][567]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.03.17-16.56.51:221][567]PIE: Server logged in
+[2026.03.17-16.56.51:221][567]PIE: Play in editor total start time 0.077 seconds.
+[2026.03.17-16.56.52:667][669]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-16.56.52:667][669]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-16.56.52:667][669]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-16.56.53:401][725]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.17-16.56.53:401][725]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.17-16.56.55:828][902]LogCharacterMovement: BP_FirstPersonCharacter_C_UAID_F0090D6DF3077DC802_2005032695 is stuck and failed to move! Velocity: X=-12.16 Y=-24.41 Z=0.00 Location: X=915.79 Y=636.40 Z=96.28 Normal: X=0.51 Y=0.81 Z=-0.30 PenetrationDepth:20.100 Actor:DefaultPawn_0 Component:MeshComponent0 BoneName:None (0 other events since notify)
+[2026.03.17-16.56.58:630][107]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 19
+[2026.03.17-16.56.59:119][141]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 18
+[2026.03.17-16.57.00:222][217]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 17
+[2026.03.17-16.57.02:112][350]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 16
+[2026.03.17-16.57.03:065][419]LogBlueprintUserMessages: [BP_PlayMode_C_0] 100
+[2026.03.17-16.57.04:469][527]LogBlueprintUserMessages: [BP_PlayMode_C_0] 5
+[2026.03.17-16.57.09:948][948]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 15
+[2026.03.17-16.57.10:379][980]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 14
+[2026.03.17-16.57.10:753][  8]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 13
+[2026.03.17-16.57.10:979][ 25]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 12
+[2026.03.17-16.57.11:176][ 40]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 11
+[2026.03.17-16.57.11:346][ 53]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 10
+[2026.03.17-16.57.11:527][ 67]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 9
+[2026.03.17-16.57.12:302][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.57.12:302][127]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-16.57.12:303][127]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-16.57.12:303][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.57.12:303][127]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-16.57.12:308][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-16.57.12:312][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-16.57.12:331][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-16.57.12:332][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.17-16.57.12:332][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.03.17-16.57.12:334][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.03.17-16.57.12:341][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.17-16.57.12:374][128]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.03.17-16.57.16:608][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1672.044678
+[2026.03.17-16.57.16:774][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-16.57.16:775][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1672.198608, Update Interval: 315.029755
+[2026.03.17-16.57.27:518][ 25]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.17-16.57.27:524][ 25]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.17-16.57.27:529][ 25]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.17-16.57.27:537][ 26]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.17-16.57.34:468][538]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Credits
+[2026.03.17-16.57.34:475][538]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.17-16.57.41:535][ 76]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits
+[2026.03.17-16.57.41:535][ 76]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.17-16.57.41:553][ 76]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.17-17.00.23:454][179]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.17-17.01.43:774][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.17-17.01.44:923][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.01.44:969][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_Credits] ([2] browsable assets)...
+[2026.03.17-17.01.44:974][642]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits]
+[2026.03.17-17.01.44:974][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_Credits]
+[2026.03.17-17.01.44:975][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_Credits" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset" SILENT=true
+[2026.03.17-17.01.44:979][642]LogSavePackage: Moving output files for package: /Game/Menus/WB_Credits
+[2026.03.17-17.01.44:979][642]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_Credits10596FD04077E8E11C71EF8835C9E93F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset'
+[2026.03.17-17.01.44:988][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.988 ms (total: 721.807 ms)
+[2026.03.17-17.01.45:012][642]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-17.01.45:012][642]LogContentValidation: Enabled validators:
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.01.45:012][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.01.45:013][642]AssetCheck: /Game/Menus/WB_Credits Validating asset
+[2026.03.17-17.03.02:062][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.17-17.03.03:156][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.03.03:207][  5]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_Credits] ([2] browsable assets)...
+[2026.03.17-17.03.03:211][  5]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits]
+[2026.03.17-17.03.03:211][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_Credits]
+[2026.03.17-17.03.03:211][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_Credits" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset" SILENT=true
+[2026.03.17-17.03.03:215][  5]LogSavePackage: Moving output files for package: /Game/Menus/WB_Credits
+[2026.03.17-17.03.03:215][  5]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_CreditsDEF80A8C4996C2458E6136BF9543B79A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset'
+[2026.03.17-17.03.03:222][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.180 ms (total: 786.987 ms)
+[2026.03.17-17.03.03:248][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-17.03.03:248][  5]LogContentValidation: Enabled validators:
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.03.03:248][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.03.03:249][  5]AssetCheck: /Game/Menus/WB_Credits Validating asset
+[2026.03.17-17.03.23:649][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2039.083984
+[2026.03.17-17.03.23:831][432]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-17.03.23:831][432]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2039.250488, Update Interval: 305.958435
+[2026.03.17-17.03.27:589][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.17-17.03.27:593][692]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2026.03.17-17.03.27:594][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/openPBR_shader1] ([1] browsable assets)...
+[2026.03.17-17.03.27:594][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/openPBR_shader1]
+[2026.03.17-17.03.27:596][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/openPBR_shader1_Auto2
+[2026.03.17-17.03.27:596][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/openPBR_shader1_Auto2F437C4FB44B53A537237369F233A5C9D.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/openPBR_shader1_Auto2.uasset'
+[2026.03.17-17.03.27:597][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube1] ([1] browsable assets)...
+[2026.03.17-17.03.27:598][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube1]
+[2026.03.17-17.03.27:600][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube1_Auto2
+[2026.03.17-17.03.27:600][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube1_Auto26E5943E34818C9D5ECEEAC8EBDE03F68.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube1_Auto2.uasset'
+[2026.03.17-17.03.27:601][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube2] ([1] browsable assets)...
+[2026.03.17-17.03.27:601][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube2]
+[2026.03.17-17.03.27:604][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube2_Auto2
+[2026.03.17-17.03.27:605][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube2_Auto2649CE0BA40D2AA03721EFC862581C3B2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube2_Auto2.uasset'
+[2026.03.17-17.03.27:606][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube16] ([1] browsable assets)...
+[2026.03.17-17.03.27:606][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube16]
+[2026.03.17-17.03.27:608][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube16_Auto2
+[2026.03.17-17.03.27:608][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube16_Auto2663EEEEB46A6822AEB963AB2859C995A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube16_Auto2.uasset'
+[2026.03.17-17.03.27:610][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube17] ([1] browsable assets)...
+[2026.03.17-17.03.27:610][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube17]
+[2026.03.17-17.03.27:612][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube17_Auto2
+[2026.03.17-17.03.27:612][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube17_Auto2C365119843AA3D1659E825B1D39EE844.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube17_Auto2.uasset'
+[2026.03.17-17.03.27:613][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube18] ([1] browsable assets)...
+[2026.03.17-17.03.27:613][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube18]
+[2026.03.17-17.03.27:615][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube18_Auto2
+[2026.03.17-17.03.27:615][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube18_Auto27FB90AB14CF7C25AB4F44CA2C5CB63D4.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube18_Auto2.uasset'
+[2026.03.17-17.03.27:617][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube19] ([1] browsable assets)...
+[2026.03.17-17.03.27:617][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube19]
+[2026.03.17-17.03.27:620][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube19_Auto2
+[2026.03.17-17.03.27:620][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube19_Auto25442205D4AE60C92DEC925A7891D6C91.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube19_Auto2.uasset'
+[2026.03.17-17.03.27:622][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube20] ([1] browsable assets)...
+[2026.03.17-17.03.27:622][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube20]
+[2026.03.17-17.03.27:624][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube20_Auto2
+[2026.03.17-17.03.27:624][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube20_Auto289FDB42546D1FABEC67212AA9DDE5740.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube20_Auto2.uasset'
+[2026.03.17-17.03.27:626][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube21] ([1] browsable assets)...
+[2026.03.17-17.03.27:626][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube21]
+[2026.03.17-17.03.27:628][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube21_Auto2
+[2026.03.17-17.03.27:628][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube21_Auto2304C346444996FBC5A3CFEAB05ADFC4B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube21_Auto2.uasset'
+[2026.03.17-17.03.27:629][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube23] ([1] browsable assets)...
+[2026.03.17-17.03.27:629][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube23]
+[2026.03.17-17.03.27:633][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube23_Auto2
+[2026.03.17-17.03.27:633][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube23_Auto2F3839CC246984CD0A42999A20C4E32DF.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube23_Auto2.uasset'
+[2026.03.17-17.03.27:634][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube24] ([1] browsable assets)...
+[2026.03.17-17.03.27:634][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube24]
+[2026.03.17-17.03.27:637][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube24_Auto2
+[2026.03.17-17.03.27:637][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube24_Auto27AE718F4483A32014D8F5F9E5C82D5C1.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube24_Auto2.uasset'
+[2026.03.17-17.03.27:638][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube25] ([1] browsable assets)...
+[2026.03.17-17.03.27:638][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube25]
+[2026.03.17-17.03.27:641][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube25_Auto2
+[2026.03.17-17.03.27:641][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube25_Auto22EBB37204EADDC35EBEFDFBD81CEA9E1.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube25_Auto2.uasset'
+[2026.03.17-17.03.27:642][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube5] ([1] browsable assets)...
+[2026.03.17-17.03.27:642][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube5]
+[2026.03.17-17.03.27:644][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube5_Auto2
+[2026.03.17-17.03.27:644][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube5_Auto2ADD0740D4E0580D026E3A6A2140887D8.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube5_Auto2.uasset'
+[2026.03.17-17.03.27:645][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube26] ([1] browsable assets)...
+[2026.03.17-17.03.27:645][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube26]
+[2026.03.17-17.03.27:648][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube26_Auto2
+[2026.03.17-17.03.27:648][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube26_Auto20EF6279B49AAEF0ADC14D9A5FE7320C2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube26_Auto2.uasset'
+[2026.03.17-17.03.27:649][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube27] ([1] browsable assets)...
+[2026.03.17-17.03.27:649][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube27]
+[2026.03.17-17.03.27:651][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube27_Auto2
+[2026.03.17-17.03.27:651][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube27_Auto2FC64E0D74A5E410806D4AB95A878BA3E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube27_Auto2.uasset'
+[2026.03.17-17.03.27:652][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube9] ([1] browsable assets)...
+[2026.03.17-17.03.27:652][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube9]
+[2026.03.17-17.03.27:654][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube9_Auto2
+[2026.03.17-17.03.27:654][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube9_Auto28C681254481AE44D5B95CAA663A63F66.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube9_Auto2.uasset'
+[2026.03.17-17.03.27:655][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube10] ([1] browsable assets)...
+[2026.03.17-17.03.27:655][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube10]
+[2026.03.17-17.03.27:657][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube10_Auto2
+[2026.03.17-17.03.27:657][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube10_Auto2823973214023C47E8A973F9D682B8B6B.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube10_Auto2.uasset'
+[2026.03.17-17.03.27:658][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube12] ([1] browsable assets)...
+[2026.03.17-17.03.27:658][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube12]
+[2026.03.17-17.03.27:660][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube12_Auto2
+[2026.03.17-17.03.27:660][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube12_Auto2FB9BA6484A63EED9AF52268101582DE4.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube12_Auto2.uasset'
+[2026.03.17-17.03.27:661][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube13] ([1] browsable assets)...
+[2026.03.17-17.03.27:661][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube13]
+[2026.03.17-17.03.27:664][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube13_Auto2
+[2026.03.17-17.03.27:664][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube13_Auto219CAF8AB45DB6234A8D67BA5F6E9B0A2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube13_Auto2.uasset'
+[2026.03.17-17.03.27:665][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube14] ([1] browsable assets)...
+[2026.03.17-17.03.27:665][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube14]
+[2026.03.17-17.03.27:667][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube14_Auto2
+[2026.03.17-17.03.27:667][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube14_Auto206EF01ED4903AE5C5C96B0984775374A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube14_Auto2.uasset'
+[2026.03.17-17.03.27:668][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube15] ([1] browsable assets)...
+[2026.03.17-17.03.27:668][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube15]
+[2026.03.17-17.03.27:671][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube15_Auto2
+[2026.03.17-17.03.27:671][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube15_Auto20980FA124E0E54971BDBAE96D10C1E05.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube15_Auto2.uasset'
+[2026.03.17-17.03.27:672][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube22] ([1] browsable assets)...
+[2026.03.17-17.03.27:672][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube22]
+[2026.03.17-17.03.27:673][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube22_Auto2
+[2026.03.17-17.03.27:673][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube22_Auto2243B8B8F4B072B3431F9E2A4B7032EAE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube22_Auto2.uasset'
+[2026.03.17-17.03.27:675][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/pCube11] ([1] browsable assets)...
+[2026.03.17-17.03.27:675][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/pCube11]
+[2026.03.17-17.03.27:677][692]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map/pCube11_Auto2
+[2026.03.17-17.03.27:677][692]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/pCube11_Auto224B8ACF54C69025529B73484CFA63ECD.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/Map/pCube11_Auto2.uasset'
+[2026.03.17-17.03.27:678][692]LogFileHelpers: Auto-saving content packages took 0.084
+[2026.03.17-17.04.02:964][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.17-17.04.11:978][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.03.17-17.04.12:688][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.04.12:743][801]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_Credits] ([2] browsable assets)...
+[2026.03.17-17.04.12:746][801]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits]
+[2026.03.17-17.04.12:746][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_Credits]
+[2026.03.17-17.04.12:746][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_Credits" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset" SILENT=true
+[2026.03.17-17.04.12:751][801]LogSavePackage: Moving output files for package: /Game/Menus/WB_Credits
+[2026.03.17-17.04.12:751][801]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_Credits2FE98FE04A4EE191E586E6BB2B5F0BA3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset'
+[2026.03.17-17.04.12:758][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.062 ms (total: 857.049 ms)
+[2026.03.17-17.04.12:786][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-17.04.12:786][801]LogContentValidation: Enabled validators:
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.04.12:786][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.04.12:786][801]AssetCheck: /Game/Menus/WB_Credits Validating asset
+[2026.03.17-17.04.13:697][861]LogSlate: Window 'WB_Credits' being destroyed
+[2026.03.17-17.04.13:725][861]LogSlate: Window 'WB_Credits' being destroyed
+[2026.03.17-17.04.13:735][861]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.04.13:735][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.04.13:742][861]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.04.13:743][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.04.13:792][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.17-17.04.16:351][ 39]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu
+[2026.03.17-17.04.16:352][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.17-17.04.16:371][ 39]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.17-17.08.11:792][774]LogBlueprint: Error: [AssetLog] C:\Users\Benjamin\Documents\GitHub\UnrealProject\UnrealProject\Content\Menus\WB_PauseMenu.uasset: [Compiler] This blueprint (self) is not a PlayerState, therefore ' Target ' must have a connection.
+[2026.03.17-17.08.11:868][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.17-17.08.37:797][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.17-17.08.39:345][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.08.39:423][608]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_PauseMenu] ([2] browsable assets)...
+[2026.03.17-17.08.39:425][608]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu]
+[2026.03.17-17.08.39:425][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_PauseMenu]
+[2026.03.17-17.08.39:425][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_PauseMenu" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset" SILENT=true
+[2026.03.17-17.08.39:434][608]LogSavePackage: Moving output files for package: /Game/Menus/WB_PauseMenu
+[2026.03.17-17.08.39:435][608]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_PauseMenu2F06AF5C4D54CD7B013140B54D409E5F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_PauseMenu.uasset'
+[2026.03.17-17.08.39:443][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.757 ms (total: 954.806 ms)
+[2026.03.17-17.08.39:471][608]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-17.08.39:471][608]LogContentValidation: Enabled validators:
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.08.39:471][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.08.39:471][608]AssetCheck: /Game/Menus/WB_PauseMenu Validating asset
+[2026.03.17-17.09.02:626][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2378.054443
+[2026.03.17-17.09.03:626][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.17-17.09.03:627][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2378.723145, Update Interval: 300.386353
+[2026.03.17-17.09.05:960][415]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-17.09.05:964][415]LogSlate: Window 'WB_PauseMenu' being destroyed
+[2026.03.17-17.09.05:976][415]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.05:976][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.05:982][415]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.05:982][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.06:028][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.17-17.09.07:715][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-17.09.07:721][535]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-17.09.07:721][535]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-17.09.07:725][535]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.899 ms (total: 15.605 ms)
+[2026.03.17-17.09.07:725][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-17.09.07:772][535]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-17.09.07:777][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005424s)
+[2026.03.17-17.09.07:777][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005465s)
+[2026.03.17-17.09.07:793][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.17-17.09.07:794][535]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-17.09.07:796][535]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-17.09.07:796][535]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-17.09.07:796][535]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-17.09.07:796][535]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-17.09.07:798][535]LogWorldPartition: Display: WorldPartition initialize took 1.846 ms (total: 627.360 ms)
+[2026.03.17-17.09.07:798][535]LogPlayLevel: PIE: World Init took: (0.003422s)
+[2026.03.17-17.09.07:799][535]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-17.09.07:799][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-17.09.07:799][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-17.09.07:799][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-17.09.07:799][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-17.09.07:799][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-17.09.07:802][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-17.09.07:827][535]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-17.09.07:827][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-17.09.07:827][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-17.09.07:827][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-17.09.07:828][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.17-17.09.07:828][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.17-17.09.07:831][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.17-17.09.07:831][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.17-17.09.07:831][535]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.17-17.09.07:831][535]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2026.03.17-17.09.07:831][535]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.17-17.09.07:834][535]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-17.09.07:837][535]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-17.09.07
+[2026.03.17-17.09.07:838][535]LogWorld: Bringing up level for play took: 0.003922
+[2026.03.17-17.09.07:839][535]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.03.17-17.09.07:843][535]PIE: Server logged in
+[2026.03.17-17.09.07:844][535]PIE: Play in editor total start time 0.123 seconds.
+[2026.03.17-17.09.09:731][659]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-17.09.09:732][659]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-17.09.09:732][659]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-17.09.23:872][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-17.09.23:872][737]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-17.09.23:873][737]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.23:873][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.23:874][737]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-17.09.23:877][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-17.09.23:881][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.23:900][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-17.09.23:901][737]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.17-17.09.23:901][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.17-17.09.23:903][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.17-17.09.23:912][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.17-17.09.23:960][740]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.03.17-17.09.26:116][879]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits
+[2026.03.17-17.09.26:116][879]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.17-17.09.26:135][879]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.17-17.09.35:485][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.17-17.09.36:500][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.17-17.09.36:578][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_Credits] ([2] browsable assets)...
+[2026.03.17-17.09.36:581][445]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_Credits.WB_Credits]
+[2026.03.17-17.09.36:581][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_Credits]
+[2026.03.17-17.09.36:581][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_Credits" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset" SILENT=true
+[2026.03.17-17.09.36:586][445]LogSavePackage: Moving output files for package: /Game/Menus/WB_Credits
+[2026.03.17-17.09.36:586][445]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_Credits46905BD84D0AFA964971489EDD61B1B4.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_Credits.uasset'
+[2026.03.17-17.09.36:594][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.552 ms (total: 1.04 sec)
+[2026.03.17-17.09.36:624][445]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.17-17.09.36:624][445]LogContentValidation: Enabled validators:
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.17-17.09.36:624][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.17-17.09.36:625][445]AssetCheck: /Game/Menus/WB_Credits Validating asset
+[2026.03.17-17.09.37:878][519]LogSlate: Window 'WB_Credits' being destroyed
+[2026.03.17-17.09.37:909][519]LogSlate: Window 'WB_Credits' being destroyed
+[2026.03.17-17.09.37:932][519]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.37:932][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.37:939][519]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.37:939][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.38:011][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.17-17.09.39:216][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.17-17.09.39:221][598]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.17-17.09.39:221][598]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.17-17.09.39:224][598]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2.699 ms (total: 18.304 ms)
+[2026.03.17-17.09.39:224][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.17-17.09.39:252][598]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-17.09.39:257][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005281s)
+[2026.03.17-17.09.39:257][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005339s)
+[2026.03.17-17.09.39:274][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.17-17.09.39:275][598]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.17-17.09.39:276][598]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.17-17.09.39:276][598]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.17-17.09.39:276][598]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.17-17.09.39:276][598]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.17-17.09.39:278][598]LogWorldPartition: Display: WorldPartition initialize took 1.955 ms (total: 629.316 ms)
+[2026.03.17-17.09.39:278][598]LogPlayLevel: PIE: World Init took: (0.003491s)
+[2026.03.17-17.09.39:279][598]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.17-17.09.39:279][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.17-17.09.39:279][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.17-17.09.39:279][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.17-17.09.39:279][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.17-17.09.39:279][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.17-17.09.39:282][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.17-17.09.39:304][598]LogAudioMixer: Display: Using Audio Hardware Device Speakers (LG RK7  (C7) )
+[2026.03.17-17.09.39:304][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.17-17.09.39:305][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.17-17.09.39:305][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.17-17.09.39:305][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.03.17-17.09.39:305][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.03.17-17.09.39:308][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.03.17-17.09.39:308][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.03.17-17.09.39:308][598]LogInit: FAudioDevice initialized with ID 7.
+[2026.03.17-17.09.39:308][598]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2026.03.17-17.09.39:308][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.17-17.09.39:311][598]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.17-17.09.39:314][598]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.17-17.09.39
+[2026.03.17-17.09.39:314][598]LogWorld: Bringing up level for play took: 0.003471
+[2026.03.17-17.09.39:317][598]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.03.17-17.09.39:320][598]PIE: Server logged in
+[2026.03.17-17.09.39:320][598]PIE: Play in editor total start time 0.1 seconds.
+[2026.03.17-17.09.40:686][694]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.17-17.09.40:687][694]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.17-17.09.40:687][694]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.17-17.09.45:562][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-17.09.45:563][ 59]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.17-17.09.45:563][ 59]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.17-17.09.45:563][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.45:563][ 59]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.17-17.09.45:567][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.17-17.09.45:570][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.17-17.09.45:591][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.17-17.09.45:591][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.17-17.09.45:591][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.03.17-17.09.45:593][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.03.17-17.09.45:602][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.17-17.09.45:634][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_28
