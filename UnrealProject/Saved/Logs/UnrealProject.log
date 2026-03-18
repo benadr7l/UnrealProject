@@ -1791,3 +1791,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.18-20.47.34:476][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.03.18-20.47.34:480][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
 [2026.03.18-20.47.34:513][992]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.18-20.48.22:585][449]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG ULTRAGEAR (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.18-20.48.22:707][449]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.18-20.48.22:707][449]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15200
+[2026.03.18-20.48.23:041][450]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.18-20.48.23:043][450]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{b405d822-fd85-4e06-b665-bc49f131038b}, Name=LG ULTRAGEAR (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.50
+[2026.03.18-20.48.23:043][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.18-20.48.23:044][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
