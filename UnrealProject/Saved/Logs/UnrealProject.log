@@ -5753,3 +5753,59 @@ FPackageName: Skipped package /Game/ZombieCharacter/Animations/Zombie_Dying_Mont
 [2026.03.22-02.15.40:361][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3296.441162
 [2026.03.22-02.15.40:550][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.22-02.15.40:550][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3296.608154, Update Interval: 308.835114
+[2026.03.22-02.19.54:956][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.22-02.20.01:136][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.22-02.20.16:825][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.22-02.20.16:832][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-02.20.16:929][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.22-02.20.16:929][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.22-02.20.16:930][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.22-02.20.16:958][940]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.22-02.20.16:959][940]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode75D685474AB23EA8CC909B9B838B629B.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.22-02.20.16:974][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.645 ms (total: 1.39 sec)
+[2026.03.22-02.20.17:026][940]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-02.20.17:027][940]LogContentValidation: Enabled validators:
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-02.20.17:027][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-02.20.17:027][940]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.22-02.20.32:157][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.22-02.20.32:163][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-02.20.32:233][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.22-02.20.32:233][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.22-02.20.32:233][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.22-02.20.32:259][835]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.22-02.20.32:260][835]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayModeC5C1F8C14405E67CDF0F39B81BDED946.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.22-02.20.32:272][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.713 ms (total: 1.50 sec)
+[2026.03.22-02.20.32:313][835]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-02.20.32:313][835]LogContentValidation: Enabled validators:
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-02.20.32:313][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-02.20.32:313][835]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.22-02.21.04:968][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.22-02.21.04:972][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-02.21.05:011][762]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.22-02.21.05:011][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.22-02.21.05:012][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.22-02.21.05:037][762]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.22-02.21.05:038][762]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode0AFC3C1A4A3A1FC839470E800BF0780B.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.22-02.21.05:050][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.676 ms (total: 1.58 sec)
+[2026.03.22-02.21.05:092][762]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-02.21.05:092][762]LogContentValidation: Enabled validators:
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-02.21.05:092][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-02.21.05:092][762]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.22-02.21.33:544][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3649.674072
+[2026.03.22-02.21.33:712][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-02.21.33:712][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3649.823730, Update Interval: 331.846680
