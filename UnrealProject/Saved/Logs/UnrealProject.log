@@ -1842,3 +1842,205 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.22-11.50.11:837][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.22-11.50.11:837][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 989.040283, Update Interval: 343.098846
 [2026.03.22-11.50.51:816][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.22-11.56.05:202][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1342.422729
+[2026.03.22-11.56.05:353][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-11.56.05:353][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1342.557373, Update Interval: 316.254761
+[2026.03.22-11.57.38:961][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.22-11.57.38:961][244]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.22-11.57.38:964][244]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_40C2BA5979CA4BCA02_1576508008
+[2026.03.22-11.57.38:965][244]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_40C2BA5979CA4BCA02_1576508008
+[2026.03.22-11.57.59:594][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.03.22-11.59.13:259][631]Cmd: EDIT CUT
+[2026.03.22-11.59.13:276][631]LogStreaming: Display: FlushAsyncLoading(658): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.22-11.59.13:293][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.22-11.59.13:342][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.22-11.59.13:347][631]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2026.03.22-11.59.15:866][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.22-11.59.47:402][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.22-11.59.47:403][109]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2026.03.22-12.01.45:034][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1682.250000
+[2026.03.22-12.01.46:035][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-12.01.46:035][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1682.918213, Update Interval: 345.933411
+[2026.03.22-12.04.30:691][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.03.22-12.04.30:837][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.22-12.04.30:868][669]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.22-12.05.20:825][590]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.22-12.05.20:892][591]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.22-12.05.20:972][592]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.22-12.05.22:004][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collectables/Blueprints/BP_AmmoCollect.BP_AmmoCollect
+[2026.03.22-12.05.22:017][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.22-12.05.22:307][645]LogStreaming: Display: FlushAsyncLoading(659): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.22-12.06.51:835][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.22-12.06.59:927][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collectables/Blueprints/BP_HealthCollect.BP_HealthCollect
+[2026.03.22-12.06.59:927][349]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.22-12.07.14:840][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.22-12.07.25:660][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Collectables/Blueprints/BP_SpeedCollect.BP_SpeedCollect
+[2026.03.22-12.07.25:660][775]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.22-12.07.58:990][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.22-12.08.02:599][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2059.811279
+[2026.03.22-12.08.02:855][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-12.08.02:855][858]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2060.013184, Update Interval: 304.951324
+[2026.03.22-12.08.03:126][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.22-12.08.03:132][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-12.08.03:220][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/BP_SpeedCollect] ([2] browsable assets)...
+[2026.03.22-12.08.03:262][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/BP_SpeedCollect.BP_SpeedCollect]
+[2026.03.22-12.08.03:262][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/BP_SpeedCollect]
+[2026.03.22-12.08.03:294][870]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/BP_SpeedCollect
+[2026.03.22-12.08.03:295][870]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_SpeedCollectBC693CC44E60987A2F7A7B8AD21CE56C.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_SpeedCollect.uasset'
+[2026.03.22-12.08.03:296][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/BP_HealthCollect] ([2] browsable assets)...
+[2026.03.22-12.08.03:306][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/BP_HealthCollect.BP_HealthCollect]
+[2026.03.22-12.08.03:306][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/BP_HealthCollect]
+[2026.03.22-12.08.03:316][870]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/BP_HealthCollect
+[2026.03.22-12.08.03:316][870]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_HealthCollect0F0253084806777C181EE59633147DB3.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_HealthCollect.uasset'
+[2026.03.22-12.08.03:317][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/BP_AmmoCollect] ([2] browsable assets)...
+[2026.03.22-12.08.03:325][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/BP_AmmoCollect.BP_AmmoCollect]
+[2026.03.22-12.08.03:325][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/BP_AmmoCollect]
+[2026.03.22-12.08.03:333][870]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/BP_AmmoCollect
+[2026.03.22-12.08.03:334][870]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_AmmoCollect1C7DD1C1449B655DE0220681B63D925B.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/Collectables/Blueprints/BP_AmmoCollect.uasset'
+[2026.03.22-12.08.03:347][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.771 ms (total: 504.888 ms)
+[2026.03.22-12.08.03:380][870]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.22-12.08.03:380][870]LogContentValidation: Enabled validators:
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-12.08.03:380][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-12.08.03:380][870]AssetCheck: /Game/Collectables/Blueprints/BP_SpeedCollect Validating asset
+[2026.03.22-12.08.03:380][870]AssetCheck: /Game/Collectables/Blueprints/BP_HealthCollect Validating asset
+[2026.03.22-12.08.03:380][870]AssetCheck: /Game/Collectables/Blueprints/BP_AmmoCollect Validating asset
+[2026.03.22-12.08.15:431][581]LogSlate: Took 0.006855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.22-12.08.16:886][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameMode/BP_PlayMode.BP_PlayMode
+[2026.03.22-12.08.16:887][652]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.22-12.08.34:629][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.22-12.08.37:099][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.22-12.08.37:107][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-12.08.37:159][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameMode/BP_PlayMode] ([2] browsable assets)...
+[2026.03.22-12.08.37:159][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameMode/BP_PlayMode]
+[2026.03.22-12.08.37:159][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMode/BP_PlayMode" FILE="../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset" SILENT=true
+[2026.03.22-12.08.37:184][754]LogSavePackage: Moving output files for package: /Game/GameMode/BP_PlayMode
+[2026.03.22-12.08.37:185][754]LogSavePackage: Moving '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Saved/BP_PlayMode21F56D1443AD7FA8FA7DB1B896EB696F.tmp' to '../../../../../../MobileGamesProject/UnrealProject/UnrealProject/Content/GameMode/BP_PlayMode.uasset'
+[2026.03.22-12.08.37:199][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.723 ms (total: 596.611 ms)
+[2026.03.22-12.08.37:245][754]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-12.08.37:245][754]LogContentValidation: Enabled validators:
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-12.08.37:245][754]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-12.08.37:245][754]AssetCheck: /Game/GameMode/BP_PlayMode Validating asset
+[2026.03.22-12.08.40:681][961]LogSlate: Window 'BP_PlayMode' being destroyed
+[2026.03.22-12.08.40:693][961]LogSlate: Window 'BP_PlayMode' being destroyed
+[2026.03.22-12.08.40:699][961]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-12.08.40:700][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.08.40:754][961]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.22-12.08.40:754][961]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-12.08.40:754][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.08.40:796][961]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.22-12.08.40:796][961]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-12.08.40:796][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.08.40:837][961]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.22-12.08.40:837][961]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-12.08.40:837][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.08.40:920][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.22-12.08.41:886][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-12.08.41:893][ 17]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-12.08.41:893][ 17]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-12.08.41:900][ 17]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 6.965 ms (total: 32.788 ms)
+[2026.03.22-12.08.41:901][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.22-12.08.41:901][ 17]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-12.08.41:915][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013905s)
+[2026.03.22-12.08.41:915][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.013967s)
+[2026.03.22-12.08.41:933][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-12.08.41:934][ 17]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-12.08.41:935][ 17]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-12.08.41:936][ 17]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-12.08.41:936][ 17]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-12.08.41:936][ 17]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-12.08.41:938][ 17]LogWorldPartition: Display: WorldPartition initialize took 2.896 ms (total: 368.691 ms)
+[2026.03.22-12.08.41:938][ 17]LogPlayLevel: PIE: World Init took: (0.004471s)
+[2026.03.22-12.08.41:940][ 17]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-12.08.41:940][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-12.08.41:940][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-12.08.41:940][ 17]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-12.08.41:940][ 17]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-12.08.41:940][ 17]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-12.08.41:943][ 17]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-12.08.42:014][ 17]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.22-12.08.42:015][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-12.08.42:015][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-12.08.42:015][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-12.08.42:015][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.22-12.08.42:015][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.22-12.08.42:018][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.22-12.08.42:018][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.22-12.08.42:018][ 17]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.22-12.08.42:018][ 17]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2026.03.22-12.08.42:018][ 17]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.22-12.08.42:023][ 17]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-12.08.42:027][ 17]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-12.08.42
+[2026.03.22-12.08.42:027][ 17]LogWorld: Bringing up level for play took: 0.004526
+[2026.03.22-12.08.42:030][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.03.22-12.08.42:034][ 17]PIE: Server logged in
+[2026.03.22-12.08.42:035][ 17]PIE: Play in editor total start time 0.142 seconds.
+[2026.03.22-12.08.47:466][233]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 19
+[2026.03.22-12.08.47:722][237]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 90
+[2026.03.22-12.08.47:727][237]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 80
+[2026.03.22-12.08.47:820][241]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 18
+[2026.03.22-12.08.47:968][247]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 17
+[2026.03.22-12.08.47:971][247]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 70
+[2026.03.22-12.08.48:083][251]LogScript: Warning: Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is not valid (pending kill or garbage)
+	BP_FirstPersonProjectile_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonProjectile_C_3
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile_C:ExecuteUbergraph_BP_FirstPersonProjectile:00B2
+[2026.03.22-12.08.48:083][251]PIE: Error: Blueprint Runtime Error: "Attempted to access CollisionComponent via property K2Node_Event_OtherComp, but CollisionComponent is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP First Person Projectile Blueprint:  BP_FirstPersonProjectile
+[2026.03.22-12.08.48:125][252]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 16
+[2026.03.22-12.08.48:255][257]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 15
+[2026.03.22-12.08.48:275][258]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 60
+[2026.03.22-12.08.48:385][262]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 14
+[2026.03.22-12.08.48:433][263]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 50
+[2026.03.22-12.08.48:487][265]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 40
+[2026.03.22-12.08.48:575][269]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 30
+[2026.03.22-12.08.48:802][278]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 20
+[2026.03.22-12.08.50:099][334]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 13
+[2026.03.22-12.08.50:253][340]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_UAID_F0090D6DF307BDC802_1882152963] Zombie Health: 10
+[2026.03.22-12.08.52:542][449]Set new viewmode: Wireframe
+[2026.03.22-12.08.52:586][451]LogD3D12RHI: Creating RTPSO with 29 shaders (0 cached, 1 new) took 12.23 ms. Compile time 8.86 ms, link time 3.33 ms.
+[2026.03.22-12.08.59:378][262]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 12
+[2026.03.22-12.08.59:509][275]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 90
+[2026.03.22-12.08.59:552][280]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 11
+[2026.03.22-12.08.59:693][295]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 80
+[2026.03.22-12.08.59:702][296]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 10
+[2026.03.22-12.08.59:751][299]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 70
+[2026.03.22-12.08.59:853][311]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 9
+[2026.03.22-12.08.59:855][311]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 60
+[2026.03.22-12.08.59:994][327]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 8
+[2026.03.22-12.09.00:010][329]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 50
+[2026.03.22-12.09.00:054][333]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 40
+[2026.03.22-12.09.00:137][343]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 7
+[2026.03.22-12.09.00:167][346]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 30
+[2026.03.22-12.09.00:278][359]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] 6
+[2026.03.22-12.09.00:314][363]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 20
+[2026.03.22-12.09.00:364][369]LogBlueprintUserMessages: [BP_AI_ZombieCharacter_C_0] Zombie Health: 10
+[2026.03.22-12.09.08:941][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-12.09.08:941][392]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-12.09.08:941][392]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-12.09.08:943][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.09.08:943][392]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-12.09.08:979][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-12.09.08:986][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-12.09.09:009][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-12.09.09:009][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.22-12.09.09:009][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.22-12.09.09:012][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.22-12.09.09:021][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.03.22-12.09.09:165][393]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.03.22-12.09.12:201][586]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-12.09.12:244][586]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-12.09.19:329][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
