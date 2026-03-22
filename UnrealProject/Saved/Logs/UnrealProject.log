@@ -11149,3 +11149,26 @@ FPackageName: Skipped package /Game/ZombieCharacter/Animations/Zombie_Dying_Mont
 [2026.03.22-10.03.08:897][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.22-10.03.08:897][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.22-10.03.08:897][202]AssetCheck: /Game/Menus/WB_LoadMenu1 Validating asset
+[2026.03.22-10.03.28:655][346]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-10.03.28:660][346]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-10.03.28:668][346]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-10.03.28:668][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-10.03.28:676][346]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-10.03.28:676][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-10.03.28:732][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.22-10.03.32:345][588]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-10.03.32:441][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-10.03.32:453][588]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainMenu
+[2026.03.22-10.03.32:454][588]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/MainMenuA43D68654ADFC50D074644B1449049ED.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Maps/MainMenu.umap'
+[2026.03.22-10.03.32:462][588]LogFileHelpers: Saving map 'MainMenu' took 0.051
+[2026.03.22-10.03.32:469][588]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.359 ms (total: 870.678 ms)
+[2026.03.22-10.03.32:498][588]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-10.03.32:498][588]LogContentValidation: Enabled validators:
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-10.03.32:498][588]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-10.03.32:498][588]AssetCheck: /Game/FirstPerson/Maps/MainMenu Validating asset
+[2026.03.22-10.03.36:482][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
