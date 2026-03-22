@@ -2615,3 +2615,900 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.22-19.13.07:761][794]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
 [2026.03.22-19.13.07:762][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.03.22-19.13.07:807][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.22-19.15.56:231][ 61]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.22-19.15.56:272][ 62]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.22-19.15.56:322][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.22-19.15.58:341][190]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.22-19.15.58:341][190]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.22-19.16.46:617][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8382.836914
+[2026.03.22-19.16.47:616][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.16.47:617][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8383.502930, Update Interval: 352.723175
+[2026.03.22-19.18.46:851][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.22-19.18.47:676][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.18.47:750][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.18.47:787][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.18.47:787][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.18.47:815][  8]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.22-19.18.47:815][  8]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter4E9282AF41E620E55E918791D8A79A7E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.22-19.18.47:825][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.745 ms (total: 688.783 ms)
+[2026.03.22-19.18.47:861][  8]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.18.47:861][  8]LogContentValidation: Enabled validators:
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.18.47:861][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.18.47:861][  8]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.22-19.18.48:868][ 61]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.18.48:900][ 61]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.18.48:904][ 61]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.18.48:904][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.18.48:973][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.22-19.19.09:880][ 61]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.22-19.19.09:890][ 61]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.22-19.19.09:897][ 61]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.22-19.19.09:918][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.22-19.19.25:390][ 85]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_DeathScreen
+[2026.03.22-19.19.25:398][ 85]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Menus/WB_DeathScreen.
+[2026.03.22-19.19.25:399][ 85]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.22-19.19.26:787][178]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.19.26:787][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.22-19.19.26:809][178]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.22-19.19.26:817][178]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.22-19.19.27:421][178]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2026.03.22-19.19.27:430][178]LogSlate: Took 0.007407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.22-19.19.36:132][691]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.19.36:167][691]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.19.36:181][691]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.19.36:181][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.19.36:187][691]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.19.36:187][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.19.36:246][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.22-19.19.38:435][821]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_LoadMenu1.WB_LoadMenu1
+[2026.03.22-19.19.38:435][821]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.22-19.19.38:484][821]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.22-19.19.53:453][716]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-19.19.53:483][716]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-19.19.53:515][716]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.19.53:515][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.19.53:521][716]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.19.53:521][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.19.53:581][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-19.19.55:904][860]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.19.55:904][860]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.22-19.19.55:922][860]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.22-19.20.34:422][182]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.22-19.20.42:398][677]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.22-19.21.08:932][282]LogSlate: Took 0.015024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.22-19.21.32:586][753]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18424788660449438489
+[2026.03.22-19.21.32:586][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.21.32:604][754]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.22-19.21.32:609][754]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.22-19.21.32:612][754]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.22-19.21.32:614][754]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.22-19.21.32:616][754]LogSlate: Took 0.000796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.22-19.21.32:616][754]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.22-19.21.32:915][772]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 19
+[2026.03.22-19.21.32:915][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.21.32:921][773]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.22-19.21.32:925][773]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.22-19.21.32:929][773]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.22-19.21.32:931][773]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.22-19.21.32:932][773]LogSlate: Took 0.000743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.22-19.21.32:932][773]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.22-19.21.34:103][848]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 76
+[2026.03.22-19.21.34:103][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.21.34:130][849]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.22-19.21.34:135][849]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.22-19.21.34:138][849]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.22-19.21.34:140][849]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.22-19.21.34:141][849]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.22-19.21.34:141][849]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.22-19.21.42:502][366]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.22-19.21.44:360][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.22-19.21.45:491][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.21.45:563][526]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.21.45:567][526]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.21.45:567][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.21.45:567][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.21.45:572][526]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.21.45:572][526]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreen5983FCC8485B575F800D9EA8871F3C90.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.21.45:575][526]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Menus/WB_DeathScreen.
+[2026.03.22-19.21.45:587][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.919 ms (total: 783.703 ms)
+[2026.03.22-19.21.45:618][526]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.21.45:619][526]LogContentValidation: Enabled validators:
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.21.45:619][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.21.45:619][526]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.21.47:231][623]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.21.47:262][623]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.21.47:270][623]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.21.47:270][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.21.47:277][623]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.21.47:277][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.21.47:337][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.22-19.21.54:054][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.22-19.21.54:054][ 42]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.22-19.21.54:157][ 42]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.22-19.22.31:081][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.22-19.22.31:083][195]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.035
+[2026.03.22-19.22.31:083][195]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.22.31:119][195]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.22.31:119][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.22.31:146][195]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2026.03.22-19.22.31:147][195]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter_Auto4DF06FE604C3FBB0DA158069D45CC544F.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2026.03.22-19.22.31:148][195]LogFileHelpers: Auto-saving content packages took 0.065
+[2026.03.22-19.23.31:653][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8787.801758
+[2026.03.22-19.23.31:831][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.23.31:831][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8787.962891, Update Interval: 351.699585
+[2026.03.22-19.25.56:496][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.22-19.25.57:319][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.25.57:393][237]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.25.57:427][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.25.57:427][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.25.57:455][237]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.22-19.25.57:455][237]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter152E090B429C738EAD81FBA8F04595C3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.22-19.25.57:463][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.647 ms (total: 928.350 ms)
+[2026.03.22-19.25.57:495][237]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.25.57:495][237]LogContentValidation: Enabled validators:
+[2026.03.22-19.25.57:495][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.25.57:495][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.25.57:495][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.25.57:496][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.25.57:496][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.25.57:496][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.25.57:496][237]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.22-19.25.58:429][291]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.25.58:463][291]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.25.58:466][291]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.25.58:466][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.25.58:546][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.22-19.26.04:282][652]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.26.04:282][652]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.03.22-19.26.04:302][652]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.22-19.27.17:329][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.22-19.27.35:114][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.22-19.27.35:752][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.27.35:813][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.27.35:816][ 25]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.27.35:816][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.27.35:816][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.27.35:820][ 25]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.27.35:821][ 25]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreenDBB9179F41F41CEF617552BF79E4759A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.27.35:830][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.324 ms (total: 1.00 sec)
+[2026.03.22-19.27.35:861][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: Enabled validators:
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.27.35:862][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.27.35:863][ 25]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.27.36:344][ 52]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.27.36:376][ 52]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.27.36:382][ 52]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.27.36:382][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.27.36:389][ 52]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.27.36:389][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.27.36:440][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.22-19.27.39:732][264]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_LoadMenu1.WB_LoadMenu1
+[2026.03.22-19.27.39:732][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.22-19.27.39:751][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.22-19.27.42:094][385]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-19.27.42:127][385]LogSlate: Window 'WB_LoadMenu1' being destroyed
+[2026.03.22-19.27.42:138][385]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.27.42:138][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.27.42:145][385]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.27.42:145][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.27.42:200][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.22-19.27.45:266][583]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_PauseMenu.WB_PauseMenu
+[2026.03.22-19.27.45:266][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.03.22-19.27.45:286][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.03.22-19.28.39:892][765]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.28.39:892][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.03.22-19.28.39:946][765]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.03.22-19.29.10:280][535]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.22-19.30.04:374][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9180.468750
+[2026.03.22-19.30.04:709][843]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.30.04:710][843]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9180.789062, Update Interval: 309.833069
+[2026.03.22-19.30.46:218][289]LogBlueprint: Warning: [AssetLog] C:\Users\Benjamin\Documents\GitHub\UnrealProject\UnrealProject\Content\Menus\WB_DeathScreen.uasset: [Compiler] Set MainMenuRef  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.03.22-19.30.46:314][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.22-19.30.46:834][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.30.46:894][316]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.30.46:897][316]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.30.46:897][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.30.46:897][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.30.46:902][316]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.30.46:903][316]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreen30B723614A5A99E5FC8AAA92E2088265.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.30.46:911][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.807 ms (total: 1.08 sec)
+[2026.03.22-19.30.46:944][316]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.30.46:944][316]LogContentValidation: Enabled validators:
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.30.46:944][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.30.46:944][316]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.31.02:984][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.22-19.31.03:828][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.31.03:903][341]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.31.03:905][341]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.31.03:905][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.31.03:905][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.31.03:911][341]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.31.03:911][341]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreen676D77784503F6ACF20B33BC40CA3C9E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.31.03:919][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.701 ms (total: 1.17 sec)
+[2026.03.22-19.31.03:952][341]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.31.03:952][341]LogContentValidation: Enabled validators:
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.31.03:952][341]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.31.03:953][341]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.31.04:676][381]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.31.04:691][381]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.31.04:699][381]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.31.04:699][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.04:707][381]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.31.04:707][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.04:754][381]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.31.04:754][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.04:761][381]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.31.04:761][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.04:813][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.22-19.31.06:130][467]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-19.31.06:136][467]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-19.31.06:136][467]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-19.31.06:140][467]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.812 ms (total: 22.127 ms)
+[2026.03.22-19.31.06:140][467]LogPlayLevel: [PlayLevel] Compiling BTTask_ChasePlayer before play...
+[2026.03.22-19.31.06:164][467]LogPlayLevel: [PlayLevel] Compiling BTTask_WalkSpeed before play...
+[2026.03.22-19.31.06:211][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.22-19.31.06:212][467]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (2 blueprints)
+[2026.03.22-19.31.06:258][467]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.31.06:267][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008482s)
+[2026.03.22-19.31.06:267][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008525s)
+[2026.03.22-19.31.06:286][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.22-19.31.06:288][467]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-19.31.06:290][467]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-19.31.06:290][467]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-19.31.06:290][467]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-19.31.06:290][467]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-19.31.06:292][467]LogWorldPartition: Display: WorldPartition initialize took 2.529 ms (total: 131.582 ms)
+[2026.03.22-19.31.06:292][467]LogPlayLevel: PIE: World Init took: (0.004303s)
+[2026.03.22-19.31.06:293][467]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-19.31.06:293][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-19.31.06:293][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-19.31.06:293][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-19.31.06:293][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-19.31.06:293][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-19.31.06:297][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-19.31.06:322][467]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.22-19.31.06:323][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-19.31.06:323][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-19.31.06:323][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-19.31.06:323][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.03.22-19.31.06:323][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.03.22-19.31.06:327][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.03.22-19.31.06:327][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.03.22-19.31.06:327][467]LogInit: FAudioDevice initialized with ID 7.
+[2026.03.22-19.31.06:327][467]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2026.03.22-19.31.06:327][467]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.22-19.31.06:332][467]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.31.06:335][467]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-19.31.06
+[2026.03.22-19.31.06:336][467]LogWorld: Bringing up level for play took: 0.004173
+[2026.03.22-19.31.06:339][467]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.03.22-19.31.06:342][467]PIE: Server logged in
+[2026.03.22-19.31.06:342][467]PIE: Play in editor total start time 0.207 seconds.
+[2026.03.22-19.31.34:277][352]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.22-19.31.34:277][352]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.22-19.31.34:278][352]PIE: Warning: WB_DeathScreen_C_0
+[2026.03.22-19.31.36:963][534]PIE: Warning: WB_DeathScreen_C_1
+[2026.03.22-19.31.39:649][715]PIE: Warning: WB_DeathScreen_C_2
+[2026.03.22-19.31.42:337][895]PIE: Warning: WB_DeathScreen_C_3
+[2026.03.22-19.31.45:029][ 75]PIE: Warning: WB_DeathScreen_C_4
+[2026.03.22-19.31.47:715][254]PIE: Warning: WB_DeathScreen_C_5
+[2026.03.22-19.31.48:929][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.31.48:929][332]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.31.48:930][332]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.31.48:931][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.48:931][332]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-19.31.48:936][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-19.31.48:939][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.31.48:961][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.31.48:962][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.22-19.31.48:962][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.03.22-19.31.48:965][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.03.22-19.31.48:973][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.03.22-19.31.49:076][333]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.03.22-19.32.01:871][126]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-19.32.01:917][126]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-19.32.05:347][333]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.32.05:347][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.03.22-19.32.05:367][333]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.03.22-19.32.21:446][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.22-19.32.22:099][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.32.22:154][256]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.32.22:155][256]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.32.22:155][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.32.22:155][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.32.22:160][256]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.32.22:161][256]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreen96FA16CE41A807EE7177089D44101619.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.32.22:168][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.604 ms (total: 1.24 sec)
+[2026.03.22-19.32.22:196][256]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.32.22:196][256]LogContentValidation: Enabled validators:
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.32.22:196][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.32.22:196][256]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.32.22:707][284]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.32.22:743][284]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.32.22:778][284]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.32.22:778][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.32.22:784][284]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.32.22:784][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.32.22:843][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.22-19.32.30:755][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.22-19.32.30:755][753]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.03.22-19.33.19:361][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.22-19.33.19:363][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.042
+[2026.03.22-19.33.19:364][157]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.33.19:364][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.33.19:392][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2026.03.22-19.33.19:392][157]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter_Auto557140572440AB5B7695FCF9C966E4867.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2026.03.22-19.33.19:393][157]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.03.22-19.33.31:264][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.22-19.33.31:986][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.33.32:056][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.33.32:088][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.33.32:088][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.33.32:114][333]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.22-19.33.32:115][333]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter4DF1F8EE42EB81F800C0E29CC506F180.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.22-19.33.32:124][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.804 ms (total: 1.38 sec)
+[2026.03.22-19.33.32:156][333]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.33.32:156][333]LogContentValidation: Enabled validators:
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.33.32:156][333]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.33.32:157][333]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.22-19.33.32:608][355]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.33.32:642][355]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.33.32:646][355]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.33.32:646][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.33.32:740][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.22-19.33.33:794][416]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-19.33.33:800][416]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-19.33.33:800][416]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-19.33.33:804][416]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4.808 ms (total: 26.936 ms)
+[2026.03.22-19.33.33:805][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.22-19.33.33:837][416]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.33.33:844][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007600s)
+[2026.03.22-19.33.33:844][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.007639s)
+[2026.03.22-19.33.33:862][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.22-19.33.33:865][416]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-19.33.33:866][416]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-19.33.33:866][416]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-19.33.33:866][416]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-19.33.33:866][416]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-19.33.33:868][416]LogWorldPartition: Display: WorldPartition initialize took 2.600 ms (total: 134.183 ms)
+[2026.03.22-19.33.33:868][416]LogPlayLevel: PIE: World Init took: (0.004201s)
+[2026.03.22-19.33.33:869][416]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-19.33.33:869][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-19.33.33:869][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-19.33.33:869][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-19.33.33:869][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-19.33.33:869][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-19.33.33:871][416]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-19.33.33:895][416]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.22-19.33.33:895][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-19.33.33:895][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-19.33.33:895][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-19.33.33:895][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.22-19.33.33:895][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.22-19.33.33:898][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.22-19.33.33:898][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.22-19.33.33:898][416]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.22-19.33.33:898][416]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2026.03.22-19.33.33:898][416]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.22-19.33.33:901][416]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.33.33:904][416]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-19.33.33
+[2026.03.22-19.33.33:904][416]LogWorld: Bringing up level for play took: 0.003693
+[2026.03.22-19.33.33:907][416]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.03.22-19.33.33:910][416]PIE: Server logged in
+[2026.03.22-19.33.33:911][416]PIE: Play in editor total start time 0.111 seconds.
+[2026.03.22-19.36.01:606][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9537.555664
+[2026.03.22-19.36.01:773][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.36.01:773][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9537.708008, Update Interval: 319.814453
+[2026.03.22-19.36.19:578][237]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.22-19.36.19:578][237]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.22-19.36.19:578][237]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.22-19.36.19:578][237]PIE: Warning: WB_DeathScreen_C_0
+[2026.03.22-19.36.22:262][425]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.22-19.36.22:263][425]PIE: Warning: WB_DeathScreen_C_1
+[2026.03.22-19.36.24:116][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.36.24:116][552]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.36.24:116][552]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.36.24:117][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.36.24:117][552]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-19.36.24:123][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-19.36.24:128][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.36.24:148][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.36.24:149][552]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.22-19.36.24:149][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.03.22-19.36.24:152][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.03.22-19.36.24:160][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.22-19.36.24:242][553]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.03.22-19.36.53:828][601]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-19.36.53:871][601]LogSlate: Window 'Message Log' being destroyed
+[2026.03.22-19.36.55:793][719]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.36.55:794][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.03.22-19.36.55:815][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.03.22-19.37.44:130][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.22-19.37.45:330][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.37.45:389][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.37.45:391][642]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.37.45:391][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.37.45:391][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.37.45:397][642]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.37.45:397][642]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreenFCD7AC1E4EFACDB2C0BCA49F7B4E86DB.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.37.45:405][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.308 ms (total: 1.45 sec)
+[2026.03.22-19.37.45:435][642]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.37.45:435][642]LogContentValidation: Enabled validators:
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.37.45:435][642]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.37.45:435][642]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.37.47:072][734]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.37.47:106][734]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.37.47:119][734]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.37.47:119][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.37.47:126][734]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.37.47:126][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.37.47:172][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.22-19.37.48:609][825]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-19.37.48:615][825]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-19.37.48:615][825]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-19.37.48:619][825]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.995 ms (total: 30.932 ms)
+[2026.03.22-19.37.48:619][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.22-19.37.48:619][825]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.37.48:630][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010580s)
+[2026.03.22-19.37.48:630][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010629s)
+[2026.03.22-19.37.48:650][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.22-19.37.48:652][825]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-19.37.48:654][825]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-19.37.48:654][825]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-19.37.48:654][825]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-19.37.48:654][825]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-19.37.48:656][825]LogWorldPartition: Display: WorldPartition initialize took 2.835 ms (total: 137.018 ms)
+[2026.03.22-19.37.48:656][825]LogPlayLevel: PIE: World Init took: (0.004563s)
+[2026.03.22-19.37.48:657][825]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-19.37.48:657][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-19.37.48:657][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-19.37.48:657][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-19.37.48:657][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-19.37.48:657][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-19.37.48:661][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-19.37.48:686][825]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.22-19.37.48:686][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-19.37.48:686][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-19.37.48:686][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-19.37.48:688][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.03.22-19.37.48:688][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.03.22-19.37.48:691][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.03.22-19.37.48:691][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.03.22-19.37.48:691][825]LogInit: FAudioDevice initialized with ID 9.
+[2026.03.22-19.37.48:691][825]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2026.03.22-19.37.48:691][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.22-19.37.48:694][825]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.37.48:698][825]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-19.37.48
+[2026.03.22-19.37.48:698][825]LogWorld: Bringing up level for play took: 0.004247
+[2026.03.22-19.37.48:701][825]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.03.22-19.37.48:704][825]PIE: Server logged in
+[2026.03.22-19.37.48:705][825]PIE: Play in editor total start time 0.09 seconds.
+[2026.03.22-19.38.02:045][752]LogCharacterMovement: BP_AI_ZombieCharacter_C_1 is stuck and failed to move! Velocity: X=4.26 Y=29.42 Z=0.00 Location: X=3322.45 Y=220.48 Z=55.03 Normal: X=-0.20 Y=0.98 Z=-0.00 PenetrationDepth:8.668 Actor:BP_FirstPersonProjectile_C_0 Component:CollisionComponent BoneName:None (0 other events since notify)
+[2026.03.22-19.38.03:337][838]LogCharacterMovement: BP_AI_ZombieCharacter_C_1 is stuck and failed to move! Velocity: X=4.21 Y=29.35 Z=0.00 Location: X=3322.55 Y=220.47 Z=55.03 Normal: X=0.07 Y=1.00 Z=-0.00 PenetrationDepth:11.132 Actor:BP_FirstPersonProjectile_C_7 Component:CollisionComponent BoneName:None (2 other events since notify)
+[2026.03.22-19.38.04:750][933]LogCharacterMovement: BP_AI_ZombieCharacter_C_1 is stuck and failed to move! Velocity: X=4.29 Y=30.15 Z=0.00 Location: X=3322.67 Y=220.46 Z=55.03 Normal: X=0.08 Y=1.00 Z=0.00 PenetrationDepth:10.743 Actor:BP_FirstPersonProjectile_C_14 Component:CollisionComponent BoneName:None (4 other events since notify)
+[2026.03.22-19.38.24:200][303]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.22-19.38.24:200][303]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.22-19.38.26:342][454]LogScript: Warning: Script Msg: The widget 'WB_MainMenu_C_0' was already added to the screen.
+[2026.03.22-19.38.26:342][454]LogScript: Warning: Script Msg called by: WB_DeathScreen_C /Engine/Transient.UnrealEdEngine_0:BP_GameInstance_C_7.WB_DeathScreen_C_0
+[2026.03.22-19.38.30:245][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.38.30:245][721]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.38.30:245][721]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.38.30:246][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.38.30:246][721]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-19.38.30:249][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-19.38.30:254][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.38.30:278][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.38.30:279][721]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.22-19.38.30:279][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.03.22-19.38.30:282][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.03.22-19.38.30:290][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.22-19.38.30:319][722]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.03.22-19.38.49:512][997]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_MainMenu.WB_MainMenu
+[2026.03.22-19.38.49:512][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.03.22-19.38.49:533][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.03.22-19.39.10:318][181]LogSlate: Window 'WB_MainMenu' being destroyed
+[2026.03.22-19.39.10:322][181]LogSlate: Window 'WB_MainMenu' being destroyed
+[2026.03.22-19.39.10:331][181]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.39.10:331][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.39.10:338][181]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.39.10:338][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.39.10:435][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.22-19.39.22:528][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.22-19.39.22:528][961]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.03.22-19.40.02:731][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.22-19.40.03:477][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.40.03:504][126]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.40.03:536][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.40.03:536][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.40.03:563][126]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.22-19.40.03:563][126]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacter57636A1E479E078DF7009EB02D98E550.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.22-19.40.03:573][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.399 ms (total: 1.55 sec)
+[2026.03.22-19.40.03:604][126]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.40.03:604][126]LogContentValidation: Enabled validators:
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.40.03:604][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.40.03:604][126]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.22-19.40.04:000][147]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.40.04:005][147]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.40.04:009][147]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.40.04:009][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.40.04:106][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.22-19.40.08:658][450]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_MainMenu.WB_MainMenu
+[2026.03.22-19.40.08:658][450]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.03.22-19.40.08:679][450]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.03.22-19.40.17:552][924]LogSlate: Window 'WB_MainMenu' being destroyed
+[2026.03.22-19.40.17:557][924]LogSlate: Window 'WB_MainMenu' being destroyed
+[2026.03.22-19.40.17:565][924]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.40.17:565][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.40.17:574][924]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.40.17:574][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.40.17:672][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.22-19.40.22:403][228]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.03.22-19.40.22:403][228]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2026.03.22-19.40.32:739][911]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.22-19.40.46:921][ 68]LogEditorTransaction: Undo Move Node
+[2026.03.22-19.40.47:157][ 69]LogEditorTransaction: Undo Change Object Pin Value
+[2026.03.22-19.40.47:416][ 71]LogEditorTransaction: Undo Add Node
+[2026.03.22-19.40.47:641][ 72]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.40.47:857][ 74]LogEditorTransaction: Undo Add Node
+[2026.03.22-19.40.48:083][ 77]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.40.48:557][ 96]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.40.49:161][122]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.40.49:394][124]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.40.49:657][129]LogEditorTransaction: Undo Delete current selection
+[2026.03.22-19.41.00:607][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.22-19.41.01:484][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.41.01:519][809]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.22-19.41.01:554][809]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.22-19.41.01:554][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.22-19.41.01:580][809]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.22-19.41.01:582][809]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BP_FirstPersonCharacterB00CCCE546B4178761192F858CB277C6.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.22-19.41.01:592][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.934 ms (total: 1.66 sec)
+[2026.03.22-19.41.01:622][809]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.41.01:622][809]LogContentValidation: Enabled validators:
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.41.01:622][809]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.41.01:622][809]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.22-19.41.02:177][841]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.41.02:182][841]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.03.22-19.41.02:186][841]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.41.02:186][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.41.02:293][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.22-19.41.07:974][221]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen
+[2026.03.22-19.41.07:974][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2026.03.22-19.41.07:995][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.03.22-19.41.44:072][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.22-19.41.44:709][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.41.44:740][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Menus/WB_DeathScreen] ([2] browsable assets)...
+[2026.03.22-19.41.44:742][167]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Menus/WB_DeathScreen.WB_DeathScreen]
+[2026.03.22-19.41.44:742][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menus/WB_DeathScreen]
+[2026.03.22-19.41.44:742][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/WB_DeathScreen" FILE="../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset" SILENT=true
+[2026.03.22-19.41.44:746][167]LogSavePackage: Moving output files for package: /Game/Menus/WB_DeathScreen
+[2026.03.22-19.41.44:746][167]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/WB_DeathScreen61916411461A121F91FE4798609767CE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/Menus/WB_DeathScreen.uasset'
+[2026.03.22-19.41.44:755][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.709 ms (total: 1.70 sec)
+[2026.03.22-19.41.44:785][167]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.41.44:785][167]LogContentValidation: Enabled validators:
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.41.44:785][167]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.41.44:785][167]AssetCheck: /Game/Menus/WB_DeathScreen Validating asset
+[2026.03.22-19.41.45:815][226]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.41.45:827][226]LogSlate: Window 'WB_DeathScreen' being destroyed
+[2026.03.22-19.41.45:836][226]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.41.45:836][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.41.45:843][226]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.41.45:843][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.41.45:895][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.22-19.41.47:321][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-19.41.47:327][316]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-19.41.47:327][316]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-19.41.47:330][316]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.544 ms (total: 34.477 ms)
+[2026.03.22-19.41.47:330][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.22-19.41.47:330][316]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.41.47:339][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008259s)
+[2026.03.22-19.41.47:339][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008295s)
+[2026.03.22-19.41.47:359][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.22-19.41.47:361][316]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-19.41.47:362][316]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-19.41.47:362][316]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-19.41.47:362][316]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-19.41.47:362][316]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-19.41.47:365][316]LogWorldPartition: Display: WorldPartition initialize took 2.796 ms (total: 139.814 ms)
+[2026.03.22-19.41.47:365][316]LogPlayLevel: PIE: World Init took: (0.004514s)
+[2026.03.22-19.41.47:365][316]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.22-19.41.47:365][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-19.41.47:365][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-19.41.47:365][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-19.41.47:365][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-19.41.47:366][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-19.41.47:366][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-19.41.47:366][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-19.41.47:366][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-19.41.47:366][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-19.41.47:366][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-19.41.47:366][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-19.41.47:368][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-19.41.47:393][316]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.22-19.41.47:393][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-19.41.47:393][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-19.41.47:393][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-19.41.47:393][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.22-19.41.47:394][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.22-19.41.47:396][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.22-19.41.47:396][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.22-19.41.47:396][316]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.22-19.41.47:396][316]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2026.03.22-19.41.47:396][316]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.22-19.41.47:399][316]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.41.47:402][316]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-19.41.47
+[2026.03.22-19.41.47:403][316]LogWorld: Bringing up level for play took: 0.004057
+[2026.03.22-19.41.47:405][316]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.22-19.41.47:409][316]PIE: Server logged in
+[2026.03.22-19.41.47:410][316]PIE: Play in editor total start time 0.083 seconds.
+[2026.03.22-19.41.58:894][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9894.844727
+[2026.03.22-19.41.59:044][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.41.59:044][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9894.981445, Update Interval: 358.088318
+[2026.03.22-19.42.20:692][715]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.22-19.42.20:693][715]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.03.22-19.42.22:662][857]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/MainMenu"
+[2026.03.22-19.42.22:662][857]LogNet: Browse: /Game/FirstPerson/Maps/MainMenu
+[2026.03.22-19.42.22:663][857]LogLoad: LoadMap: /Game/FirstPerson/Maps/MainMenu
+[2026.03.22-19.42.22:663][857]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.42.22:665][857]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.22:666][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.22:666][857]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-19.42.22:705][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.22-19.42.22:707][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.22-19.42.22:714][857]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.22-19.42.22:740][857]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2026.03.22-19.42.22:740][857]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.22-19.42.22:742][857]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2026.03.22-19.42.22:742][857]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.42.22:745][857]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2026.03.22-19.42.22
+[2026.03.22-19.42.22:745][857]LogWorld: Bringing up level for play took: 0.003021
+[2026.03.22-19.42.22:745][857]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.22-19.42.22:747][857]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(968)]!
+[2026.03.22-19.42.22:748][857]LogLoad: Took 0.085061 seconds to LoadMap(/Game/FirstPerson/Maps/MainMenu)
+[2026.03.22-19.42.22:748][857]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/MainMenu
+[2026.03.22-19.42.25:046][ 44]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.22-19.42.25:046][ 44]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.03.22-19.42.25:047][ 44]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/FirstPerson/Maps/FirstPersonMap"
+[2026.03.22-19.42.25:047][ 44]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2026.03.22-19.42.25:047][ 44]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2026.03.22-19.42.25:047][ 44]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenu
+[2026.03.22-19.42.25:048][ 44]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.25:048][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.25:097][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.22-19.42.25:098][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.22-19.42.25:101][ 44]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.42.25:109][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008573s)
+[2026.03.22-19.42.25:109][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008622s)
+[2026.03.22-19.42.25:109][ 44]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2026.03.22-19.42.25:109][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-19.42.25:111][ 44]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-19.42.25:111][ 44]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-19.42.25:111][ 44]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-19.42.25:111][ 44]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-19.42.25:114][ 44]LogWorldPartition: Display: WorldPartition initialize took 2.488 ms (total: 142.303 ms)
+[2026.03.22-19.42.25:114][ 44]LogPlayLevel: PIE: World Init took: (0.003930s)
+[2026.03.22-19.42.25:114][ 44]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-19.42.25:117][ 44]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-19.42.25
+[2026.03.22-19.42.25:118][ 44]LogWorld: Bringing up level for play took: 0.003862
+[2026.03.22-19.42.25:118][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.03.22-19.42.25:120][ 44]LogLoad: Took 0.072747 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2026.03.22-19.42.25:120][ 44]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.42.27:032][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.42.27:032][173]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-19.42.27:033][173]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.27:034][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.27:034][173]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-19.42.27:038][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-19.42.27:043][173]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.27:063][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-19.42.27:064][173]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.22-19.42.27:064][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.03.22-19.42.27:066][173]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.03.22-19.42.27:077][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.22-19.42.27:157][174]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.22-19.42.30:941][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.22-19.42.33:148][406]LogSlate: Window 'Save Content' being destroyed
+[2026.03.22-19.42.33:177][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.42.33:205][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.22-19.42.33:205][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.22-19.42.33:208][406]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BT_ZC_AI
+[2026.03.22-19.42.33:209][406]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI53F46FEF4537575034E4D78056F2290E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BT_ZC_AI.uasset'
+[2026.03.22-19.42.33:210][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer] ([2] browsable assets)...
+[2026.03.22-19.42.33:210][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer]
+[2026.03.22-19.42.33:213][406]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer
+[2026.03.22-19.42.33:213][406]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_ChasePlayerE5B69DB047249E025FFD7CBC21FC3DFA.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTTask_ChasePlayer.uasset'
+[2026.03.22-19.42.33:214][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed] ([2] browsable assets)...
+[2026.03.22-19.42.33:215][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed]
+[2026.03.22-19.42.33:217][406]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed
+[2026.03.22-19.42.33:218][406]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_WalkSpeed35CF4B964293C6BB8F1D3698D7C62B04.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTTask_WalkSpeed.uasset'
+[2026.03.22-19.42.33:219][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying] ([1] browsable assets)...
+[2026.03.22-19.42.33:219][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying]
+[2026.03.22-19.42.33:225][406]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/Zombie_Dying
+[2026.03.22-19.42.33:225][406]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying847CDA034E6BF95E08D6AEA9D32E57B7.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/Zombie_Dying.uasset'
+[2026.03.22-19.42.33:229][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage] ([1] browsable assets)...
+[2026.03.22-19.42.33:229][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage]
+[2026.03.22-19.42.33:230][406]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Animations/Zombie_Dying_Montage
+[2026.03.22-19.42.33:230][406]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying_Montage65F8A54E4D3FB79E0C8DC78F75338BB2.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Animations/Zombie_Dying_Montage.uasset'
+[2026.03.22-19.42.33:237][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.217 ms (total: 1.76 sec)
+[2026.03.22-19.42.33:278][406]LogStall: Shutdown...
+[2026.03.22-19.42.33:278][406]LogStall: Shutdown complete.
+[2026.03.22-19.42.33:313][406]LogSlate: Window 'UnrealProject - Unreal Editor' being destroyed
+[2026.03.22-19.42.33:562][406]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.22-19.42.33:562][406]LogContentValidation: Enabled validators:
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.42.33:562][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.42.33:562][406]AssetCheck: /Game/ZombieCharacter/Blueprints/BT_ZC_AI Validating asset
+[2026.03.22-19.42.33:562][406]AssetCheck: /Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer Validating asset
+[2026.03.22-19.42.33:562][406]AssetCheck: /Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed Validating asset
+[2026.03.22-19.42.33:562][406]AssetCheck: /Game/ZombieCharacter/Animations/Zombie_Dying Validating asset
+[2026.03.22-19.42.33:563][406]AssetCheck: /Game/ZombieCharacter/Animations/Zombie_Dying_Montage Validating asset
+[2026.03.22-19.42.33:565][406]Cmd: QUIT_EDITOR
+[2026.03.22-19.42.33:565][406]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.22-19.42.33:571][407]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.22-19.42.33:571][407]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.22-19.42.33:571][407]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.22-19.42.33:573][407]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:573][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:573][407]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2026.03.22-19.42.33:580][407]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.22-19.42.33:581][407]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.22-19.42.33:616][407]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:616][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:619][407]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:619][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:623][407]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:623][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:626][407]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:626][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:629][407]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:629][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:633][407]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:633][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:635][407]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:635][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:639][407]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:639][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:641][407]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:641][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:644][407]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:644][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:647][407]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:647][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:649][407]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.42.33:649][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.42.33:653][407]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.22-19.42.33:657][407]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.22-19.42.33:657][407]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.22-19.42.33:657][407]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.22-19.42.34:571][407]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.22-19.42.34:571][407]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.22-19.42.34:571][407]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2026.03.22-19.42.34:571][407]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.22-19.42.34:571][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.22-19.42.34:573][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.22-19.42.34:584][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.22-19.42.34:584][407]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.22-19.42.34:584][407]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.22-19.42.34:588][407]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.22-19.42.34:588][407]LogExit: Preparing to exit.
+[2026.03.22-19.42.34:659][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-19.42.34:683][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:683][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:684][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:685][407]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.34:685][407]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.22-19.42.35:811][407]LogEditorDataStorage: Deinitializing
+[2026.03.22-19.42.35:963][407]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.22-19.42.35:988][407]LogExit: Editor shut down
+[2026.03.22-19.42.35:993][407]LogExit: Transaction tracking system shut down
+[2026.03.22-19.42.36:190][407]LogExit: Object subsystem successfully closed.
+[2026.03.22-19.42.36:280][407]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.22-19.42.37:119][407]LogMemoryProfiler: Shutdown
+[2026.03.22-19.42.37:119][407]LogNetworkingProfiler: Shutdown
+[2026.03.22-19.42.37:119][407]LoadingProfiler: Shutdown
+[2026.03.22-19.42.37:119][407]LogTimingProfiler: Shutdown
+[2026.03.22-19.42.37:578][407]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.22-19.42.37:578][407]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.03.22-19.42.37:578][407]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.22-19.42.37:578][407]RenderDocPlugin: plugin has been unloaded.
+[2026.03.22-19.42.37:597][407]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.22-19.42.37:597][407]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6320716-43AE-9B16-691E-769E14E1F6D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=129f240c4967ea587129489a2009a154%7Cff2b4295734543a4bfd1cbf95d6c1c28%7C4d9c080a-fa9e-443c-912c-620e8f565f63&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.22-19.42.38:137][407]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.22-19.42.38:150][407]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.22-19.42.38:150][407]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.22-19.42.38:150][407]LogPakFile: Destroying PakPlatformFile
+[2026.03.22-19.42.38:705][407]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.22-19.42.38:795][407]LogExit: Exiting.
+[2026.03.22-19.42.38:815][407]Log file closed, 03/22/26 19:42:38
