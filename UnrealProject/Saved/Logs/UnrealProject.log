@@ -1691,3 +1691,927 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.22-17.02.51:874][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.03.22-17.02.51:877][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2026.03.22-17.02.51:913][995]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.03.22-17.08.19:518][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 675.755127
+[2026.03.22-17.08.20:520][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.08.20:520][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 676.423279, Update Interval: 317.177643
+[2026.03.22-17.08.21:148][959]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (LG RK7  (C7) ), InstanceID=1
+[2026.03.22-17.08.21:186][959]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.08.21:186][959]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-17.08.21:519][960]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.08.21:521][960]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4e572c9-313b-4df5-8167-cfa57e0aba30}, Name=Speakers (LG RK7  (C7) )), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=19.72
+[2026.03.22-17.08.21:522][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-17.08.21:524][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-17.08.51:576][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.22-17.08.51:578][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2026.03.22-17.08.51:578][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying] ([1] browsable assets)...
+[2026.03.22-17.08.51:711][ 50]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ZombieCharacter/Animations/Zombie_Dying.Zombie_Dying]
+[2026.03.22-17.08.51:711][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying]
+[2026.03.22-17.08.51:718][ 50]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Auto1
+[2026.03.22-17.08.51:718][ 50]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying_Auto1D352DFD7459C464577053FAD2040B97A.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Auto1.uasset'
+[2026.03.22-17.08.51:720][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage] ([1] browsable assets)...
+[2026.03.22-17.08.51:748][ 50]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/ZombieCharacter/Animations/Zombie_Dying_Montage.Zombie_Dying_Montage]
+[2026.03.22-17.08.51:748][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage]
+[2026.03.22-17.08.51:749][ 50]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Montage_Auto1
+[2026.03.22-17.08.51:749][ 50]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying_Montage_Auto1E5BD049849557F30696F7A9F5EC41553.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Montage_Auto1.uasset'
+[2026.03.22-17.08.51:750][ 50]LogFileHelpers: Auto-saving content packages took 0.172
+[2026.03.22-17.13.43:894][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1000.129700
+[2026.03.22-17.13.44:894][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.13.44:894][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1000.794800, Update Interval: 338.619965
+[2026.03.22-17.15.30:727][248]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.22-17.15.30:924][248]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.15.30:925][248]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-17.15.31:258][249]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.15.31:260][249]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=89.35
+[2026.03.22-17.15.31:260][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-17.15.31:261][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-17.19.32:099][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1348.335815
+[2026.03.22-17.19.33:098][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.19.33:098][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1349.002563, Update Interval: 323.833740
+[2026.03.22-17.25.19:332][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1695.569946
+[2026.03.22-17.25.20:334][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.25.20:334][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1696.237061, Update Interval: 337.684265
+[2026.03.22-17.26.03:346][780]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (LG RK7  (C7) ), InstanceID=1
+[2026.03.22-17.26.03:664][780]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.26.03:664][780]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-17.26.03:999][781]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.26.04:000][781]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4e572c9-313b-4df5-8167-cfa57e0aba30}, Name=Speakers (LG RK7  (C7) )), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=23.78
+[2026.03.22-17.26.04:000][781]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-17.26.04:002][781]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-17.31.21:179][733]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.22-17.31.21:390][733]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.31.21:390][733]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-17.31.21:720][734]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-17.31.21:722][734]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=193.39
+[2026.03.22-17.31.21:722][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-17.31.21:724][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-17.31.54:456][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2090.694580
+[2026.03.22-17.31.55:458][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.31.55:458][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2091.364258, Update Interval: 315.769531
+[2026.03.22-17.32.14:941][181]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.22-17.32.14:948][181]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.22-17.32.14:948][181]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2026.03.22-17.32.14:951][181]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3.581 ms (total: 18.315 ms)
+[2026.03.22-17.32.14:952][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.22-17.32.14:952][181]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-17.32.14:960][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008656s)
+[2026.03.22-17.32.14:960][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008695s)
+[2026.03.22-17.32.14:978][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.22-17.32.14:979][181]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2026.03.22-17.32.14:981][181]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.22-17.32.14:981][181]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.22-17.32.14:981][181]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.22-17.32.14:981][181]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.22-17.32.14:982][181]LogWorldPartition: Display: WorldPartition initialize took 2.026 ms (total: 129.052 ms)
+[2026.03.22-17.32.14:982][181]LogPlayLevel: PIE: World Init took: (0.003820s)
+[2026.03.22-17.32.14:983][181]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.22-17.32.14:983][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.03.22-17.32.14:983][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.22-17.32.14:983][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.22-17.32.14:983][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.22-17.32.14:983][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.22-17.32.14:986][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.22-17.32.15:003][181]LogAudioMixer: Display: Using Audio Hardware Device SAMSUNG (NVIDIA High Definition Audio)
+[2026.03.22-17.32.15:003][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.22-17.32.15:003][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.22-17.32.15:003][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.22-17.32.15:004][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.22-17.32.15:004][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.22-17.32.15:006][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.22-17.32.15:007][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.22-17.32.15:007][181]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.22-17.32.15:007][181]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2026.03.22-17.32.15:007][181]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.22-17.32.15:009][181]LogLoad: Game class is 'BP_PlayMode_C'
+[2026.03.22-17.32.15:012][181]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2026.03.22-17.32.15
+[2026.03.22-17.32.15:013][181]LogWorld: Bringing up level for play took: 0.003613
+[2026.03.22-17.32.15:015][181]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.03.22-17.32.15:017][181]PIE: Server logged in
+[2026.03.22-17.32.15:019][181]PIE: Play in editor total start time 0.071 seconds.
+[2026.03.22-17.32.53:349][337]LogCharacterMovement: BP_AI_ZombieCharacter_C_1 is stuck and failed to move! Velocity: X=-7.40 Y=-15.38 Z=0.00 Location: X=-403.50 Y=-1578.24 Z=54.91 Normal: X=0.42 Y=-0.91 Z=0.00 PenetrationDepth:5.051 Actor:BP_FirstPersonProjectile_C_6 Component:CollisionComponent BoneName:None (0 other events since notify)
+[2026.03.22-17.33.04:737][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-17.33.04:737][139]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2026.03.22-17.33.04:737][139]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-17.33.04:738][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-17.33.04:738][139]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap
+[2026.03.22-17.33.04:741][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.22-17.33.04:745][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-17.33.04:764][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.22-17.33.04:764][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.22-17.33.04:765][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.22-17.33.04:766][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.03.22-17.33.04:774][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.22-17.33.04:807][140]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.03.22-17.36.41:854][535]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_5
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.41:872][536]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_6
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.41:890][537]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_7
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:450][ 97]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_8
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:487][ 98]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_9
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:497][ 99]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_10
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:510][100]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_11
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:527][101]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_12
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:545][102]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_13
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:562][103]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_14
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:578][104]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_15
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:596][105]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_16
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:612][106]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_17
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:629][107]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_18
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:646][108]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_19
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:664][109]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_20
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:777][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_21
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:848][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_22
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:857][117]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_23
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:870][118]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_24
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:887][119]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_25
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:905][120]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_26
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:923][121]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_27
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:940][122]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_28
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:956][123]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_29
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.50:978][124]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_30
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:000][125]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_31
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:016][126]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_32
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:033][127]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_33
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:050][128]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_34
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:068][129]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_35
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:085][130]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_36
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:104][131]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_37
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:121][132]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_38
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:138][133]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_39
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:156][134]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_40
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:174][135]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_41
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:192][136]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_42
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:209][137]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_43
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:226][138]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_44
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:242][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_45
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:261][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_46
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:278][141]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_47
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:295][142]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_48
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:311][143]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_49
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:330][144]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_50
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:347][145]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_51
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:364][146]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_52
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:381][147]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_53
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:397][148]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_54
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:415][149]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_55
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:432][150]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_56
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:449][151]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_57
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:466][152]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_58
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:484][153]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_59
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:501][154]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_60
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:518][155]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_61
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:536][156]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_62
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:552][157]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_63
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:570][158]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_64
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:587][159]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_65
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:604][160]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_66
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:622][161]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_67
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:639][162]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_68
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:656][163]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_69
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:673][164]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_70
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:690][165]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_71
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:707][166]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_72
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:725][167]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_73
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:742][168]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_74
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:759][169]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_75
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:776][170]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_76
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:794][171]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_77
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:810][172]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_78
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:828][173]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_79
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:845][174]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_80
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:862][175]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_81
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:879][176]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_82
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:897][177]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_83
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:913][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_84
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:932][179]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_85
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:949][180]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_86
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:967][181]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_87
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.51:984][182]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_88
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:000][183]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_89
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:018][184]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_90
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:035][185]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_91
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:053][186]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_92
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:070][187]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_93
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:086][188]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_94
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:104][189]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_95
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:121][190]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_96
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:138][191]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_97
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:157][192]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_98
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:173][193]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_99
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:190][194]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_100
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:207][195]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_101
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:225][196]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_102
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:242][197]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_103
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:259][198]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_104
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:277][199]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_105
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:294][200]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_106
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:311][201]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_107
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:329][202]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_108
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:345][203]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_109
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:363][204]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_110
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:380][205]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_111
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:397][206]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_112
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:414][207]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_113
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:431][208]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_114
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:448][209]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_115
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:465][210]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_116
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:483][211]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_117
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:500][212]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_118
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:517][213]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_119
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:534][214]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_120
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:552][215]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_121
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:568][216]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_122
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:587][217]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_123
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:604][218]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_124
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:621][219]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_125
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:638][220]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_126
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:656][221]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_127
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:672][222]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_128
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:690][223]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_129
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:705][224]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_130
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:724][225]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_131
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:741][226]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_132
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:759][227]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_133
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:776][228]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_134
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:794][229]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_135
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:815][230]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_136
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:849][231]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_137
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:866][232]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_138
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:883][233]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_139
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:900][234]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_140
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:917][235]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_141
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:934][236]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_142
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:950][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_143
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:968][238]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_144
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.36.52:985][239]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_145
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-17.37.00:212][675]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ZombieCharacter/Blueprints/BT_ZC_AI.BT_ZC_AI
+[2026.03.22-17.37.55:099][216]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2451.340332
+[2026.03.22-17.37.56:102][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.37.56:102][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2452.009033, Update Interval: 354.845428
+[2026.03.22-17.44.44:912][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2861.148438
+[2026.03.22-17.44.45:912][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.44.45:912][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2861.815674, Update Interval: 331.566528
+[2026.03.22-17.50.53:288][411]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3229.524414
+[2026.03.22-17.50.54:288][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.50.54:288][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3230.191406, Update Interval: 341.882996
+[2026.03.22-17.54.28:132][271]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer.BTTask_AttackPlayer
+[2026.03.22-17.54.28:132][271]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.22-17.57.10:014][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3606.256836
+[2026.03.22-17.57.11:015][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-17.57.11:015][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3606.923584, Update Interval: 357.332062
+[2026.03.22-17.58.55:805][795]LogDerivedDataCache: C:/Users/Benjamin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.22-18.04.05:063][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4021.307129
+[2026.03.22-18.04.06:065][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.04.06:065][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4021.973877, Update Interval: 318.556488
+[2026.03.22-18.06.25:533][146]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-18.06.25:534][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-18.06.25:615][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.22-18.09.57:677][ 42]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4373.932617
+[2026.03.22-18.09.58:676][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.09.58:676][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4374.604004, Update Interval: 337.208160
+[2026.03.22-18.16.17:252][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4753.491699
+[2026.03.22-18.16.18:253][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.16.18:253][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4754.158203, Update Interval: 346.118347
+[2026.03.22-18.17.10:428][603]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2026.03.22-18.17.10:577][603]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.17.10:578][603]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-18.17.10:911][604]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.17.10:913][604]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{156372fa-149f-4ffa-84f3-58dbc58c1fed}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.78
+[2026.03.22-18.17.10:913][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-18.17.10:915][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-18.22.45:298][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5141.540039
+[2026.03.22-18.22.46:298][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.22.46:298][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5142.207031, Update Interval: 307.578979
+[2026.03.22-18.28.32:339][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5488.582031
+[2026.03.22-18.28.33:340][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.28.33:340][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5489.249512, Update Interval: 318.256165
+[2026.03.22-18.34.27:716][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5843.967285
+[2026.03.22-18.34.28:717][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.34.28:717][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5844.637207, Update Interval: 327.715698
+[2026.03.22-18.40.56:428][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6232.678711
+[2026.03.22-18.40.57:428][883]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.40.57:428][883]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6233.345215, Update Interval: 313.075958
+[2026.03.22-18.46.56:464][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6592.718750
+[2026.03.22-18.46.57:464][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.46.57:464][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6593.384766, Update Interval: 302.596527
+[2026.03.22-18.50.20:201][571]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.22-18.50.20:523][572]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.50.20:523][572]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-18.50.20:856][573]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.50.20:858][573]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=39.70
+[2026.03.22-18.50.20:858][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-18.50.20:860][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-18.52.03:618][123]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Razer Seiren X), InstanceID=1
+[2026.03.22-18.52.03:791][124]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.52.03:791][124]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-18.52.03:838][125]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.52.03:840][125]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{156372fa-149f-4ffa-84f3-58dbc58c1fed}, Name=Speakers (Razer Seiren X)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.11
+[2026.03.22-18.52.03:840][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-18.52.03:842][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-18.52.06:266][134]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (NVIDIA High Definition Audio), InstanceID=1
+[2026.03.22-18.52.06:510][134]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.52.06:510][134]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7540
+[2026.03.22-18.52.06:582][137]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.03.22-18.52.06:584][137]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{e2a22b43-a34e-4847-b6da-da91b671608a}, Name=SAMSUNG (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=56.68
+[2026.03.22-18.52.06:584][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.03.22-18.52.06:586][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.03.22-18.52.37:273][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6933.521484
+[2026.03.22-18.52.37:433][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.52.37:433][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6933.666016, Update Interval: 333.483704
+[2026.03.22-18.58.32:451][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.22-18.58.32:453][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2026.03.22-18.58.32:454][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.22-18.58.32:454][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.22-18.58.32:457][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto2
+[2026.03.22-18.58.32:458][645]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI_Auto2BB45E64648B5AFB5322AF7A1139A0325.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto2.uasset'
+[2026.03.22-18.58.32:459][645]LogFileHelpers: Auto-saving content packages took 0.006
+[2026.03.22-18.58.54:782][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTService_UpdateAttackRange.BTService_UpdateAttackRange
+[2026.03.22-18.58.54:784][961]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.22-18.58.55:805][  8]LogDerivedDataCache: C:/Users/Benjamin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.22-18.59.03:606][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7319.840332
+[2026.03.22-18.59.03:768][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-18.59.03:769][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7319.986328, Update Interval: 301.309235
+[2026.03.22-19.02.53:427][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.22-19.02.54:281][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.02.54:345][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTService_UpdateAttackRange] ([2] browsable assets)...
+[2026.03.22-19.02.54:345][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTService_UpdateAttackRange]
+[2026.03.22-19.02.54:352][166]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTService_UpdateAttackRange
+[2026.03.22-19.02.54:352][166]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTService_UpdateAttackRange966C1EFC4C1CB71F276F22AEC1D71A62.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTService_UpdateAttackRange.uasset'
+[2026.03.22-19.02.54:361][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.748 ms (total: 328.282 ms)
+[2026.03.22-19.02.54:391][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.02.54:392][166]LogContentValidation: Enabled validators:
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.02.54:392][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.02.54:392][166]AssetCheck: /Game/ZombieCharacter/Blueprints/BTService_UpdateAttackRange Validating asset
+[2026.03.22-19.03.01:863][611]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer.BTTask_AttackPlayer
+[2026.03.22-19.03.01:863][611]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.22-19.03.51:700][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.22-19.03.52:497][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.03.52:553][801]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer] ([2] browsable assets)...
+[2026.03.22-19.03.52:553][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer]
+[2026.03.22-19.03.52:556][801]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer
+[2026.03.22-19.03.52:557][801]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_AttackPlayer21C4ED664160AE76A0528286D0B74FEB.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTTask_AttackPlayer.uasset'
+[2026.03.22-19.03.52:566][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.619 ms (total: 395.901 ms)
+[2026.03.22-19.03.52:589][801]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.03.52:589][801]LogContentValidation: Enabled validators:
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.03.52:589][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.03.52:589][801]AssetCheck: /Game/ZombieCharacter/Blueprints/BTTask_AttackPlayer Validating asset
+[2026.03.22-19.04.06:879][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer.BTTask_ChasePlayer
+[2026.03.22-19.04.06:879][671]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.22-19.04.41:071][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7657.284180
+[2026.03.22-19.04.41:244][786]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.04.41:244][786]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7657.441895, Update Interval: 307.829834
+[2026.03.22-19.05.05:493][299]LogEditorTransaction: Undo Rename Node
+[2026.03.22-19.05.05:936][313]LogEditorTransaction: Undo Add Node
+[2026.03.22-19.05.09:416][522]LogEditorTransaction: Undo Add Node
+[2026.03.22-19.05.46:525][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_Patrol.BTTask_Patrol
+[2026.03.22-19.05.46:525][734]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.22-19.07.01:039][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.22-19.07.01:996][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.07.02:052][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_Patrol] ([2] browsable assets)...
+[2026.03.22-19.07.02:052][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_Patrol]
+[2026.03.22-19.07.02:055][480]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/BTTask_Patrol
+[2026.03.22-19.07.02:055][480]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_PatrolC61EF1754AD806BE041F0D9DB69479B3.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/BTTask_Patrol.uasset'
+[2026.03.22-19.07.02:063][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.798 ms (total: 462.700 ms)
+[2026.03.22-19.07.02:092][480]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.07.02:092][480]LogContentValidation: Enabled validators:
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.07.02:092][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.07.02:093][480]AssetCheck: /Game/ZombieCharacter/Blueprints/BTTask_Patrol Validating asset
+[2026.03.22-19.07.21:456][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed.BTTask_WalkSpeed
+[2026.03.22-19.07.21:457][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.22-19.07.57:107][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ZombieCharacter/Blueprints/ZC_AIController.ZC_AIController
+[2026.03.22-19.07.57:107][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.22-19.08.37:797][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.22-19.08.37:798][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.049
+[2026.03.22-19.08.37:798][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI] ([1] browsable assets)...
+[2026.03.22-19.08.37:798][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BT_ZC_AI]
+[2026.03.22-19.08.37:804][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto3
+[2026.03.22-19.08.37:804][423]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BT_ZC_AI_Auto328FC79D64C9D9ADF1955B49EE2B8FD59.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BT_ZC_AI_Auto3.uasset'
+[2026.03.22-19.08.37:805][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer] ([2] browsable assets)...
+[2026.03.22-19.08.37:805][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer]
+[2026.03.22-19.08.37:809][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer_Auto3
+[2026.03.22-19.08.37:809][423]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_ChasePlayer_Auto3EC0ACA974851DEAFBF46E592FDA94496.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BTTask_ChasePlayer_Auto3.uasset'
+[2026.03.22-19.08.37:810][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed] ([2] browsable assets)...
+[2026.03.22-19.08.37:810][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed]
+[2026.03.22-19.08.37:814][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed_Auto3
+[2026.03.22-19.08.37:814][423]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/BTTask_WalkSpeed_Auto3A0488D1D44DEBE25A0C49B999278A55E.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Blueprints/BTTask_WalkSpeed_Auto3.uasset'
+[2026.03.22-19.08.37:815][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying] ([1] browsable assets)...
+[2026.03.22-19.08.37:815][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying]
+[2026.03.22-19.08.37:822][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Auto3
+[2026.03.22-19.08.37:822][423]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying_Auto3DE59132C44D6E87C0C89E8ACAA115FBE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Auto3.uasset'
+[2026.03.22-19.08.37:823][423]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage] ([1] browsable assets)...
+[2026.03.22-19.08.37:823][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Animations/Zombie_Dying_Montage]
+[2026.03.22-19.08.37:825][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Montage_Auto3
+[2026.03.22-19.08.37:825][423]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Zombie_Dying_Montage_Auto335BEAA074ABCA9463853A7B6B87617D6.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/Autosaves/Game/ZombieCharacter/Animations/Zombie_Dying_Montage_Auto3.uasset'
+[2026.03.22-19.08.37:825][423]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.03.22-19.10.22:996][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7999.222656
+[2026.03.22-19.10.23:202][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.22-19.10.23:202][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7999.413574, Update Interval: 337.927795
+[2026.03.22-19.12.52:205][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.22-19.12.52:861][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.22-19.12.52:918][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ZombieCharacter/Blueprints/ZC_AIController] ([2] browsable assets)...
+[2026.03.22-19.12.52:919][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZombieCharacter/Blueprints/ZC_AIController]
+[2026.03.22-19.12.52:926][ 69]LogSavePackage: Moving output files for package: /Game/ZombieCharacter/Blueprints/ZC_AIController
+[2026.03.22-19.12.52:927][ 69]LogSavePackage: Moving '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Saved/ZC_AIControllerA15D97CF47131C0B8570F9A771272BDE.tmp' to '../../../../../../Users/Benjamin/Documents/GitHub/UnrealProject/UnrealProject/Content/ZombieCharacter/Blueprints/ZC_AIController.uasset'
+[2026.03.22-19.12.52:936][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.337 ms (total: 539.037 ms)
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: Enabled validators:
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.22-19.12.52:961][ 69]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.22-19.12.52:961][ 69]AssetCheck: /Game/ZombieCharacter/Blueprints/ZC_AIController Validating asset
+[2026.03.22-19.12.58:953][414]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_146
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:498][625]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_147
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:538][626]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_148
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:554][627]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_149
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:571][628]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_150
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:588][629]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_151
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:604][630]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_152
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:650][631]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_153
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:666][632]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_154
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:683][633]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_155
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:698][634]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_156
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:730][635]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_157
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:747][636]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_158
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:766][637]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_159
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:785][638]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_160
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:805][639]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_161
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:824][640]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_162
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:844][641]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_163
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:863][642]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_164
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:883][643]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_165
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:900][644]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_166
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:920][645]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_167
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:939][646]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_168
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:959][647]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_169
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:976][648]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_170
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.02:996][649]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_171
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:014][650]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_172
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:033][651]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_173
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:051][652]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_174
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:070][653]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_175
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:089][654]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_176
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:109][655]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_177
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:128][656]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_178
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:146][657]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_179
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:165][658]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_180
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:325][666]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_181
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:364][667]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_182
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.03:378][668]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter
+[2026.03.22-19.13.03:379][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.22-19.13.03:452][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.22-19.13.03:458][668]LogStreaming: Display: FlushAsyncLoading(670): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.22-19.13.03:537][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.22-19.13.03:538][668]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:029][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.22-19.13.04:335][668]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:522][669]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:586][670]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_183
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:586][670]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:616][671]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:669][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_ZombieCharacter_C_184
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:670][672]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:692][673]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:714][674]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:736][675]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:760][676]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:782][677]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:805][678]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:828][679]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:850][680]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.04:873][681]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_ZombieCharacter_C /Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_ZombieCharacter_C_0
+	Function /Game/ZombieCharacter/Animations/ABP_ZombieCharacter.ABP_ZombieCharacter_C:ExecuteUbergraph_ABP_ZombieCharacter:0040
+[2026.03.22-19.13.07:394][794]LogSlate: Window 'ABP_ZombieCharacter' being destroyed
+[2026.03.22-19.13.07:401][794]LogSlate: Window 'ABP_ZombieCharacter' being destroyed
+[2026.03.22-19.13.07:405][794]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:405][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:514][794]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:515][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:547][794]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:547][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:578][794]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:578][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:608][794]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:608][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:637][794]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:637][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:663][794]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.22-19.13.07:663][794]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:663][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:702][794]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:702][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:717][794]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:717][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:761][794]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.03.22-19.13.07:762][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.22-19.13.07:807][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
